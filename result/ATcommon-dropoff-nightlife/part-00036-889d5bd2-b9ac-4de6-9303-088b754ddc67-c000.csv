@@ -1,0 +1,2 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Stuy Town/Peter Cooper Village,77178,224,77178

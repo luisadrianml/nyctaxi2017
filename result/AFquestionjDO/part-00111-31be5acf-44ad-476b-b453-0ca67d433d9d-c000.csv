@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Battery Park City,1344,13,1344,4
+Queens,Old Astoria,1339,179,1339,3
+Brooklyn,Fort Greene,1327,97,1327,3
+Staten Island,South Beach/Dongan Hills,1327,214,1327,1
+Brooklyn,East Williamsburg,1326,80,1326,3

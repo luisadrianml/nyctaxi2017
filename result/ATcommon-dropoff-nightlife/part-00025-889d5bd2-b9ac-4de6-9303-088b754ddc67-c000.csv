@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Lenox Hill East,149065,140,149065
+Manhattan,Garment District,146558,100,146558

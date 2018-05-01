@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Heartland Village/Todt Hill,1258,118,1258,1
+Brooklyn,Starrett City,1246,222,1246,1
+Staten Island,Westerleigh,1220,251,1220,1
+Queens,Astoria,1188,7,1188,4
+Manhattan,Central Harlem North,1187,42,1187,4
+Brooklyn,Stuyvesant Heights,1174,225,1174,3

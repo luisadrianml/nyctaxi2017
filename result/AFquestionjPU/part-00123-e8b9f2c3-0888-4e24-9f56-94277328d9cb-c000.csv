@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,Grymes Hill/Clifton,165,115,165,1
+Brooklyn,South Williamsburg,165,217,165,3
+Queens,Cambria Heights,164,38,164,2
+Queens,Elmhurst,159,82,159,4
+Brooklyn,Clinton Hill,158,49,158,4
+Brooklyn,Marine Park/Floyd Bennett Field,158,154,158,1

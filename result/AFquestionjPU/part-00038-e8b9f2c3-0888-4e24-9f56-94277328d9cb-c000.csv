@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Washington Heights North,11935,243,11935,1
+Brooklyn,Prospect Heights,11752,189,11752,2
+Unknown,NA,11423,265,11423,2
+Brooklyn,Crown Heights North,11279,61,11279,2
+Bronx,West Concourse,11023,247,11023,2

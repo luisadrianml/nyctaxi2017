@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Central Harlem North,121467,42,121467
+Manhattan,Financial District South,114055,88,114055

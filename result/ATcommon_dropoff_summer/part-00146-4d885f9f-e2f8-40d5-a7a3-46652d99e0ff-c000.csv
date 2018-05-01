@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Queensboro Hill,2483,192,2483
+Queens,Bay Terrace/Fort Totten,2467,15,2467

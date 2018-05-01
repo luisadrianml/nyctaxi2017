@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Gravesend,85,108,85
+Queens,Whitestone,85,252,85
+Bronx,Bronx Park,85,31,85
+Brooklyn,Marine Park/Mill Basin,85,155,85

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,East New York,4289,76,4289
+Queens,Kew Gardens,4257,134,4257

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,East Village,2022868,79,2022868,1
+Manhattan,Times Sq/Theatre District,1998804,230,1998804,1
+Manhattan,Lincoln Square East,1952848,142,1952848,1
+Manhattan,Penn Station/Madison Sq West,1897339,186,1897339,1
+Manhattan,Upper West Side South,1888942,239,1888942,1

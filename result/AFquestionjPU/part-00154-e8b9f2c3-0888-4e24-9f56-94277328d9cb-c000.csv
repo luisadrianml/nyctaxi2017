@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,South Beach/Dongan Hills,33,214,33,1
+Bronx,Pelham Bay Park,33,184,33,2
+Queens,Queensboro Hill,33,192,33,3
+Staten Island,New Dorp/Midland Beach,33,172,33,1
+Queens,Kew Gardens,33,134,33,4
+Brooklyn,East New York,33,76,33,4
+Manhattan,Governor's Island/Ellis Island/Liberty Island,33,105,33,2

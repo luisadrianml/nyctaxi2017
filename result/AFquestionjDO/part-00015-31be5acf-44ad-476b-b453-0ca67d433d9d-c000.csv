@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Kips Bay,442776,137,442776,2
+Manhattan,Clinton West,439234,50,439234,2
+Manhattan,Central Harlem,437747,41,437747,1
+Manhattan,Yorkville East,421447,262,421447,2
+Manhattan,Lincoln Square West,390250,143,390250,2

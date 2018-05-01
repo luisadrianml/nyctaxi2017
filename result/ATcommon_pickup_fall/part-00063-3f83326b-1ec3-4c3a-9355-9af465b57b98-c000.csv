@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East Williamsburg,12897,80,12897
+Brooklyn,Clinton Hill,9153,49,9153

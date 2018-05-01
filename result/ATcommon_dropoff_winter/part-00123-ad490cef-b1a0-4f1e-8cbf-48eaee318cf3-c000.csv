@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Cypress Hills,3399,63,3399
+Bronx,Schuylerville/Edgewater Park,3382,208,3382

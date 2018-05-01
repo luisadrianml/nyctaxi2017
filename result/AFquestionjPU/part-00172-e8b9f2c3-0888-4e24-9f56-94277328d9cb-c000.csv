@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Coney Island,11,55,11,4
+Queens,Willets Point,11,253,11,3
+Bronx,Spuyten Duyvil/Kingsbridge,11,220,11,4

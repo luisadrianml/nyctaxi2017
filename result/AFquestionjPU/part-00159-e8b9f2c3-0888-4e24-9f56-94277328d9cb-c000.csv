@@ -1,0 +1,9 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,North Corona,24,173,24,4
+Brooklyn,Red Hook,24,195,24,4
+Brooklyn,Ocean Hill,24,177,24,4
+Staten Island,Port Richmond,24,187,24,1
+Queens,Middle Village,24,160,24,4
+Queens,Fresh Meadows,24,98,24,3
+Queens,Ridgewood,24,198,24,4
+Brooklyn,Marine Park/Mill Basin,24,155,24,3

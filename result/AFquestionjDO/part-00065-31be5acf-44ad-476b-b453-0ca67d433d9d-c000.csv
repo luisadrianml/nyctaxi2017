@@ -1,0 +1,8 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Glendale,7551,102,7551,1
+Queens,North Corona,7542,173,7542,1
+Manhattan,Lower East Side,7541,148,7541,3
+Queens,Fresh Meadows,7436,98,7436,1
+Bronx,Schuylerville/Edgewater Park,7406,208,7406,1
+Manhattan,Lenox Hill East,7387,140,7387,3
+Bronx,Kingsbridge Heights,7387,136,7387,2

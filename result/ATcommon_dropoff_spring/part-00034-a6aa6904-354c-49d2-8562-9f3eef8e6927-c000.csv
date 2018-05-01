@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Manhattan Valley,242703,151,242703
+Manhattan,East Harlem North,237482,74,237482

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+EWR,Newark Airport,173708,1,173708,1
+Manhattan,Hudson Sq,168146,125,168146,2
+Brooklyn,Clinton Hill,164103,49,164103,1
+Manhattan,Financial District South,162045,88,162045,2
+Brooklyn,Downtown Brooklyn/MetroTech,160210,65,160210,1

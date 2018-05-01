@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Great Kills,5,109,5
+Staten Island,Arden Heights,5,5,5

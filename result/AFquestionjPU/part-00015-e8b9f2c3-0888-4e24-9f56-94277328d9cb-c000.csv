@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,UN/Turtle Bay South,443973,233,443973,2
+Manhattan,World Trade Center,426383,261,426383,1
+Manhattan,Yorkville East,425907,262,425907,2
+Manhattan,East Harlem South,410295,75,410295,1
+Manhattan,Kips Bay,406625,137,406625,2

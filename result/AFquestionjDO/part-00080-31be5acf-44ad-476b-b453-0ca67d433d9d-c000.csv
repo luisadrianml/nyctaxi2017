@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Brighton Beach,4994,29,4994,1
+Brooklyn,Coney Island,4992,55,4992,2
+Queens,Ozone Park,4985,180,4985,2
+Brooklyn,Coney Island,4954,55,4954,1
+Brooklyn,Ocean Parkway South,4948,178,4948,1

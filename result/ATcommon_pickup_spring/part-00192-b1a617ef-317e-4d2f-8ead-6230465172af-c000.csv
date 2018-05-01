@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,West Brighton,12,245,12
+Staten Island,Port Richmond,12,187,12

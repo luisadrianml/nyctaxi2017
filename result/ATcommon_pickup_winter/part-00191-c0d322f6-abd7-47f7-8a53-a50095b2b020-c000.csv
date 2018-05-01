@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Rikers Island,4,199,4
+Queens,Breezy Point/Fort Tilden/Riis Beach,4,27,4
+Staten Island,Charleston/Tottenville,4,44,4
+Queens,Broad Channel,4,30,4

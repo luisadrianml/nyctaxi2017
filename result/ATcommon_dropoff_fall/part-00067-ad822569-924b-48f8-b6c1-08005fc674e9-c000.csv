@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Prospect Heights,30081,189,30081
+Brooklyn,Stuyvesant Heights,28924,225,28924

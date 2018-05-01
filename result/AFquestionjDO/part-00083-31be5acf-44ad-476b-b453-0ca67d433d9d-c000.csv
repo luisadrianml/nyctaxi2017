@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Saint Albans,4709,205,4709,1
+Queens,Cambria Heights,4675,38,4675,2
+Manhattan,Battery Park City,4668,13,4668,3
+Manhattan,Penn Station/Madison Sq West,4654,186,4654,4
+Manhattan,Upper East Side North,4630,236,4630,4

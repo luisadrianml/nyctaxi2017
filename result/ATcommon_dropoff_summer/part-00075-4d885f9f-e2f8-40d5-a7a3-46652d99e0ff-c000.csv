@@ -1,0 +1,2 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Queensbridge/Ravenswood,19476,193,19476

@@ -1,0 +1,12 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Laurelton,5,139,5,4
+Bronx,Belmont,5,20,5,4
+Staten Island,Arrochar/Fort Wadsworth,5,6,5,4
+Brooklyn,Green-Wood Cemetery,5,111,5,3
+Queens,Breezy Point/Fort Tilden/Riis Beach,5,27,5,2
+Bronx,Pelham Bay,5,183,5,4
+Queens,Glendale,5,102,5,4
+Bronx,Schuylerville/Edgewater Park,5,208,5,4
+Brooklyn,Dyker Heights,5,67,5,4
+Queens,Cambria Heights,5,38,5,4
+Bronx,Van Cortlandt Village,5,241,5,4

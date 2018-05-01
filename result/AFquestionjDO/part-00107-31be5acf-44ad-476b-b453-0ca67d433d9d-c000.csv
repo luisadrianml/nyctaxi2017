@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Central Park,1728,43,1728,4
+EWR,Newark Airport,1728,1,1728,3
+Manhattan,Stuy Town/Peter Cooper Village,1698,224,1698,3
+Queens,Hollis,1670,122,1670,1
+Brooklyn,Crown Heights North,1653,61,1653,3

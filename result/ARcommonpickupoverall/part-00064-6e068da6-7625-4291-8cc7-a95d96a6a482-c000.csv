@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Prospect Heights,33027,189,33027
+Queens,Elmhurst,32939,82,32939

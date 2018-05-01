@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Claremont/Bathgate,2928,47,2928
+Queens,South Jamaica,2920,215,2920

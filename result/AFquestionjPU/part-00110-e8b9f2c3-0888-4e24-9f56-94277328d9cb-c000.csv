@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,South Ozone Park,305,216,305,3
+Bronx,Co-Op City,305,51,305,1
+Brooklyn,East New York/Pennsylvania Avenue,300,77,300,2
+Queens,Queensbridge/Ravenswood,299,193,299,4
+Queens,Flushing,296,92,296,3

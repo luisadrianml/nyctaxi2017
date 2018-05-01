@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Brooklyn Heights,124367,33,124367
+Queens,Long Island City/Queens Plaza,123124,146,123124

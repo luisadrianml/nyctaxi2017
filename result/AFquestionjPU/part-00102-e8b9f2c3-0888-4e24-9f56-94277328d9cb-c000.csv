@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Hillcrest/Pomonok,383,121,383,1
+Brooklyn,Flatbush/Ditmas Park,382,89,382,3
+Brooklyn,DUMBO/Vinegar Hill,381,66,381,3
+Manhattan,Stuy Town/Peter Cooper Village,372,224,372,4
+Queens,Jamaica Estates,369,131,369,1

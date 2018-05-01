@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Murray Hill-Queens,188,171,188,3
+Bronx,Longwood,188,147,188,3
+Brooklyn,Dyker Heights,186,67,186,3
+Bronx,Williamsbridge/Olinville,186,254,186,3
+Bronx,East Concourse/Concourse Village,185,69,185,4
+Staten Island,Arden Heights,185,5,185,2

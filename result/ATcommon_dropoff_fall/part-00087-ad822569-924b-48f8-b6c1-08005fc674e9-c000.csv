@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Rego Park,9927,196,9927
+Brooklyn,South Williamsburg,9537,217,9537

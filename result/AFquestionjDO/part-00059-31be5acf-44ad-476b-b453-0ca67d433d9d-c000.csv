@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Soundview/Castle Hill,8850,213,8850,2
+Bronx,Highbridge,8835,119,8835,1
+Queens,LaGuardia Airport,8831,138,8831,3
+Queens,Saint Albans,8755,205,8755,2
+Bronx,Van Cortlandt Village,8700,241,8700,1

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East Flatbush/Farragut,272,71,272
+Brooklyn,Cypress Hills,265,63,265

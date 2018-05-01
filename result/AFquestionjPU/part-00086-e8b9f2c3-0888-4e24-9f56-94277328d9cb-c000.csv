@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Parkchester,706,182,706,2
+Queens,Queensboro Hill,702,192,702,2
+Queens,Astoria,697,7,697,4
+Bronx,East Tremont,695,78,695,2
+Brooklyn,Sunset Park East,688,227,688,1

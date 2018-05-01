@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Windsor Terrace,13752,257,13752
+Manhattan,Roosevelt Island,12655,202,12655

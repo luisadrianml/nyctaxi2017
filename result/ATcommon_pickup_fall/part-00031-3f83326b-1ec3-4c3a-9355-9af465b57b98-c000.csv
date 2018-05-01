@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Manhattan Valley,237574,151,237574
+Manhattan,SoHo,235824,211,235824

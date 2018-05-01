@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Penn Station/Madison Sq West,15063,186,15063,3
+Brooklyn,Prospect Park,15050,190,15050,1
+Queens,Richmond Hill,14683,197,14683,2
+Bronx,Highbridge,14657,119,14657,2
+Queens,Springfield Gardens South,14647,219,14647,2
+Manhattan,Upper East Side North,14445,236,14445,3

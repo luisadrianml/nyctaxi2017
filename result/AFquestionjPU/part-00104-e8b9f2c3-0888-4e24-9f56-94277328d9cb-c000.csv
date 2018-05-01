@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Saint Michaels Cemetery/Woodside,363,207,363,3
+Brooklyn,Park Slope,362,181,362,4
+Brooklyn,Williamsburg (North Side),360,255,360,4
+Brooklyn,Coney Island,358,55,358,2

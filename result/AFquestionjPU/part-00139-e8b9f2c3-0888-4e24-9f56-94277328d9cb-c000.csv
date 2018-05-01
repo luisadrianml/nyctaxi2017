@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Erasmus,75,85,75,3
+Brooklyn,Brownsville,74,35,74,3
+Queens,Hammels/Arverne,74,117,74,2
+Staten Island,Bloomfield/Emerson Hill,74,23,74,2

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Midtown South,830128,164,830128,2
+Manhattan,Battery Park City,830014,13,830014,1
+Manhattan,Upper West Side South,824923,239,824923,2
+Manhattan,East Harlem South,801152,75,801152,1
+Manhattan,Central Park,785693,43,785693,1

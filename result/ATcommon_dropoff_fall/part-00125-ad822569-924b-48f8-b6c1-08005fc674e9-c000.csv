@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Soundview/Bruckner,3245,212,3245
+Bronx,Schuylerville/Edgewater Park,3192,208,3192

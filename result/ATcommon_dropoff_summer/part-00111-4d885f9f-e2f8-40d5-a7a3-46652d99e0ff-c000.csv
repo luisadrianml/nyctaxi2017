@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,East Flatbush/Farragut,4753,71,4753
+Bronx,Van Cortlandt Village,4611,241,4611

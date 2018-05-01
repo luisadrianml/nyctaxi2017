@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,South Beach/Dongan Hills,474,214,474
+Staten Island,Heartland Village/Todt Hill,470,118,470

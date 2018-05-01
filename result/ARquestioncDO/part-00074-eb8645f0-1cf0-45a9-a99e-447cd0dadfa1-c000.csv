@@ -1,0 +1,2 @@
+DO_Borough,count(DO_Borough),(CAST((count(DO_Borough) * CAST(100 AS BIGINT)) AS DOUBLE) / CAST(scalarsubquery() AS DOUBLE))
+EWR,220031,0.19386848993441808

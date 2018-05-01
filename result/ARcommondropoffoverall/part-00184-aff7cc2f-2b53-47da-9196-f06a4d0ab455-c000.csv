@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Mariners Harbor,1284,156,1284
+Staten Island,West Brighton,1194,245,1194

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Sutton Place/Turtle Bay North,8442,229,8442,3
+Bronx,Mount Hope,8438,169,8438,1
+Manhattan,West Chelsea/Hudson Yards,8438,246,8438,3
+Queens,Murray Hill-Queens,8408,171,8408,2
+Manhattan,West Village,8342,249,8342,3
+Brooklyn,East Flatbush/Farragut,8331,71,8331,1

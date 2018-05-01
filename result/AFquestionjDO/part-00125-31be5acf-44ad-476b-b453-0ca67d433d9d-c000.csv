@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Jamaica,562,130,562,3
+Brooklyn,Marine Park/Floyd Bennett Field,559,154,559,2
+Queens,Breezy Point/Fort Tilden/Riis Beach,559,27,559,1
+Manhattan,Battery Park,558,12,558,3
+Queens,Woodside,558,260,558,4

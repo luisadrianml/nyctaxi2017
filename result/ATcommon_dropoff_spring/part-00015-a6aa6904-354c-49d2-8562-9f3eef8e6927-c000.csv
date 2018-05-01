@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Yorkville West,535432,263,535432
+Manhattan,Sutton Place/Turtle Bay North,528420,229,528420

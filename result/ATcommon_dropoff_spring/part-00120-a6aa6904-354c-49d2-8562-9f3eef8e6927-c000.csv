@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Homecrest,4302,123,4302
+Queens,Murray Hill-Queens,4254,171,4254

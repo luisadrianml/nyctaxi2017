@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Borough Park,621,26,621
+Queens,Kew Gardens Hills,575,135,575
+Bronx,University Heights/Morris Heights,575,235,575

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Sutton Place/Turtle Bay North,225579,229,225579
+Manhattan,Lincoln Square East,218684,142,218684

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Lincoln Square East,2194590,142,2194590,1
+Manhattan,Gramercy,1971882,107,1971882,1
+Manhattan,Midtown North,1942184,163,1942184,1
+Manhattan,Upper West Side South,1936974,239,1936974,1
+Manhattan,East Chelsea,1837780,68,1837780,1

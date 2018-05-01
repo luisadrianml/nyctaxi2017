@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,TriBeCa/Civic Center,233894,231,233894
+Manhattan,Little Italy/NoLiTa,227323,144,227323

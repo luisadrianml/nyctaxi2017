@@ -1,0 +1,2 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,DUMBO/Vinegar Hill,41657,66,41657

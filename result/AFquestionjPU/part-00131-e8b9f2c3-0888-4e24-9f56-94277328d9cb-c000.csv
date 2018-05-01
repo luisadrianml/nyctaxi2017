@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Ocean Hill,114,177,114,3
+Queens,Laurelton,113,139,113,2
+Bronx,Van Cortlandt Park,112,240,112,1
+Queens,Kew Gardens,111,134,111,3
+Manhattan,Roosevelt Island,106,202,106,3

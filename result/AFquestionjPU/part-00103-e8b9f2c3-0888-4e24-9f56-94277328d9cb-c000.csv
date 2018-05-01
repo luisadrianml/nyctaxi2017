@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Madison,367,149,367,1
+Queens,Flushing Meadows-Corona Park,367,93,367,3
+Bronx,Westchester Village/Unionport,367,250,367,1
+Manhattan,Inwood Hill Park,366,128,366,1
+Bronx,Van Cortlandt Village,366,241,366,1
+Brooklyn,Gravesend,366,108,366,1

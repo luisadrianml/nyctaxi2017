@@ -1,0 +1,2 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,East Flatbush/Farragut,17755,71,17755

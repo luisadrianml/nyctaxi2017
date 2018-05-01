@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Van Cortlandt Village,3941,241,3941
+Brooklyn,Erasmus,3917,85,3917

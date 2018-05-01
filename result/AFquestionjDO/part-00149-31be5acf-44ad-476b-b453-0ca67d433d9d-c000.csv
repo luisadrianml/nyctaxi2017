@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Elmhurst/Maspeth,195,83,195,4
+Bronx,Parkchester,193,182,193,3
+Brooklyn,Cypress Hills,191,63,191,3
+Queens,Glendale,190,102,190,3
+Brooklyn,Bensonhurst East,189,21,189,3

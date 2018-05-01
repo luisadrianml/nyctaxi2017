@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Morrisania/Melrose,10686,167,10686,2
+Brooklyn,Bensonhurst West,10684,22,10684,1
+Queens,Corona,10655,56,10655,1
+Brooklyn,Dyker Heights,10537,67,10537,1
+Queens,Richmond Hill,10219,197,10219,1

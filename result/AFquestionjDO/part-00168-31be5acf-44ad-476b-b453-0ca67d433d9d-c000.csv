@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Roosevelt Island,77,202,77,4
+Bronx,Woodlawn/Wakefield,77,259,77,4
+Queens,Glendale,77,102,77,4
+Queens,Kew Gardens Hills,76,135,76,4
+Bronx,Hunts Point,75,126,75,4
+Bronx,Williamsbridge/Olinville,75,254,75,4

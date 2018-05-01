@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Allerton/Pelham Gardens,80,3,80
+Bronx,Van Cortlandt Park,80,240,80
+Queens,Laurelton,80,139,80

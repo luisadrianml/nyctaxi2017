@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Manhattan Beach,5729,150,5729
+Queens,Far Rockaway,5584,86,5584

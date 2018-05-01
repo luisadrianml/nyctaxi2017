@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,World Trade Center,1301,261,1301,4
+Brooklyn,Ocean Hill,1297,177,1297,2
+Manhattan,Seaport,1289,209,1289,3
+Manhattan,Battery Park City,1285,13,1285,4
+Bronx,Mount Hope,1267,169,1267,2

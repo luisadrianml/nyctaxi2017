@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Prospect-Lefferts Gardens,19550,188,19550
+Manhattan,Battery Park,19546,12,19546

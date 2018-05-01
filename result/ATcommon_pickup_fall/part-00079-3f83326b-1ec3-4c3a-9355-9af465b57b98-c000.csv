@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,South Williamsburg,2333,217,2333
+Queens,South Ozone Park,2291,216,2291

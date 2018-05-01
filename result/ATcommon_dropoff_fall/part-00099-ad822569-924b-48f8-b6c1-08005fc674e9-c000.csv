@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Richmond Hill,5974,197,5974
+Brooklyn,Borough Park,5706,26,5706

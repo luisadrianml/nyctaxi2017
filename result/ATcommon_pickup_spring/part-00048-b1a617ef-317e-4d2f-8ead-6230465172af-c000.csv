@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Park Slope,38356,181,38356
+Brooklyn,Williamsburg (South Side),38329,256,38329

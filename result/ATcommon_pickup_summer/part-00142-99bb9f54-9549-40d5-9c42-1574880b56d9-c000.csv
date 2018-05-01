@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Murray Hill-Queens,192,171,192
+Brooklyn,Dyker Heights,192,67,192
+Bronx,Belmont,192,20,192

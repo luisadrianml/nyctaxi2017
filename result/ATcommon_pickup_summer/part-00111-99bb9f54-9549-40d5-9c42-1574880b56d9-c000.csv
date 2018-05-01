@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Midwood,426,165,426
+Brooklyn,Bensonhurst West,411,22,411

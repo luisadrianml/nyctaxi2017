@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Middle Village,125,160,125,4
+Bronx,Bronxdale,122,32,122,3
+Brooklyn,Kensington,121,133,121,4
+Bronx,University Heights/Morris Heights,121,235,121,4
+Queens,Flushing Meadows-Corona Park,119,93,119,4

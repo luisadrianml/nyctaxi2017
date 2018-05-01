@@ -1,0 +1,2 @@
+VendorID,count(VendorID),(CAST((count(VendorID) * CAST(100 AS BIGINT)) AS DOUBLE) / CAST(scalarsubquery() AS DOUBLE))
+2,62335355,54.92344780224549

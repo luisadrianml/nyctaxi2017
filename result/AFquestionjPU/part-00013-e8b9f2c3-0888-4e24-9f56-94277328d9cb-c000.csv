@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Lenox Hill East,605658,140,605658,2
+Manhattan,Central Park,599309,43,599309,2
+Manhattan,Flatiron,586930,90,586930,2
+Manhattan,TriBeCa/Civic Center,560535,231,560535,2
+Unknown,NV,550168,264,550168,2

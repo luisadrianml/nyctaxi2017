@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Park Slope,584,181,584,4
+Manhattan,Inwood,584,127,584,3
+Brooklyn,Carroll Gardens,574,40,574,3
+Brooklyn,Greenpoint,571,112,571,4
+Bronx,East Concourse/Concourse Village,568,69,568,3
+Bronx,City Island,568,46,568,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Bellerose,6633,19,6633
+Queens,Auburndale,6608,9,6608

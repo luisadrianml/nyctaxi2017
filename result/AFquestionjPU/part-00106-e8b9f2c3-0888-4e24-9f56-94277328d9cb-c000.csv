@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bensonhurst East,344,21,344,1
+Brooklyn,Fort Greene,341,97,341,4
+Queens,Whitestone,337,252,337,2
+Bronx,Claremont/Bathgate,335,47,335,1
+Bronx,Woodlawn/Wakefield,333,259,333,2

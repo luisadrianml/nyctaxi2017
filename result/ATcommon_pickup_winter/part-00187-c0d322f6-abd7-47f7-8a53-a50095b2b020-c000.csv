@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,New Dorp/Midland Beach,10,172,10
+Bronx,Country Club,10,58,10
+Bronx,Crotona Park,10,59,10
+Staten Island,Port Richmond,10,187,10

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,East Harlem North,867990,74,867990
+Manhattan,Morningside Heights,849373,166,849373

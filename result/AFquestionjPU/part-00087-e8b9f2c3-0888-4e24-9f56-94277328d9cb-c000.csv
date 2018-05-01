@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bensonhurst West,687,22,687,1
+Bronx,Van Cortlandt Village,682,241,682,2
+Bronx,Mount Hope,682,169,682,1
+Brooklyn,Sunset Park East,670,227,670,2
+Manhattan,Marble Hill,664,153,664,2

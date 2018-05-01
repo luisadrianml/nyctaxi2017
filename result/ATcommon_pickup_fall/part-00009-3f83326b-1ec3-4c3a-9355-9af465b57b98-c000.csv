@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Midtown North,760403,163,760403
+Manhattan,Upper West Side South,711858,239,711858

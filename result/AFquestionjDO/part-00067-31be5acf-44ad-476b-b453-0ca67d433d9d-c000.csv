@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Cypress Hills,7314,63,7314,2
+Manhattan,UN/Turtle Bay South,7260,233,7260,3
+Queens,Springfield Gardens South,7255,219,7255,1
+Queens,Whitestone,7136,252,7136,1
+Bronx,Norwood,7127,174,7127,1

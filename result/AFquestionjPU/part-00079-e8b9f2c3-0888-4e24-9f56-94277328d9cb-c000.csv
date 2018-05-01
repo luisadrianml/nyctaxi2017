@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Middle Village,912,160,912,2
+Manhattan,Morningside Heights,909,166,909,4
+Queens,Kew Gardens Hills,905,135,905,1
+Manhattan,Central Harlem,894,41,894,4
+Brooklyn,Midwood,893,165,893,2

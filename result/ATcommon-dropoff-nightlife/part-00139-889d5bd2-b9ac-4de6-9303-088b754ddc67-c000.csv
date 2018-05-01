@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Saint Albans,1777,205,1777
+Bronx,Bronxdale,1661,32,1661

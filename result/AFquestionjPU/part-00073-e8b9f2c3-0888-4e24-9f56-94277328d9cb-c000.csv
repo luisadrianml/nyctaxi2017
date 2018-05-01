@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Yorkville East,1368,262,1368,4
+Bronx,Spuyten Duyvil/Kingsbridge,1350,220,1350,2
+Manhattan,SoHo,1340,211,1340,4
+Bronx,Mott Haven/Port Morris,1334,168,1334,3
+Manhattan,Financial District North,1309,87,1309,4

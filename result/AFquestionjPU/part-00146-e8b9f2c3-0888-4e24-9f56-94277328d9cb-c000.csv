@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Kensington,49,133,49,4
+Queens,Queens Village,49,191,49,3
+Queens,Springfield Gardens South,49,219,49,4
+Brooklyn,East Flatbush/Farragut,49,71,49,3

@@ -1,0 +1,10 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,West Farms/Bronx River,12,248,12,4
+Brooklyn,Ocean Parkway South,12,178,12,4
+Queens,Forest Park/Highland Park,12,96,12,3
+Brooklyn,Cypress Hills,12,63,12,4
+Brooklyn,Manhattan Beach,12,150,12,3
+Staten Island,Port Richmond,12,187,12,2
+Brooklyn,Windsor Terrace,12,257,12,4
+Queens,Douglaston,12,64,12,3
+Brooklyn,Flatlands,12,91,12,4

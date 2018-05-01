@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Far Rockaway,1304,86,1304
+Bronx,Pelham Bay,1299,183,1299

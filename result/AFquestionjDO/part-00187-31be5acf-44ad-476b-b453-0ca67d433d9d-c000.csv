@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Pelham Bay,22,183,22,4
+Staten Island,Mariners Harbor,21,156,21,3
+Staten Island,Saint George/New Brighton,21,206,21,4
+Bronx,Pelham Bay Park,21,184,21,3

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Greenwich Village South,1146877,114,1146877,1
+Unknown,NV,1141688,264,1141688,1
+Manhattan,Lincoln Square East,1075915,142,1075915,2
+Manhattan,Midtown North,1073763,163,1073763,2
+Manhattan,Murray Hill,1051881,170,1051881,2

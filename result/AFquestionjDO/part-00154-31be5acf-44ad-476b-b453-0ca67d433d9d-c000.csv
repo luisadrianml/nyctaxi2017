@@ -1,0 +1,9 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Gowanus,163,106,163,4
+Brooklyn,Crown Heights South,163,62,163,4
+Queens,Richmond Hill,163,197,163,4
+Brooklyn,Prospect Heights,163,189,163,4
+Bronx,Co-Op City,162,51,162,3
+Brooklyn,Madison,162,149,162,3
+Queens,Bellerose,162,19,162,3
+Brooklyn,Columbia Street,162,54,162,3

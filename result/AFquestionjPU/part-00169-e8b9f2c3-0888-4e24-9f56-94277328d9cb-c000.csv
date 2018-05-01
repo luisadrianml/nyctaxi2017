@@ -1,0 +1,9 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Bronx Park,14,31,14,3
+Bronx,Kingsbridge Heights,14,136,14,4
+Brooklyn,Bensonhurst West,14,22,14,4
+Brooklyn,Marine Park/Floyd Bennett Field,14,154,14,3
+Manhattan,Inwood Hill Park,14,128,14,3
+Staten Island,Arrochar/Fort Wadsworth,14,6,14,3
+Brooklyn,East Flatbush/Remsen Village,14,72,14,4
+Staten Island,Rossville/Woodrow,14,204,14,2

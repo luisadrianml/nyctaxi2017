@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Midtown South,1826341,164,1826341,1
+Manhattan,West Village,1725529,249,1725529,1
+Manhattan,Lenox Hill West,1720563,141,1720563,1
+Queens,JFK Airport,1679655,132,1679655,1
+Manhattan,Upper East Side South,1553949,237,1553949,2

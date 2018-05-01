@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Elmhurst,8552,82,8552
+Brooklyn,Bushwick South,8271,37,8271

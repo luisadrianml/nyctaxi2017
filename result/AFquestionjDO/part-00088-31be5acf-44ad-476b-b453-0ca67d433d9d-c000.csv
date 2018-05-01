@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Financial District North,3947,87,3947,3
+Manhattan,Central Harlem,3942,41,3942,3
+Bronx,East Tremont,3820,78,3820,1
+Manhattan,Manhattan Valley,3688,151,3688,3
+Queens,East Flushing,3661,73,3661,2

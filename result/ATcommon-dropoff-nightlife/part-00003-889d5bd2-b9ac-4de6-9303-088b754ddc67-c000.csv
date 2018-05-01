@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Gramercy,307615,107,307615
+Manhattan,Penn Station/Madison Sq West,296032,186,296032

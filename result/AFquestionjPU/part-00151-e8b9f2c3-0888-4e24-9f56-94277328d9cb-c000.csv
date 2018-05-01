@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Schuylerville/Edgewater Park,38,208,38,3
+Queens,Briarwood/Jamaica Hills,38,28,38,4
+Queens,College Point,38,53,38,3
+Manhattan,Randalls Island,37,194,37,4
+Brooklyn,Bensonhurst East,37,21,37,3
+Brooklyn,Crown Heights South,37,62,37,4

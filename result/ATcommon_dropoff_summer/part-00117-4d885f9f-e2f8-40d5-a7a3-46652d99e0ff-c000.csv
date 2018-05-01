@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Erasmus,4075,85,4075
+Queens,Whitestone,4049,252,4049

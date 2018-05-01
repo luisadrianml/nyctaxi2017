@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,East New York/Pennsylvania Avenue,175,77,175,3
+Queens,Broad Channel,173,30,173,1
+Queens,Maspeth,173,157,173,4
+Brooklyn,East New York,170,76,170,4
+Bronx,West Concourse,169,247,169,4

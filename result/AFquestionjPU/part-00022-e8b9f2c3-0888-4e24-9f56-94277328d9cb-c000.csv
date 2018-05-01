@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Stuy Town/Peter Cooper Village,96710,224,96710,2
+Manhattan,Alphabet City,96433,4,96433,2
+Manhattan,Central Harlem North,95101,42,95101,2
+Brooklyn,Brooklyn Heights,84997,33,84997,1
+Queens,Sunnyside,84822,226,84822,1

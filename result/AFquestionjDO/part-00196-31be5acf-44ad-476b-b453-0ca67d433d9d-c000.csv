@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Arden Heights,3,5,3,4
+Queens,Broad Channel,3,30,3,4
+Staten Island,Charleston/Tottenville,3,44,3,4
+Staten Island,Rossville/Woodrow,3,204,3,4

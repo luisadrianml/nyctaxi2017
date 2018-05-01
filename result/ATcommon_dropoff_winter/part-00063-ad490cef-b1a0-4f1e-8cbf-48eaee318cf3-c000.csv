@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,DUMBO/Vinegar Hill,40879,66,40879
+Queens,Woodside,35370,260,35370

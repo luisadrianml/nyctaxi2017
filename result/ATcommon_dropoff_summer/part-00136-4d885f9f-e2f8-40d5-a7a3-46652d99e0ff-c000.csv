@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Pelham Parkway,3091,185,3091
+Queens,College Point,3040,53,3040

@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Inwood Hill Park,58,128,58
+Brooklyn,Green-Wood Cemetery,58,111,58
+Bronx,Van Cortlandt Park,58,240,58
+Bronx,Eastchester,58,81,58

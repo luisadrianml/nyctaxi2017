@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Greenwich Village South,338172,114,338172
+Manhattan,Lower East Side,316082,148,316082

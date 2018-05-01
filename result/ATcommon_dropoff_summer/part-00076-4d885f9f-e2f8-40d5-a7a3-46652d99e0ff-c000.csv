@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Sunset Park West,18113,228,18113
+Queens,Ridgewood,16351,198,16351

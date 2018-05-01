@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Manhattan Beach,178,150,178,2
+Queens,Cambria Heights,178,38,178,1
+Bronx,Allerton/Pelham Gardens,178,3,178,1
+Queens,Rego Park,175,196,175,3
+Queens,Laurelton,174,139,174,1
+Staten Island,Stapleton,174,221,174,1

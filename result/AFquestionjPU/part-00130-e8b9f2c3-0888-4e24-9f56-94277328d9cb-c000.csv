@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Bay Terrace/Fort Totten,116,15,116,2
+Brooklyn,Green-Wood Cemetery,115,111,115,2
+Queens,Hollis,115,122,115,1
+Brooklyn,Gowanus,115,106,115,4

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Sutton Place/Turtle Bay North,2551,229,2551,4
+Bronx,Crotona Park East,2521,60,2521,1
+Queens,Long Island City/Queens Plaza,2506,146,2506,3
+Queens,Rockaway Park,2496,201,2496,1
+Manhattan,Highbridge Park,2471,120,2471,1

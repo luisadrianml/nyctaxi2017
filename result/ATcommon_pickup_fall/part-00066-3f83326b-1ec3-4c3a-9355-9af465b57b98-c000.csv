@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Prospect Heights,6919,189,6919
+Brooklyn,Bushwick South,6259,37,6259

@@ -1,0 +1,10 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,Bloomfield/Emerson Hill,16,23,16,3
+Bronx,Norwood,16,174,16,4
+Brooklyn,Prospect Park,16,190,16,4
+Queens,College Point,16,53,16,4
+Queens,Broad Channel,16,30,16,1
+Bronx,Crotona Park,16,59,16,1
+Staten Island,Great Kills,16,109,16,2
+Queens,Far Rockaway,16,86,16,3
+Queens,Glen Oaks,16,101,16,4

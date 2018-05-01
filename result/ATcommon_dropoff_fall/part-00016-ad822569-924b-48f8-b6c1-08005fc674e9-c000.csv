@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Lenox Hill East,483321,140,483321
+Manhattan,TriBeCa/Civic Center,474260,231,474260

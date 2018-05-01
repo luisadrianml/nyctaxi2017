@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Alphabet City,466,4,466,4
+Brooklyn,Brighton Beach,462,29,462,2
+Bronx,Hunts Point,459,126,459,1
+Brooklyn,Coney Island,454,55,454,1
+Brooklyn,Dyker Heights,453,67,453,1
+Bronx,Soundview/Bruckner,452,212,452,1

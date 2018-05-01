@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,South Jamaica,2601,215,2601,2
+Manhattan,TriBeCa/Civic Center,2593,231,2593,4
+Manhattan,Sutton Place/Turtle Bay North,2578,229,2578,4
+Brooklyn,Crown Heights South,2577,62,2577,2
+Manhattan,Financial District South,2575,88,2575,3

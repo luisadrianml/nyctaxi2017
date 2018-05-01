@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Chinatown,78158,45,78158
+Manhattan,Hamilton Heights,76876,116,76876

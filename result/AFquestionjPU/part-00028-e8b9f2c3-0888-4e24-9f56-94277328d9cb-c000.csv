@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Williamsburg (South Side),43093,256,43093,2
+Brooklyn,Boerum Hill,42964,25,42964,2
+Unknown,NA,40421,265,40421,1
+Brooklyn,East Williamsburg,39586,80,39586,1
+Brooklyn,Greenpoint,38603,112,38603,1

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Garment District,697376,100,697376,2
+Manhattan,SoHo,681612,211,681612,1
+Manhattan,Upper West Side North,675670,238,675670,2
+Queens,JFK Airport,674580,132,674580,1
+Manhattan,Sutton Place/Turtle Bay North,644199,229,644199,2

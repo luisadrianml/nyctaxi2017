@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Port Richmond,596,187,596
+Staten Island,Charleston/Tottenville,414,44,414

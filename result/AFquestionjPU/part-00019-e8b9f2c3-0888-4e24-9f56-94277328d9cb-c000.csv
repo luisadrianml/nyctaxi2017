@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Alphabet City,189970,4,189970,1
+Manhattan,Morningside Heights,182973,166,182973,2
+Manhattan,East Harlem North,180887,74,180887,1
+Manhattan,Central Harlem,173214,41,173214,2
+Manhattan,Hudson Sq,173169,125,173169,2

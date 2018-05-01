@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Bushwick North,35500,36,35500,2
+Manhattan,Roosevelt Island,34743,202,34743,1
+Brooklyn,Crown Heights South,34339,62,34339,1
+Bronx,Mott Haven/Port Morris,32016,168,32016,1
+Brooklyn,Flatbush/Ditmas Park,30229,89,30229,2

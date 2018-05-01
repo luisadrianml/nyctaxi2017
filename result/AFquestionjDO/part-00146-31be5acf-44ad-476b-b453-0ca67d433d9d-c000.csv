@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Norwood,223,174,223,3
+Bronx,Claremont/Bathgate,223,47,223,3
+Bronx,Hunts Point,222,126,222,3
+Manhattan,Inwood,220,127,220,4
+Brooklyn,Homecrest,218,123,218,3
+Manhattan,Randalls Island,218,194,218,3

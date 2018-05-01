@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Homecrest,15082,123,15082
+Queens,Jamaica Estates,14735,131,14735

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Gramercy,561039,107,561039
+Manhattan,West Chelsea/Hudson Yards,496053,246,496053

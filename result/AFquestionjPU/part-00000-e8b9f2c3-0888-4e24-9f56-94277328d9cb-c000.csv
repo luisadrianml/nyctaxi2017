@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Upper East Side South,2865046,237,2865046,1
+Manhattan,Midtown Center,2814533,161,2814533,1
+Manhattan,Union Sq,2716387,234,2716387,1
+Manhattan,Upper East Side North,2694283,236,2694283,1
+Manhattan,Midtown East,2686309,162,2686309,1
+Manhattan,Murray Hill,2560516,170,2560516,1

@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Governor's Island/Ellis Island/Liberty Island,16,105,16
+Queens,Far Rockaway,16,86,16
+Queens,Rockaway Park,16,201,16
+Bronx,City Island,16,46,16

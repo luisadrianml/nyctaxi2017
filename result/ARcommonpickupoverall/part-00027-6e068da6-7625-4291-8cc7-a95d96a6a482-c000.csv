@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Meatpacking/West Village West,1321017,158,1321017
+Manhattan,Little Italy/NoLiTa,1288551,144,1288551

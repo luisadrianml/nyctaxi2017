@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Riverdale/North Riverdale/Fieldston,356,200,356,2
+Staten Island,Arrochar/Fort Wadsworth,352,6,352,2
+Manhattan,Highbridge Park,349,120,349,2
+Manhattan,Seaport,348,209,348,4
+Queens,Queens Village,347,191,347,1
+Manhattan,Washington Heights South,346,244,346,4

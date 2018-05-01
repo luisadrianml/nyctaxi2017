@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Fort Greene,32115,97,32115
+Brooklyn,East Williamsburg,20546,80,20546

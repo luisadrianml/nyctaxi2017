@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Bushwick South,10050,37,10050
+Brooklyn,Clinton Hill,9336,49,9336

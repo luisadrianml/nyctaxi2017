@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Penn Station/Madison Sq West,338442,186,338442
+Manhattan,Greenwich Village South,337071,114,337071

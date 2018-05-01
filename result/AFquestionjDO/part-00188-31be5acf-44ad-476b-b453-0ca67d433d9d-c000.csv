@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Westerleigh,20,251,20,3
+Staten Island,Heartland Village/Todt Hill,19,118,19,3
+Bronx,Bronx Park,18,31,18,4
+Bronx,Rikers Island,18,199,18,1

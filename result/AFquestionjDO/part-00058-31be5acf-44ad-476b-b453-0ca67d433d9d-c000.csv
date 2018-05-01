@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Bedford Park,9194,18,9194,2
+Brooklyn,East Flatbush/Farragut,9066,71,9066,2
+Brooklyn,Erasmus,9063,85,9063,1
+Queens,Bayside,8965,16,8965,1
+Brooklyn,Bensonhurst West,8902,22,8902,2

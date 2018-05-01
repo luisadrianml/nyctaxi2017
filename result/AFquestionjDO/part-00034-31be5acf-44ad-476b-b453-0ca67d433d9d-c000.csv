@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Mott Haven/Port Morris,52558,168,52558,2
+Brooklyn,Fort Greene,52289,97,52289,2
+Brooklyn,Clinton Hill,49984,49,49984,2
+Brooklyn,Sunset Park West,49040,228,49040,1
+Queens,Forest Hills,47275,95,47275,2

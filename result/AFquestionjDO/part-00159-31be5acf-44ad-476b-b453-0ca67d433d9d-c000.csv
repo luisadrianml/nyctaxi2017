@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,South Williamsburg,136,217,136,4
+Bronx,Highbridge,133,119,133,4
+Brooklyn,Bath Beach,132,11,132,3
+Staten Island,Charleston/Tottenville,131,44,131,2
+Queens,Springfield Gardens South,129,219,129,4

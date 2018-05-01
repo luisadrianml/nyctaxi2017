@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Bloomfield/Emerson Hill,1597,23,1597,1
+Manhattan,Bloomingdale,1595,24,1595,3
+Brooklyn,Bushwick South,1590,37,1590,3
+Manhattan,Greenwich Village South,1589,114,1589,4
+Manhattan,Lincoln Square West,1523,143,1523,4

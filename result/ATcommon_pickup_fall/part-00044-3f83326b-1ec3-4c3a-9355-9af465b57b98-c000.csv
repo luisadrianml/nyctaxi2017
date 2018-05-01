@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Sunnyside,44008,226,44008
+Manhattan,Central Harlem North,39535,42,39535

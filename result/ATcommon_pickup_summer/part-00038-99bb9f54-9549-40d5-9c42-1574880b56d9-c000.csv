@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Central Harlem,91206,41,91206
+Manhattan,Stuy Town/Peter Cooper Village,74981,224,74981

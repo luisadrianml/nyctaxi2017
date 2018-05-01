@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Brownsville,729,35,729,1
+Bronx,Hunts Point,724,126,724,2
+Brooklyn,Canarsie,715,39,715,2
+Brooklyn,Flatlands,714,91,714,2
+Brooklyn,Homecrest,713,123,713,2

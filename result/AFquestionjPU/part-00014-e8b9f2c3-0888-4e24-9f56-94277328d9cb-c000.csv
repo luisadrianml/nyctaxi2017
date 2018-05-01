@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Greenwich Village North,535123,113,535123,2
+Manhattan,Hudson Sq,504137,125,504137,1
+Manhattan,Lower East Side,463926,148,463926,2
+Manhattan,Greenwich Village South,446999,114,446999,2
+Manhattan,West Chelsea/Hudson Yards,444741,246,444741,2

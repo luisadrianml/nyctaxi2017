@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Astoria,51412,7,51412
+Queens,Sunnyside,48792,226,48792

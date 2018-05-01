@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Governor's Island/Ellis Island/Liberty Island,17,105,17
+Staten Island,Mariners Harbor,16,156,16
+Bronx,Pelham Bay Park,16,184,16

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Claremont/Bathgate,1292,47,1292
+Bronx,Westchester Village/Unionport,1263,250,1263

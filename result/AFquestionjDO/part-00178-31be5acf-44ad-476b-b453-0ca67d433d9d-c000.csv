@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Ozone Park,45,180,45,4
+Manhattan,Inwood Hill Park,45,128,45,3
+Bronx,Crotona Park East,45,60,45,4
+Queens,Fresh Meadows,45,98,45,4
+Queens,Bayside,45,16,45,4

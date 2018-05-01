@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Bushwick North,72132,36,72132,1
+Brooklyn,Flatbush/Ditmas Park,65051,89,65051,1
+Manhattan,Washington Heights North,64357,243,64357,2
+Queens,Elmhurst,63450,82,63450,2
+Queens,Old Astoria,61808,179,61808,2

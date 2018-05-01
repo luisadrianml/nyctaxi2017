@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Rosedale,2244,203,2244
+Brooklyn,Coney Island,2237,55,2237

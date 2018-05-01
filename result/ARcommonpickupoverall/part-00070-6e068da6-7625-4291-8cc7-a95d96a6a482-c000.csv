@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Gowanus,20873,106,20873
+Bronx,West Concourse,20398,247,20398

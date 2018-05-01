@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Upper East Side North,1309742,236,1309742,2
+Manhattan,Lenox Hill East,1272440,140,1272440,1
+Manhattan,Lower East Side,1204131,148,1204131,1
+Manhattan,West Chelsea/Hudson Yards,1172809,246,1172809,1
+Manhattan,Midtown East,1157391,162,1157391,2

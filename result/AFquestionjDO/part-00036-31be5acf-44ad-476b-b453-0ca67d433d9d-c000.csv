@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,DUMBO/Vinegar Hill,40962,66,40962,2
+Manhattan,Battery Park,40007,12,40007,1
+Queens,Queensbridge/Ravenswood,39866,193,39866,2
+Queens,Ridgewood,38862,198,38862,1
+Queens,Elmhurst,37943,82,37943,1
+Queens,Queensbridge/Ravenswood,35760,193,35760,1

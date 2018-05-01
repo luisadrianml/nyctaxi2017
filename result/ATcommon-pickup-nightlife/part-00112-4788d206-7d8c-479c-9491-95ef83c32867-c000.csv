@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Bedford Park,207,18,207
+Bronx,Longwood,200,147,200

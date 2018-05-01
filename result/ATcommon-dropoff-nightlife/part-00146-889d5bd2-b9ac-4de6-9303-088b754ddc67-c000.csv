@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Coney Island,1491,55,1491
+Queens,South Jamaica,1483,215,1483

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Washington Heights North,58008,243,58008
+Brooklyn,Crown Heights North,56876,61,56876

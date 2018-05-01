@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Bath Beach,8089,11,8089
+Queens,Laurelton,7973,139,7973

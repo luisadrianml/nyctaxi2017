@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Eltingville/Annadale/Prince's Bay,479,84,479,1
+Staten Island,Mariners Harbor,476,156,476,2
+Manhattan,Stuy Town/Peter Cooper Village,476,224,476,4
+Brooklyn,South Williamsburg,475,217,475,3
+EWR,Newark Airport,473,1,473,4
+Brooklyn,Crown Heights South,464,62,464,3

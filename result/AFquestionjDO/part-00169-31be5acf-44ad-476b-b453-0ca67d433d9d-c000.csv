@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Riverdale/North Riverdale/Fieldston,74,200,74,4
+Queens,Far Rockaway,74,86,74,3
+Queens,East Flushing,74,73,74,3
+Queens,Jamaica Estates,73,131,73,4

@@ -1,0 +1,4 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Auburndale,1038,9,1038
+Manhattan,Marble Hill,1036,153,1036
+Brooklyn,Ocean Parkway South,1036,178,1036

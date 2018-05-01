@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Prospect Park,1815,190,1815
+Bronx,Melrose South,1810,159,1810

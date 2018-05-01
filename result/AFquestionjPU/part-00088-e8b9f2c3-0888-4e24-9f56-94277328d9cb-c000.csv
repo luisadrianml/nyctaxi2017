@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,East Flatbush/Farragut,660,71,660,1
+Brooklyn,Homecrest,652,123,652,1
+Bronx,University Heights/Morris Heights,643,235,643,1
+Bronx,Longwood,625,147,625,2
+Brooklyn,East Flatbush/Remsen Village,606,72,606,1
+Manhattan,Central Harlem North,595,42,595,4

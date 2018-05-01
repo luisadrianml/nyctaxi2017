@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Midtown North,715667,163,715667
+Queens,JFK Airport,699713,132,699713

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Saint George/New Brighton,572,206,572
+Staten Island,Heartland Village/Todt Hill,557,118,557

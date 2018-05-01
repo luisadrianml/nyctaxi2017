@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,South Williamsburg,5578,217,5578,2
+Manhattan,Midtown Center,5515,161,5515,4
+Manhattan,Kips Bay,5493,137,5493,3
+Manhattan,Inwood,5443,127,5443,1
+Queens,South Jamaica,5241,215,5241,1

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Breezy Point/Fort Tilden/Riis Beach,183,27,183
+Staten Island,Port Richmond,155,187,155

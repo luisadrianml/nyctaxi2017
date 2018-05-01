@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Bensonhurst West,288,22,288,3
+Queens,Forest Hills,287,95,287,4
+Staten Island,Eltingville/Annadale/Prince's Bay,283,84,283,2
+Bronx,Soundview/Castle Hill,281,213,281,3
+Staten Island,Charleston/Tottenville,276,44,276,1

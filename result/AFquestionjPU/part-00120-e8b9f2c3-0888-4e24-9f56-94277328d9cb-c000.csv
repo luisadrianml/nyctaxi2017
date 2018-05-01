@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Eastchester,197,81,197,1
+Queens,Springfield Gardens South,197,219,197,3
+Brooklyn,Kensington,197,133,197,3
+Queens,Saint Albans,196,205,196,2
+Bronx,Van Cortlandt Park,196,240,196,2

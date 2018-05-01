@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Norwood,271,174,271
+Brooklyn,East New York/Pennsylvania Avenue,271,77,271

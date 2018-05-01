@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Manhattan Beach,115,150,115
+Queens,Willets Point,108,253,108
+Brooklyn,Gravesend,108,108,108

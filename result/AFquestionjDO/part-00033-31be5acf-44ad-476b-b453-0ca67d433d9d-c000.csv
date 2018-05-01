@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Woodside,58764,260,58764,1
+Brooklyn,East Williamsburg,58123,80,58123,2
+Manhattan,Inwood,57352,127,57352,1
+Brooklyn,Prospect-Lefferts Gardens,55201,188,55201,1
+Brooklyn,Boerum Hill,54117,25,54117,2

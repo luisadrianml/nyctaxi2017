@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Parkchester,419,182,419,1
+Queens,Howard Beach,419,124,419,2
+Brooklyn,Downtown Brooklyn/MetroTech,418,65,418,4
+Brooklyn,Prospect Heights,413,189,413,3

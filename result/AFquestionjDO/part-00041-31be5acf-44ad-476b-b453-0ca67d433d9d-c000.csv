@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Baisley Park,25049,10,25049,2
+Bronx,Riverdale/North Riverdale/Fieldston,24581,200,24581,1
+Queens,JFK Airport,24236,132,24236,3
+Queens,Rego Park,23961,196,23961,1
+Queens,Maspeth,23110,157,23110,2

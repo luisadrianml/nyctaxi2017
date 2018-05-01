@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Brooklyn Heights,38431,33,38431,2
+Queens,JFK Airport,38395,132,38395,3
+Queens,Old Astoria,37255,179,37255,2
+Brooklyn,DUMBO/Vinegar Hill,35400,66,35400,1
+Queens,Steinway,33905,223,33905,1
+Queens,Steinway,33487,223,33487,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Bronx Park,1570,31,1570
+Brooklyn,Manhattan Beach,1536,150,1536

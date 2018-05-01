@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Chinatown,1908,45,1908,3
+Queens,Ridgewood,1883,198,1883,2
+Manhattan,Two Bridges/Seward Park,1865,232,1865,3
+Manhattan,Alphabet City,1861,4,1861,3
+Manhattan,Central Harlem North,1855,42,1855,3

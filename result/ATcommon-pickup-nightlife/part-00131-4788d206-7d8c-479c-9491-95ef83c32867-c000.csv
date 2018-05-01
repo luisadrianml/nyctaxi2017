@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East New York/Pennsylvania Avenue,130,77,130
+Bronx,Pelham Parkway,129,185,129
+Queens,Bayside,129,16,129

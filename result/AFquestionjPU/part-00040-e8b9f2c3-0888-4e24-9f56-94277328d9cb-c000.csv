@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Upper West Side South,10203,239,10203,3
+Queens,Flushing Meadows-Corona Park,10171,93,10171,1
+Manhattan,Gramercy,10057,107,10057,3
+Brooklyn,Bushwick North,9938,36,9938,1
+Manhattan,TriBeCa/Civic Center,9808,231,9808,3

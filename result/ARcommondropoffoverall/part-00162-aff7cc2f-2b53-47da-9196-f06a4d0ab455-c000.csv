@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Allerton/Pelham Gardens,6241,3,6241
+Brooklyn,Gravesend,6226,108,6226

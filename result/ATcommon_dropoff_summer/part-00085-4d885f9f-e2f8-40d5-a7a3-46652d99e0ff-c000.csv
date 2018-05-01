@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,East Concourse/Concourse Village,11350,69,11350
+Queens,Baisley Park,11316,10,11316

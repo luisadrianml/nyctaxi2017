@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Mount Hope,5198,169,5198
+Brooklyn,Bensonhurst West,4857,22,4857

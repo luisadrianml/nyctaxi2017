@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Crotona Park East,4274,60,4274,2
+Manhattan,Midtown East,4264,162,4264,4
+Manhattan,SoHo,4262,211,4262,3
+Queens,Queensboro Hill,4255,192,4255,1
+Bronx,West Farms/Bronx River,4200,248,4200,1

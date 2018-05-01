@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,South Jamaica,82,215,82,4
+Queens,Queens Village,82,191,82,4
+Bronx,West Farms/Bronx River,81,248,81,4
+Manhattan,Highbridge Park,80,120,80,3
+Brooklyn,Erasmus,79,85,79,4
+Brooklyn,Manhattan Beach,78,150,78,3

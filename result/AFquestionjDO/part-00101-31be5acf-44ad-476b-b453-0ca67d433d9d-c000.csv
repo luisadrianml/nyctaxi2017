@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Greenpoint,2303,112,2303,3
+Bronx,Bronx Park,2300,31,2300,2
+Queens,Hammels/Arverne,2265,117,2265,1
+Bronx,Pelham Bay,2263,183,2263,2
+Queens,LaGuardia Airport,2224,138,2224,4

@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Cambria Heights,15,38,15
+Staten Island,Saint George/New Brighton,15,206,15
+Bronx,Country Club,15,58,15

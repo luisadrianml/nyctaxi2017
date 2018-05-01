@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Upper West Side North,573814,238,573814
+Manhattan,Sutton Place/Turtle Bay North,572344,229,572344

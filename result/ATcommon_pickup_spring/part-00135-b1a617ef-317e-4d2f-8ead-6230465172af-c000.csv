@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Schuylerville/Edgewater Park,230,208,230
+Bronx,Crotona Park East,224,60,224
+Queens,Ozone Park,224,180,224

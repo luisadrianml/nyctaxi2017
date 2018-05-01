@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Times Sq/Theatre District,859089,230,859089
+Manhattan,Midtown East,852457,162,852457

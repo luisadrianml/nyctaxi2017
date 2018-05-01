@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Flushing,1173,92,1173
+Brooklyn,Bay Ridge,1148,14,1148

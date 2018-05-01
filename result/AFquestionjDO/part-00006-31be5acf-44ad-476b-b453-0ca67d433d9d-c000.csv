@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Kips Bay,1159828,137,1159828,1
+Manhattan,UN/Turtle Bay South,1147594,233,1147594,1
+Manhattan,Midtown East,1103751,162,1103751,2
+Manhattan,Murray Hill,1066038,170,1066038,2
+Queens,LaGuardia Airport,1054274,138,1054274,1

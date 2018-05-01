@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Eastchester,96,81,96,3
+Brooklyn,Brooklyn Navy Yard,95,34,95,3
+Bronx,Morrisania/Melrose,92,167,92,4
+Queens,Bay Terrace/Fort Totten,92,15,92,3
+Brooklyn,Sunset Park East,91,227,91,4

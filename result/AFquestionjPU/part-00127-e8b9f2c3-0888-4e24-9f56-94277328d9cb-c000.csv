@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Bronxdale,143,32,143,1
+Brooklyn,Green-Wood Cemetery,142,111,142,1
+Queens,Willets Point,142,253,142,2
+Brooklyn,East New York,140,76,140,3
+Queens,Willets Point,139,253,139,1
+Manhattan,Battery Park,139,12,139,4

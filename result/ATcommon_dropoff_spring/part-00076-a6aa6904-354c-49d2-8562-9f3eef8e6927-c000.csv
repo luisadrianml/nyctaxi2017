@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Battery Park,20800,12,20800
+Queens,Ridgewood,20172,198,20172

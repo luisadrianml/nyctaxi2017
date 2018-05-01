@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,East Harlem South,1493,75,1493,4
+Brooklyn,Downtown Brooklyn/MetroTech,1488,65,1488,3
+Manhattan,Lincoln Square West,1484,143,1484,4
+Brooklyn,Erasmus,1445,85,1445,2
+Brooklyn,East New York,1431,76,1431,2

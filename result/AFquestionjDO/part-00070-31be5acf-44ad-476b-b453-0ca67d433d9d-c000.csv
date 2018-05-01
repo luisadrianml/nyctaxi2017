@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Long Island City/Hunters Point,6664,145,6664,3
+Bronx,Parkchester,6626,182,6626,1
+Bronx,Parkchester,6598,182,6598,2
+Brooklyn,Madison,6591,149,6591,1
+Brooklyn,Dyker Heights,6587,67,6587,2

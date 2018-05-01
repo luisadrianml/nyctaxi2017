@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Alphabet City,64601,4,64601
+Manhattan,Seaport,56430,209,56430

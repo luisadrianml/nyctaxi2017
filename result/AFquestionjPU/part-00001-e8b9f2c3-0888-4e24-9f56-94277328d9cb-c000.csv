@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Penn Station/Madison Sq West,2533711,186,2533711,1
+Manhattan,East Village,2409978,79,2409978,1
+Queens,LaGuardia Airport,2372795,138,2372795,1
+Manhattan,Times Sq/Theatre District,2282430,230,2282430,1
+Manhattan,Clinton East,2214621,48,2214621,1

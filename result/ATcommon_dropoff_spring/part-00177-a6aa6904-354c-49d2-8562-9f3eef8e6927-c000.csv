@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Westerleigh,618,251,618
+Staten Island,South Beach/Dongan Hills,598,214,598

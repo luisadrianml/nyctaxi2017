@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Garment District,458075,100,458075
+Manhattan,Greenwich Village North,439800,113,439800

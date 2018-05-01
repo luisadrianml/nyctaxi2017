@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,East Williamsburg,62948,80,62948
+Brooklyn,Clinton Hill,61061,49,61061

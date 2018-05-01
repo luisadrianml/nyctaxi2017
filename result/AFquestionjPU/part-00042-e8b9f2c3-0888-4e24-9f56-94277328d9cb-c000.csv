@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,West Chelsea/Hudson Yards,8706,246,8706,3
+Queens,East Elmhurst,8422,70,8422,1
+Queens,Baisley Park,8249,10,8249,2
+Queens,East Elmhurst,8063,70,8063,2
+Manhattan,Upper West Side North,7982,238,7982,3

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Glen Oaks,3302,101,3302,1
+Manhattan,Garment District,3249,100,3249,4
+Manhattan,Two Bridges/Seward Park,3190,232,3190,3
+Brooklyn,Gravesend,3190,108,3190,1
+Bronx,Allerton/Pelham Gardens,3138,3,3138,1
+Queens,Far Rockaway,3088,86,3088,2

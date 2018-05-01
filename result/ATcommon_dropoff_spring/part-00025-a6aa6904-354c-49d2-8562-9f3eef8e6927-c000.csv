@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,LaGuardia Airport,360285,138,360285
+Manhattan,East Harlem South,355262,75,355262

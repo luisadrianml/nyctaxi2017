@@ -1,0 +1,9 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Kew Gardens Hills,17,135,17,4
+Brooklyn,East New York/Pennsylvania Avenue,17,77,17,4
+Bronx,Claremont/Bathgate,17,47,17,4
+Bronx,Van Cortlandt Park,17,240,17,3
+Bronx,Highbridge,17,119,17,4
+Bronx,Parkchester,17,182,17,4
+Queens,Woodhaven,17,258,17,4
+Brooklyn,Gravesend,17,108,17,3

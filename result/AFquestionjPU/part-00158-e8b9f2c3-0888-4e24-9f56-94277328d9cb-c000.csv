@@ -1,0 +1,10 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Belmont,26,20,26,3
+Bronx,Eastchester,26,81,26,3
+Queens,Glendale,25,102,25,3
+Staten Island,West Brighton,25,245,25,1
+Bronx,Fordham South,25,94,25,3
+Staten Island,Oakwood,25,176,25,1
+Bronx,Woodlawn/Wakefield,25,259,25,3
+Bronx,City Island,25,46,25,1
+Bronx,Westchester Village/Unionport,25,250,25,4

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Sutton Place/Turtle Bay North,1420058,229,1420058,1
+Manhattan,Penn Station/Madison Sq West,1411953,186,1411953,2
+Manhattan,Garment District,1355961,100,1355961,1
+Manhattan,Yorkville West,1354090,263,1354090,1
+Manhattan,Greenwich Village North,1329686,113,1329686,1
+Manhattan,Clinton East,1326041,48,1326041,2

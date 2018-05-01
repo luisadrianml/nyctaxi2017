@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Washington Heights South,112857,244,112857
+Brooklyn,Fort Greene,111125,97,111125

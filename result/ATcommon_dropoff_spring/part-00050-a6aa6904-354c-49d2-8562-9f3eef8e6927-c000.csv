@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Seaport,80743,209,80743
+Manhattan,Chinatown,79738,45,79738

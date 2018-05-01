@@ -1,0 +1,8 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Hollis,72,122,72,3
+Brooklyn,Sheepshead Bay,71,210,71,4
+Bronx,Norwood,71,174,71,4
+Queens,Hammels/Arverne,71,117,71,3
+Bronx,Schuylerville/Edgewater Park,70,208,70,4
+Manhattan,Governor's Island/Ellis Island/Liberty Island,70,105,70,1
+Bronx,Kingsbridge Heights,70,136,70,4

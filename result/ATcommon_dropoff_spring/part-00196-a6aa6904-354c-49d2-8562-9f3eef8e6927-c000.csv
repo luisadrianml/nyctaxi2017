@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Governor's Island/Ellis Island/Liberty Island,29,105,29
+Queens,Jamaica Bay,21,2,21

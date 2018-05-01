@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Upper East Side North,1325930,236,1325930,2
+Manhattan,Flatiron,1250812,90,1250812,1
+Manhattan,Clinton East,1175731,48,1175731,2
+Manhattan,Penn Station/Madison Sq West,1173040,186,1173040,2
+Manhattan,Greenwich Village North,1163912,113,1163912,1

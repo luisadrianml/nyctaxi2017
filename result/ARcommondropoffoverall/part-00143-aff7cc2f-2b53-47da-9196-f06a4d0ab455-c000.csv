@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Coney Island,10168,55,10168
+Queens,Rosedale,10103,203,10103

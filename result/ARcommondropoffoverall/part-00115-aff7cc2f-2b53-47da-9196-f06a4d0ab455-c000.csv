@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Hillcrest/Pomonok,16299,121,16299
+Queens,Bayside,16047,16,16047

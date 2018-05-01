@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,East Chelsea,634707,68,634707
+Manhattan,Gramercy,626260,107,626260

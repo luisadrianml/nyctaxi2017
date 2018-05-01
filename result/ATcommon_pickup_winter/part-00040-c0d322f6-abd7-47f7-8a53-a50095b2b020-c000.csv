@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Alphabet City,77642,4,77642
+Manhattan,Chinatown,65553,45,65553

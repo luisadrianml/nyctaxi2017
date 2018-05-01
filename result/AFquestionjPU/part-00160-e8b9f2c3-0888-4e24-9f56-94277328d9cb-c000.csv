@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Astoria Park,23,8,23,3
+Queens,Corona,23,56,23,4
+Bronx,Morrisania/Melrose,23,167,23,4
+Manhattan,Marble Hill,23,153,23,3
+Staten Island,West Brighton,23,245,23,2

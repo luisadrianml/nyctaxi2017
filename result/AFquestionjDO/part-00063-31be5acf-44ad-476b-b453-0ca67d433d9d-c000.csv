@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Hillcrest/Pomonok,8094,121,8094,1
+Unknown,NA,8075,265,8075,3
+Brooklyn,Canarsie,8040,39,8040,1
+Brooklyn,Homecrest,8038,123,8038,1
+Queens,Whitestone,8034,252,8034,2

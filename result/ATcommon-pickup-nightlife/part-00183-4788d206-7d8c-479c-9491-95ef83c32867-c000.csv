@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Freshkills Park,3,99,3
+Staten Island,Arden Heights,3,5,3

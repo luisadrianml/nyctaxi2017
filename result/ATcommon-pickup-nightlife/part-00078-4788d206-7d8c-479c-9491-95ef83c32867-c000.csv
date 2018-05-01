@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Flatbush/Ditmas Park,1466,89,1466
+Queens,Flushing Meadows-Corona Park,1199,93,1199

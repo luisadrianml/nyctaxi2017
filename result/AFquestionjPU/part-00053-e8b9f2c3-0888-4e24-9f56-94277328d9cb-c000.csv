@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Lincoln Square West,4423,143,4423,3
+Manhattan,Battery Park City,4392,13,4392,3
+Manhattan,World Trade Center,4370,261,4370,3
+Manhattan,Midtown South,4290,164,4290,4
+Brooklyn,Red Hook,4204,195,4204,1

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,East Elmhurst,83,70,83,4
+Brooklyn,Cobble Hill,82,52,82,4
+Bronx,Pelham Bay,80,183,80,1
+Queens,North Corona,79,173,79,3
+Brooklyn,Windsor Terrace,79,257,79,3
+Bronx,Mount Hope,79,169,79,3

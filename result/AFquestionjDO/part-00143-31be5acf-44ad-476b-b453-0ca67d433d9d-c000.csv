@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Bedford Park,258,18,258,3
+Brooklyn,Prospect-Lefferts Gardens,257,188,257,4
+Brooklyn,Midwood,254,165,254,3
+Brooklyn,Erasmus,253,85,253,3
+Queens,Ridgewood,250,198,250,4

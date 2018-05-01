@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Mott Haven/Port Morris,6288,168,6288,1
+Manhattan,UN/Turtle Bay South,6282,233,6282,3
+Brooklyn,Stuyvesant Heights,6158,225,6158,2
+Manhattan,Clinton East,6073,48,6073,4
+Queens,Long Island City/Hunters Point,6053,145,6053,3

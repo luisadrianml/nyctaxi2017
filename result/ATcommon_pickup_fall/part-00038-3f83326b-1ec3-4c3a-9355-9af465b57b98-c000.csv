@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Central Harlem,91643,41,91643
+Manhattan,Bloomingdale,80217,24,80217

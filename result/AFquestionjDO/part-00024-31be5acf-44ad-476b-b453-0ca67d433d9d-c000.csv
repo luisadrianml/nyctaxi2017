@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,East Williamsburg,158497,80,158497,1
+Brooklyn,Boerum Hill,157790,25,157790,1
+Queens,Sunnyside,150812,226,150812,1
+Queens,Steinway,148176,223,148176,1
+Brooklyn,Fort Greene,146637,97,146637,1
+Manhattan,Washington Heights North,144709,243,144709,1

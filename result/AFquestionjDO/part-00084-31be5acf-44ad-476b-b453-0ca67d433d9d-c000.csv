@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Bay Terrace/Fort Totten,4594,15,4594,2
+Queens,Astoria,4526,7,4526,3
+Manhattan,Murray Hill,4518,170,4518,4
+Brooklyn,Bath Beach,4513,11,4513,1
+Bronx,Soundview/Bruckner,4498,212,4498,1

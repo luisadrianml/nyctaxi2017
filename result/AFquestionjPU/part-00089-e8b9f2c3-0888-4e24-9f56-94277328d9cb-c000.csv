@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Crown Heights North,593,61,593,3
+Bronx,Soundview/Castle Hill,586,213,586,1
+Manhattan,Chinatown,582,45,582,4
+Queens,Woodhaven,569,258,569,1
+Bronx,Norwood,567,174,567,2

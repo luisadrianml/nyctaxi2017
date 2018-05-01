@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Hillcrest/Pomonok,29,121,29,3
+Staten Island,Saint George/New Brighton,29,206,29,2
+Bronx,Country Club,28,58,28,1
+Queens,Murray Hill-Queens,27,171,27,3
+Brooklyn,Madison,27,149,27,3

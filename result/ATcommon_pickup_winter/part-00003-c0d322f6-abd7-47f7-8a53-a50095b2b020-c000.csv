@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Times Sq/Theatre District,969630,230,969630
+Manhattan,Midtown East,956272,162,956272

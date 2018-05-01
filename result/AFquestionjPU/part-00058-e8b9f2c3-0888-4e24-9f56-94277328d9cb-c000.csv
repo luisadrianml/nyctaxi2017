@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Lower East Side,3050,148,3050,4
+Manhattan,Hudson Sq,3041,125,3041,3
+Queens,Astoria,3028,7,3028,3
+Brooklyn,Red Hook,3023,195,3023,2
+Queens,South Ozone Park,3002,216,3002,2
+Queens,Kew Gardens,2950,134,2950,1

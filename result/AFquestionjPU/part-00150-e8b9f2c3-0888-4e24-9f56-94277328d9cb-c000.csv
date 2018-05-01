@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Brighton Beach,41,29,41,3
+Brooklyn,Bath Beach,40,11,40,3
+Bronx,City Island,40,46,40,2
+Queens,Springfield Gardens North,39,218,39,3
+Brooklyn,Bay Ridge,39,14,39,4

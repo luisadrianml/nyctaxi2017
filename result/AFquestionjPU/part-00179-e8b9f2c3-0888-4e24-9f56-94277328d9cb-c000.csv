@@ -1,0 +1,12 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,Saint George/New Brighton,4,206,4,4
+Bronx,Bronx Park,4,31,4,4
+Manhattan,Marble Hill,4,153,4,4
+Staten Island,Eltingville/Annadale/Prince's Bay,4,84,4,3
+Bronx,Country Club,4,58,4,3
+Brooklyn,Marine Park/Mill Basin,4,155,4,4
+Queens,Queensboro Hill,4,192,4,4
+Brooklyn,Starrett City,4,222,4,4
+Bronx,Van Cortlandt Park,4,240,4,4
+Queens,Bayside,4,16,4,4
+Queens,Corona,4,57,4,4

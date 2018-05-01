@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Jamaica,15768,130,15768,2
+Manhattan,Upper East Side South,15610,237,15610,3
+Brooklyn,East New York,15544,76,15544,2
+Queens,Kew Gardens,15484,134,15484,1
+Brooklyn,South Williamsburg,15364,217,15364,1

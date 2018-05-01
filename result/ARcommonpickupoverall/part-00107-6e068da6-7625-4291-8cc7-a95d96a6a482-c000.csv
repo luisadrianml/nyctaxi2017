@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Cypress Hills,2060,63,2060
+Bronx,Mount Hope,2060,169,2060

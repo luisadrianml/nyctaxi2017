@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Long Island City/Queens Plaza,82161,146,82161,1
+Brooklyn,Williamsburg (South Side),81920,256,81920,2
+Brooklyn,Stuyvesant Heights,80356,225,80356,1
+Manhattan,Manhattanville,80328,152,80328,2
+Queens,Woodside,78124,260,78124,2

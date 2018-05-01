@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,South Jamaica,8080,215,8080
+Brooklyn,Red Hook,7342,195,7342

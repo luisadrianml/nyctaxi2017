@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bath Beach,293,11,293,1
+Queens,Murray Hill-Queens,293,171,293,1
+Bronx,Pelham Parkway,292,185,292,1
+Queens,College Point,291,53,291,1
+Bronx,Co-Op City,291,51,291,2
+Bronx,Bronx Park,290,31,290,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Bayside,2690,16,2690
+Bronx,Longwood,2683,147,2683

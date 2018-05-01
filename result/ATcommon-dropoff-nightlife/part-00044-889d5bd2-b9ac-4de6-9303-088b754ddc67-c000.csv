@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Hamilton Heights,61884,116,61884
+Queens,Long Island City/Hunters Point,56230,145,56230

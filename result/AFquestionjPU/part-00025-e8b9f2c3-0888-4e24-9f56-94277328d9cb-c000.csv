@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Long Island City/Queens Plaza,60839,146,60839,1
+Queens,Long Island City/Hunters Point,60285,145,60285,1
+Queens,Long Island City/Queens Plaza,59270,146,59270,2
+Manhattan,Manhattanville,58556,152,58556,1
+Manhattan,Hamilton Heights,57201,116,57201,2

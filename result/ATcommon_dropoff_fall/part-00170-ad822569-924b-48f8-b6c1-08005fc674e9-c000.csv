@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Marble Hill,1052,153,1052
+Queens,Hammels/Arverne,1041,117,1041

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Sunnyside,297985,226,297985
+Brooklyn,Greenpoint,296956,112,296956

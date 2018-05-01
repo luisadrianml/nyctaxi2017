@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Fort Greene,346,97,346,4
+Staten Island,Great Kills,342,109,342,2
+Queens,Queensbridge/Ravenswood,336,193,336,4
+Brooklyn,Windsor Terrace,329,257,329,3
+Brooklyn,Flatbush/Ditmas Park,314,89,314,4

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Flushing Meadows-Corona Park,8606,93,8606,2
+Brooklyn,Brownsville,8576,35,8576,2
+Brooklyn,Midwood,8500,165,8500,2
+Manhattan,TriBeCa/Civic Center,8494,231,8494,3
+Brooklyn,Flatlands,8463,91,8463,1

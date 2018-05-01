@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Flushing,54,92,54,4
+Bronx,Parkchester,54,182,54,3
+Brooklyn,Columbia Street,53,54,53,3
+Bronx,Claremont/Bathgate,53,47,53,3
+Staten Island,Heartland Village/Todt Hill,53,118,53,2

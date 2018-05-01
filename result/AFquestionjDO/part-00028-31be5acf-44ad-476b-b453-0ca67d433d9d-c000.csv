@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Prospect Heights,97145,189,97145,1
+Brooklyn,Park Slope,88511,181,88511,2
+Queens,Steinway,88248,223,88248,2
+Queens,Jackson Heights,88245,129,88245,1
+Queens,Forest Hills,84047,95,84047,1
+Manhattan,Seaport,82802,209,82802,2

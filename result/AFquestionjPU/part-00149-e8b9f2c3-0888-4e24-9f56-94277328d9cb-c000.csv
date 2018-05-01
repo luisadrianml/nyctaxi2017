@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Westchester Village/Unionport,44,250,44,3
+Bronx,East Concourse/Concourse Village,43,69,43,4
+Brooklyn,South Williamsburg,43,217,43,4

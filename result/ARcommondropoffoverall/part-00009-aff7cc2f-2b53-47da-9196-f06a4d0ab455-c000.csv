@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Upper West Side South,2726117,239,2726117
+Manhattan,Lenox Hill West,2596265,141,2596265

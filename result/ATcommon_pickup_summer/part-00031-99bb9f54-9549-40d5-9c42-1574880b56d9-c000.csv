@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Financial District North,227999,87,227999
+Manhattan,SoHo,221269,211,221269

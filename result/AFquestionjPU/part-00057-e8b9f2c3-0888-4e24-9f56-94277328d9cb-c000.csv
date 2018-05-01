@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Flushing,3419,92,3419,2
+Queens,Briarwood/Jamaica Hills,3298,28,3298,2
+Bronx,East Concourse/Concourse Village,3190,69,3190,2
+Brooklyn,Prospect Park,3148,190,3148,1
+Manhattan,Lenox Hill West,3086,141,3086,4

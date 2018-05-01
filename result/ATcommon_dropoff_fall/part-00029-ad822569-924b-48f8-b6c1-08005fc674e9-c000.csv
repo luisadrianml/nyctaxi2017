@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Meatpacking/West Village West,309564,158,309564
+Manhattan,Little Italy/NoLiTa,275978,144,275978

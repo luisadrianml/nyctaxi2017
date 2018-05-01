@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Brownsville,266,35,266
+Brooklyn,Cypress Hills,262,63,262

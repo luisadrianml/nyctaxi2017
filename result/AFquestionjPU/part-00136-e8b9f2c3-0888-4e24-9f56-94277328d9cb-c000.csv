@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Hollis,87,122,87,2
+Manhattan,Washington Heights North,86,243,86,4
+Brooklyn,Prospect-Lefferts Gardens,85,188,85,4
+Manhattan,Governor's Island/Ellis Island/Liberty Island,85,105,85,1
+Bronx,Morrisania/Melrose,84,167,84,3

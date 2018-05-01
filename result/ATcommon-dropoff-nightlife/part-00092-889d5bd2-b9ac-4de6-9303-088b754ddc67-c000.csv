@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Columbia Street,5846,54,5846
+EWR,Newark Airport,5425,1,5425

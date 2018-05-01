@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Murray Hill-Queens,61,171,61,4
+Bronx,East Tremont,61,78,61,4
+Queens,Springfield Gardens North,61,218,61,4
+Brooklyn,Starrett City,60,222,60,3

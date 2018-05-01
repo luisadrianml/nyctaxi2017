@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Midtown North,4183,163,4183,4
+Bronx,Williamsbridge/Olinville,4100,254,4100,1
+Bronx,Co-Op City,4070,51,4070,1
+Queens,Oakland Gardens,3997,175,3997,2
+Bronx,Westchester Village/Unionport,3988,250,3988,1

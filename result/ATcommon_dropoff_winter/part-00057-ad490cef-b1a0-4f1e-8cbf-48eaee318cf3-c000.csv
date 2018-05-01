@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Crown Heights North,50647,61,50647
+EWR,Newark Airport,50296,1,50296

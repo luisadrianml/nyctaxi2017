@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Central Harlem North,3458,42,3458,3
+Bronx,Claremont/Bathgate,3445,47,3445,1
+Manhattan,World Trade Center,3444,261,3444,3
+Brooklyn,Bath Beach,3412,11,3412,2
+Queens,Auburndale,3408,9,3408,1

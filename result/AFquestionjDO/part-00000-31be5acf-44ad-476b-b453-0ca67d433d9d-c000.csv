@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Upper East Side North,2805917,236,2805917,1
+Manhattan,Midtown Center,2725297,161,2725297,1
+Manhattan,Murray Hill,2532201,170,2532201,1
+Manhattan,Upper East Side South,2531899,237,2531899,1
+Manhattan,Midtown East,2327814,162,2327814,1
+Manhattan,Union Sq,2316971,234,2316971,1

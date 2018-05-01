@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Far Rockaway,59,86,59,2
+Queens,South Ozone Park,59,216,59,4
+Bronx,Soundview/Bruckner,57,212,57,3
+Queens,Jamaica Bay,57,2,57,1
+Staten Island,South Beach/Dongan Hills,57,214,57,2
+Queens,Woodhaven,57,258,57,3

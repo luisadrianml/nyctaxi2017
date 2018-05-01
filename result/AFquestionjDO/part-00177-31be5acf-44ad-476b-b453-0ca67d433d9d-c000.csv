@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Bronxdale,49,32,49,4
+Bronx,Pelham Bay,48,183,48,3
+Bronx,Belmont,48,20,48,4
+Bronx,Co-Op City,46,51,46,4
+Brooklyn,Brighton Beach,46,29,46,4
+Queens,Howard Beach,46,124,46,4

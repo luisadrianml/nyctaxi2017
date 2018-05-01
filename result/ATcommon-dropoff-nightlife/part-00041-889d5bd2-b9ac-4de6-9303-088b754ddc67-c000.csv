@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,World Trade Center,66752,261,66752
+Manhattan,Hudson Sq,66498,125,66498

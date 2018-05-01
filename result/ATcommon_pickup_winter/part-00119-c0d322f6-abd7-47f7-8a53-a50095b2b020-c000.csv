@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Claremont/Bathgate,342,47,342
+Brooklyn,Sunset Park East,342,227,342

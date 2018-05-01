@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,East Elmhurst,11000,70,11000
+Bronx,West Concourse,10918,247,10918

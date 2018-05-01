@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Highbridge Park,1250,120,1250
+Bronx,Eastchester,1231,81,1231

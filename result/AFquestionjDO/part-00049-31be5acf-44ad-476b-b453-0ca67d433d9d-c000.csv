@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Midtown East,14403,162,14403,3
+Bronx,Spuyten Duyvil/Kingsbridge,13947,220,13947,2
+Queens,Briarwood/Jamaica Hills,13536,28,13536,2
+Unknown,NV,13532,264,13532,3
+Manhattan,Midtown North,13345,163,13345,3

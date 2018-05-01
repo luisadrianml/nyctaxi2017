@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Garment District,1042514,100,1042514,1
+Manhattan,Midtown North,1004540,163,1004540,2
+Manhattan,Lincoln Square West,967894,143,967894,1
+Manhattan,Lincoln Square East,963030,142,963030,2
+Unknown,NV,962062,264,962062,1

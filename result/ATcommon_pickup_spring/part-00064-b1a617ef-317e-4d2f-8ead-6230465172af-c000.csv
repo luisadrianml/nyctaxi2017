@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Battery Park,12150,12,12150
+Brooklyn,Bushwick South,10217,37,10217

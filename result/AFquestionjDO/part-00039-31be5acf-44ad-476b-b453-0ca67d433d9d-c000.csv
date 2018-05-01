@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Flushing,27800,92,27800,2
+Brooklyn,Bay Ridge,27578,14,27578,2
+Bronx,Spuyten Duyvil/Kingsbridge,27212,220,27212,1
+Bronx,West Concourse,27157,247,27157,2
+Brooklyn,Carroll Gardens,25507,40,25507,2

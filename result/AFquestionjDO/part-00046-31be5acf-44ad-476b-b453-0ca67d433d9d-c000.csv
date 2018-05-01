@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Crown Heights South,16246,62,16246,2
+Manhattan,Roosevelt Island,16173,202,16173,2
+Manhattan,Murray Hill,16150,170,16150,3
+Brooklyn,Gowanus,16150,106,16150,2
+Queens,Maspeth,15941,157,15941,1

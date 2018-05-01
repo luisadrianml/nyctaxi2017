@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Midtown Center,19196,161,19196,3
+Queens,Flushing,19034,92,19034,1
+Brooklyn,Cobble Hill,18644,52,18644,2
+Queens,South Ozone Park,18368,216,18368,1
+Queens,Rego Park,17979,196,17979,2
+Brooklyn,Red Hook,17743,195,17743,2

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Gravesend,102,108,102,3
+Bronx,Soundview/Castle Hill,102,213,102,4
+Brooklyn,Windsor Terrace,102,257,102,4
+Brooklyn,East Flatbush/Farragut,99,71,99,4
+Bronx,Bedford Park,99,18,99,4

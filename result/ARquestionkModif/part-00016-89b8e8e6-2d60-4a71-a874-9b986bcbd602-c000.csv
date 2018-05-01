@@ -1,0 +1,5 @@
+PU_Borough,PUWeekday,PUHour,avg(passenger_count)
+Bronx,Wednesday,18,1.7906976744186047
+EWR,Sunday,18,1.7804878048780488
+Staten Island,Tuesday,6,1.7647058823529411
+EWR,Wednesday,10,1.763157894736842

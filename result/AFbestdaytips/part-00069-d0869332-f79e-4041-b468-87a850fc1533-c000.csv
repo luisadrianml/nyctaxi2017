@@ -1,0 +1,3 @@
+PUWeekday,PUHour,avg(tip_amount)
+Monday,9,1.8756491699061206
+Friday,13,1.8706939166487289

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Prospect Park,1494,190,1494
+Queens,Saint Michaels Cemetery/Woodside,1477,207,1477

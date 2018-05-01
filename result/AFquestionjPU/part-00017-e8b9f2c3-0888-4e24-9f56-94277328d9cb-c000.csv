@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Manhattan Valley,338785,151,338785,2
+Manhattan,East Harlem South,322820,75,322820,2
+Manhattan,Financial District South,314318,88,314318,1
+Manhattan,SoHo,289975,211,289975,2
+Manhattan,World Trade Center,258376,261,258376,2
+Manhattan,Battery Park City,255009,13,255009,2

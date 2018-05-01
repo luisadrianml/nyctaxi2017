@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,DUMBO/Vinegar Hill,42971,66,42971
+Brooklyn,Bedford,40379,17,40379

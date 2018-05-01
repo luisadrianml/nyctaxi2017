@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Rikers Island,1,199,1
+Manhattan,Governor's Island/Ellis Island/Liberty Island,1,104,1
+Staten Island,Freshkills Park,1,99,1

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East New York,3305,76,3305
+Brooklyn,Borough Park,2663,26,2663

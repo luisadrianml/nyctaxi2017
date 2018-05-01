@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Yorkville West,7120,263,7120,3
+Queens,South Jamaica,7110,215,7110,2
+Manhattan,Clinton West,7082,50,7082,3
+Queens,Murray Hill-Queens,6990,171,6990,1
+Queens,Queens Village,6899,191,6899,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Flatiron,425485,90,425485
+Manhattan,Greenwich Village North,400229,113,400229

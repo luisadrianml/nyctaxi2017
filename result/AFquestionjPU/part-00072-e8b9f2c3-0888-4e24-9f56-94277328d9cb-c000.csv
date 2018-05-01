@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Park Slope,1428,181,1428,3
+Manhattan,Stuy Town/Peter Cooper Village,1408,224,1408,3
+Bronx,University Heights/Morris Heights,1389,235,1389,2
+Brooklyn,Borough Park,1380,26,1380,2
+Manhattan,Manhattan Valley,1379,151,1379,4

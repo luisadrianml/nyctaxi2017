@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Westerleigh,13,251,13
+Queens,Jamaica Bay,13,2,13
+Staten Island,Great Kills,13,109,13
+Staten Island,Heartland Village/Todt Hill,13,118,13

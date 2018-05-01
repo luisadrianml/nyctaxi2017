@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Inwood Hill Park,13,128,13,4
+Staten Island,Heartland Village/Todt Hill,13,118,13,4
+Staten Island,Eltingville/Annadale/Prince's Bay,12,84,12,3
+Bronx,Crotona Park,11,59,11,3

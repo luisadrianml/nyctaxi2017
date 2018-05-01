@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Douglaston,134,64,134
+Queens,Fresh Meadows,131,98,131
+Queens,Bayside,131,16,131

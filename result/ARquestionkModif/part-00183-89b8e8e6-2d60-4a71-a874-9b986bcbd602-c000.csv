@@ -1,0 +1,4 @@
+PU_Borough,PUWeekday,PUHour,avg(passenger_count)
+EWR,Saturday,6,1.3243243243243243
+EWR,Friday,17,1.313953488372093
+EWR,Thursday,7,1.309090909090909

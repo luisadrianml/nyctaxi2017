@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Glen Oaks,223,101,223,1
+Queens,Douglaston,221,64,221,1
+Brooklyn,Starrett City,220,222,220,1
+Brooklyn,East Williamsburg,217,80,217,4
+Queens,Corona,212,57,212,1

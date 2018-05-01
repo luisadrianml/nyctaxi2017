@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Central Harlem,40326,41,40326
+Manhattan,Chinatown,35361,45,35361

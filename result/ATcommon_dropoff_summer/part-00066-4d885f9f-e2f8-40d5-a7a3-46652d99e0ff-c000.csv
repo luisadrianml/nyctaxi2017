@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Carroll Gardens,31544,40,31544
+Brooklyn,Stuyvesant Heights,31010,225,31010

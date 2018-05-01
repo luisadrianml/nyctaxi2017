@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Canarsie,225,39,225
+Brooklyn,Bensonhurst West,220,22,220

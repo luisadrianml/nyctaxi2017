@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Van Cortlandt Park,74,240,74
+Queens,Auburndale,74,9,74

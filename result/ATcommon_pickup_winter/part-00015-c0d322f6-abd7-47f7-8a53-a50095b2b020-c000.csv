@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Garment District,571078,100,571078
+Manhattan,Upper West Side North,555800,238,555800

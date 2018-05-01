@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Breezy Point/Fort Tilden/Riis Beach,5,27,5
+Staten Island,Charleston/Tottenville,5,44,5
+Staten Island,Grymes Hill/Clifton,5,115,5
+Staten Island,Oakwood,5,176,5
+Staten Island,Port Richmond,5,187,5

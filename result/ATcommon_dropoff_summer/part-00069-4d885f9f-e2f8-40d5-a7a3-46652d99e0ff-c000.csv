@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Bushwick North,24606,36,24606
+Manhattan,Battery Park,24598,12,24598

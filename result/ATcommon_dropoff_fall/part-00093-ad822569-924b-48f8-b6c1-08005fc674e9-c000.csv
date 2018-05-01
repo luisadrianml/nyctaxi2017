@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Melrose South,7669,159,7669
+Queens,North Corona,7551,173,7551

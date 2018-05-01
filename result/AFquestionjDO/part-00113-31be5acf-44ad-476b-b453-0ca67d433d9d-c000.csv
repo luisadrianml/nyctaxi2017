@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,SoHo,1281,211,1281,4
+Manhattan,Manhattan Valley,1270,151,1270,4
+Manhattan,Washington Heights North,1266,243,1266,3
+Staten Island,Arrochar/Fort Wadsworth,1261,6,1261,1
+Staten Island,Saint George/New Brighton,1260,206,1260,1

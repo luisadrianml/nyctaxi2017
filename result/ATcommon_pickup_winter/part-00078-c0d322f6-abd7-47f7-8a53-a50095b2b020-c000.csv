@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Sunset Park West,2785,228,2785
+Brooklyn,South Williamsburg,2632,217,2632

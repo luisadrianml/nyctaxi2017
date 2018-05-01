@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Columbia Street,1733,54,1733,2
+Queens,Richmond Hill,1724,197,1724,1
+Manhattan,Kips Bay,1708,137,1708,4
+Bronx,East Concourse/Concourse Village,1703,69,1703,1
+Brooklyn,East New York,1701,76,1701,1

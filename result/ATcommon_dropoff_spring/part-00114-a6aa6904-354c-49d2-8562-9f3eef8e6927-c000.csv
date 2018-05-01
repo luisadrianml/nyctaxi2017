@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Erasmus,4677,85,4677
+Queens,Glendale,4622,102,4622

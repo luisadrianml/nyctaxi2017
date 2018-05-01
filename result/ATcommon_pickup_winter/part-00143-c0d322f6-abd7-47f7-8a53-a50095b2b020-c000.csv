@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Grymes Hill/Clifton,199,115,199
+Brooklyn,Bensonhurst East,199,21,199

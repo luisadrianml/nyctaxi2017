@@ -1,0 +1,7 @@
+PU_Borough,PUWeekday,PUHour,avg(passenger_count)
+Queens,Sunday,6,1.62015503875969
+Manhattan,Friday,15,1.6193814740217034
+Queens,Saturday,7,1.6190672040799539
+Queens,Sunday,22,1.6187582196995915
+Brooklyn,Sunday,21,1.6186102236421724
+Brooklyn,Thursday,23,1.617893586005831

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Midwood,21236,165,21236
+Brooklyn,Prospect Park,20736,190,20736

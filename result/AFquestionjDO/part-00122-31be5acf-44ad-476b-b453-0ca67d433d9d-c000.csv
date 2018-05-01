@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Hamilton Heights,716,116,716,4
+Queens,Elmhurst/Maspeth,715,83,715,3
+Staten Island,Great Kills,709,109,709,1
+Queens,East Elmhurst,709,70,709,3
+Queens,Flushing,698,92,698,3
+Brooklyn,Sunset Park West,686,228,686,3

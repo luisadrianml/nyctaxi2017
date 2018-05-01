@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Soundview/Bruckner,273,212,273,3
+Queens,Kew Gardens,269,134,269,3
+Staten Island,Port Richmond,267,187,267,2
+Bronx,West Farms/Bronx River,267,248,267,3
+Bronx,Crotona Park,261,59,261,1
+Brooklyn,East Flatbush/Farragut,259,71,259,3

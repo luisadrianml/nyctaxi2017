@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Willets Point,517,253,517,2
+Brooklyn,Bushwick South,513,37,513,4
+Brooklyn,East New York,511,76,511,3
+Brooklyn,Williamsburg (North Side),505,255,505,4
+Brooklyn,Williamsburg (South Side),504,256,504,4

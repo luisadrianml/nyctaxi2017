@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Claremont/Bathgate,5922,47,5922,2
+Bronx,Woodlawn/Wakefield,5832,259,5832,1
+Manhattan,Kips Bay,5831,137,5831,3
+Brooklyn,Sheepshead Bay,5822,210,5822,2
+Manhattan,Midtown Center,5816,161,5816,4

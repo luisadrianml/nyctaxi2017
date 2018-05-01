@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Prospect Park,147,190,147,3
+Queens,Fresh Meadows,146,98,146,3
+Bronx,Crotona Park East,141,60,141,3
+Queens,Rego Park,139,196,139,4
+Queens,Ozone Park,139,180,139,3
+Bronx,Belmont,139,20,139,3

@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,South Jamaica,45,215,45,4
+Brooklyn,East Flatbush/Remsen Village,45,72,45,3
+Bronx,East Tremont,45,78,45,3

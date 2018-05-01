@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Little Italy/NoLiTa,394134,144,394134,2
+Manhattan,Clinton West,376537,50,376537,2
+Manhattan,Morningside Heights,374657,166,374657,1
+Manhattan,Lincoln Square West,367031,143,367031,2
+Manhattan,Meatpacking/West Village West,351644,158,351644,2

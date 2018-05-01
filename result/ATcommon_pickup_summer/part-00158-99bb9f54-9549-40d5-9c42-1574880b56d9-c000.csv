@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Fresh Meadows,134,98,134
+Bronx,Co-Op City,132,51,132

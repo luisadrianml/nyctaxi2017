@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Midtown South,1586215,164,1586215,1
+Manhattan,Upper West Side North,1551454,238,1551454,1
+Manhattan,Times Sq/Theatre District,1496540,230,1496540,2
+Manhattan,West Chelsea/Hudson Yards,1456614,246,1456614,1
+Manhattan,Midtown Center,1447521,161,1447521,2

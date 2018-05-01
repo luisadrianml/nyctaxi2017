@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Carroll Gardens,134547,40,134547
+Queens,Forest Hills,132556,95,132556

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Battery Park City,1068398,13,1068398
+Manhattan,Manhattan Valley,970807,151,970807

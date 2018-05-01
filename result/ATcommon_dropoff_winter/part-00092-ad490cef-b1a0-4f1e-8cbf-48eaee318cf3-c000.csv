@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Columbia Street,8563,54,8563
+Queens,North Corona,8510,173,8510

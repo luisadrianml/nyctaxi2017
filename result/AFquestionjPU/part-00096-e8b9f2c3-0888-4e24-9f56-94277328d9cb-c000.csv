@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Riverdale/North Riverdale/Fieldston,439,200,439,1
+Brooklyn,Sheepshead Bay,437,210,437,1
+Queens,College Point,436,53,436,2
+Brooklyn,Ocean Parkway South,430,178,430,3
+Queens,Springfield Gardens North,430,218,430,2

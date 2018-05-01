@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Sunset Park West,246,228,246,3
+Manhattan,Manhattanville,241,152,241,4
+Queens,Forest Hills,240,95,240,3
+Brooklyn,Bushwick North,240,36,240,3
+Queens,Steinway,240,223,240,4
+Queens,Fresh Meadows,238,98,238,1

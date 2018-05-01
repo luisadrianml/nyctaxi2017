@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,DUMBO/Vinegar Hill,45058,66,45058
+Queens,Long Island City/Queens Plaza,39066,146,39066

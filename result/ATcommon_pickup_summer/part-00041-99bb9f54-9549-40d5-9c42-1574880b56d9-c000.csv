@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Chinatown,63325,45,63325
+Manhattan,Seaport,56966,209,56966

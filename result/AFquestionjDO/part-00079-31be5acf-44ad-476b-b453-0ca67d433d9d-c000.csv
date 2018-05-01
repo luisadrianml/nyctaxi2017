@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Brighton Beach,5153,29,5153,2
+Bronx,Belmont,5105,20,5105,2
+Manhattan,Upper East Side South,5104,237,5104,4
+Bronx,Van Nest/Morris Park,5080,242,5080,2
+Manhattan,Inwood Hill Park,5001,128,5001,1

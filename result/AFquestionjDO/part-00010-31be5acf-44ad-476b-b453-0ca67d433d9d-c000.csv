@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Lenox Hill West,784026,141,784026,2
+Manhattan,East Chelsea,783101,68,783101,2
+Manhattan,Little Italy/NoLiTa,765878,144,765878,1
+Manhattan,Financial District North,738652,87,738652,1
+Manhattan,East Village,715522,79,715522,2

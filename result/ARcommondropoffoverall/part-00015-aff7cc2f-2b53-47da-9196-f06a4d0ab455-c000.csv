@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Sutton Place/Turtle Bay North,1988096,229,1988096
+Manhattan,Lenox Hill East,1961533,140,1961533

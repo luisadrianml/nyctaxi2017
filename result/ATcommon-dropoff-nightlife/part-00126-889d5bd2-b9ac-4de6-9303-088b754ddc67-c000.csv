@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Borough Park,2331,26,2331
+Queens,Hillcrest/Pomonok,2321,121,2321

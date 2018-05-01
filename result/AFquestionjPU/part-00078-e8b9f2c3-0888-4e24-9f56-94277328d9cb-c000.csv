@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Canarsie,992,39,992,1
+Brooklyn,Borough Park,986,26,986,1
+Brooklyn,Erasmus,974,85,974,1
+Brooklyn,Flatlands,947,91,947,1
+Bronx,Spuyten Duyvil/Kingsbridge,936,220,936,1

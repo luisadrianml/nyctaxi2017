@@ -1,0 +1,1837 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),DOWeekday
+Manhattan,Midtown Center,721913,161,721913,Wednesday
+Manhattan,Midtown Center,712595,161,712595,Thursday
+Manhattan,Midtown Center,695135,161,695135,Tuesday
+Manhattan,Upper East Side North,681370,236,681370,Wednesday
+Manhattan,Upper East Side North,666032,236,666032,Thursday
+Manhattan,Midtown Center,657604,161,657604,Friday
+Manhattan,Upper East Side North,655285,236,655285,Tuesday
+Manhattan,Upper East Side South,648671,237,648671,Wednesday
+Manhattan,Upper East Side South,637180,237,637180,Thursday
+Manhattan,Upper East Side North,625252,236,625252,Friday
+Manhattan,Upper East Side South,621363,237,621363,Tuesday
+Manhattan,Midtown Center,619811,161,619811,Monday
+Manhattan,Upper East Side North,588704,236,588704,Monday
+Manhattan,Upper East Side South,586465,237,586465,Friday
+Manhattan,Murray Hill,578211,170,578211,Thursday
+Manhattan,Midtown East,576589,162,576589,Wednesday
+Manhattan,East Village,573428,79,573428,Saturday
+Manhattan,Midtown East,570862,162,570862,Thursday
+Manhattan,Murray Hill,569124,170,569124,Wednesday
+Manhattan,Murray Hill,561616,170,561616,Friday
+Manhattan,Midtown East,546406,162,546406,Tuesday
+Manhattan,Midtown East,546196,162,546196,Friday
+Manhattan,Upper East Side South,543429,237,543429,Monday
+Manhattan,Murray Hill,538203,170,538203,Tuesday
+Manhattan,Times Sq/Theatre District,535073,230,535073,Wednesday
+Manhattan,Times Sq/Theatre District,531794,230,531794,Friday
+Manhattan,Clinton East,531528,48,531528,Saturday
+Manhattan,Times Sq/Theatre District,523090,230,523090,Thursday
+Manhattan,Times Sq/Theatre District,517377,230,517377,Tuesday
+Manhattan,Times Sq/Theatre District,510821,230,510821,Saturday
+Manhattan,Union Sq,499442,234,499442,Thursday
+Manhattan,Union Sq,499173,234,499173,Wednesday
+Manhattan,Upper East Side North,495426,236,495426,Saturday
+Manhattan,Midtown East,492051,162,492051,Monday
+Manhattan,Penn Station/Madison Sq West,487609,186,487609,Saturday
+Manhattan,Union Sq,486959,234,486959,Friday
+Manhattan,Murray Hill,481426,170,481426,Saturday
+Manhattan,Upper East Side South,475136,237,475136,Saturday
+Manhattan,Murray Hill,473792,170,473792,Monday
+Manhattan,Union Sq,473022,234,473022,Tuesday
+Manhattan,East Village,470786,79,470786,Sunday
+Manhattan,Clinton East,469585,48,469585,Sunday
+Manhattan,Times Sq/Theatre District,469577,230,469577,Monday
+Manhattan,Penn Station/Madison Sq West,460490,186,460490,Friday
+Manhattan,Penn Station/Madison Sq West,459410,186,459410,Sunday
+Manhattan,Lincoln Square East,459286,142,459286,Saturday
+Manhattan,Clinton East,454308,48,454308,Friday
+Manhattan,Penn Station/Madison Sq West,448842,186,448842,Thursday
+Manhattan,East Village,445483,79,445483,Friday
+Manhattan,Union Sq,444519,234,444519,Saturday
+Manhattan,Penn Station/Madison Sq West,439641,186,439641,Wednesday
+Manhattan,Upper East Side North,438853,236,438853,Sunday
+Manhattan,Midtown Center,435386,161,435386,Saturday
+Manhattan,Times Sq/Theatre District,434478,230,434478,Sunday
+Manhattan,Lincoln Square East,433700,142,433700,Wednesday
+Manhattan,Lincoln Square East,432363,142,432363,Friday
+Manhattan,Midtown North,431879,163,431879,Wednesday
+Manhattan,Lincoln Square East,431804,142,431804,Thursday
+Manhattan,Midtown North,430304,163,430304,Thursday
+Manhattan,Clinton East,425613,48,425613,Thursday
+Manhattan,Clinton East,421924,48,421924,Wednesday
+Manhattan,Midtown North,417514,163,417514,Tuesday
+Manhattan,Murray Hill,416535,170,416535,Sunday
+Manhattan,Midtown North,415528,163,415528,Friday
+Manhattan,Union Sq,415234,234,415234,Monday
+Manhattan,East Chelsea,414692,68,414692,Saturday
+Manhattan,Lincoln Square East,412519,142,412519,Tuesday
+Manhattan,Penn Station/Madison Sq West,408240,186,408240,Tuesday
+Manhattan,Upper West Side South,405885,239,405885,Friday
+Manhattan,Upper West Side South,402880,239,402880,Thursday
+Manhattan,Upper West Side South,402824,239,402824,Saturday
+Manhattan,Upper West Side South,399681,239,399681,Wednesday
+Manhattan,Clinton East,399087,48,399087,Tuesday
+Manhattan,Upper East Side South,395962,237,395962,Sunday
+Manhattan,Lenox Hill West,393473,141,393473,Friday
+Manhattan,Lenox Hill West,391611,141,391611,Thursday
+Manhattan,Midtown East,388744,162,388744,Saturday
+Manhattan,Penn Station/Madison Sq West,385864,186,385864,Monday
+Manhattan,Lenox Hill West,385717,141,385717,Wednesday
+Manhattan,Upper West Side South,385078,239,385078,Tuesday
+Manhattan,Lincoln Square East,384686,142,384686,Sunday
+Manhattan,East Chelsea,379867,68,379867,Friday
+Manhattan,Midtown North,379698,163,379698,Monday
+Manhattan,Lenox Hill West,377940,141,377940,Saturday
+Manhattan,Lincoln Square East,376289,142,376289,Monday
+Manhattan,Upper West Side South,376077,239,376077,Sunday
+Manhattan,Midtown South,375810,164,375810,Friday
+Manhattan,Clinton East,373362,48,373362,Monday
+Manhattan,Gramercy,371539,107,371539,Saturday
+Manhattan,Midtown South,371356,164,371356,Thursday
+Manhattan,East Chelsea,368625,68,368625,Sunday
+Manhattan,East Chelsea,368386,68,368386,Thursday
+Manhattan,Lenox Hill West,368337,141,368337,Tuesday
+Manhattan,Midtown South,368046,164,368046,Wednesday
+Manhattan,Gramercy,367389,107,367389,Friday
+Manhattan,Midtown North,359352,163,359352,Saturday
+Manhattan,East Village,356516,79,356516,Thursday
+Manhattan,Gramercy,356076,107,356076,Thursday
+Manhattan,Midtown Center,355386,161,355386,Sunday
+Manhattan,East Chelsea,354340,68,354340,Wednesday
+Manhattan,West Village,354081,249,354081,Saturday
+Manhattan,Upper West Side South,353692,239,353692,Monday
+Manhattan,Union Sq,353338,234,353338,Sunday
+Manhattan,Midtown South,351965,164,351965,Tuesday
+Manhattan,Gramercy,347252,107,347252,Wednesday
+Manhattan,Midtown South,347108,164,347108,Saturday
+Manhattan,Upper West Side North,341399,238,341399,Thursday
+Manhattan,Lenox Hill West,340766,141,340766,Sunday
+Manhattan,Upper West Side North,339610,238,339610,Wednesday
+Manhattan,Lenox Hill West,338421,141,338421,Monday
+Manhattan,Upper West Side North,337023,238,337023,Friday
+Manhattan,Gramercy,332791,107,332791,Sunday
+Manhattan,East Chelsea,332008,68,332008,Tuesday
+Manhattan,Midtown East,329384,162,329384,Sunday
+Manhattan,Gramercy,326495,107,326495,Tuesday
+Manhattan,Upper West Side North,326239,238,326239,Tuesday
+Manhattan,East Village,326029,79,326029,Wednesday
+Manhattan,Midtown South,323881,164,323881,Monday
+Manhattan,Lenox Hill East,323467,140,323467,Wednesday
+Manhattan,Lenox Hill East,317482,140,317482,Thursday
+Manhattan,Yorkville West,317466,263,317466,Saturday
+Manhattan,Yorkville West,310225,263,310225,Friday
+Manhattan,Lenox Hill East,308827,140,308827,Tuesday
+Manhattan,Lenox Hill East,308060,140,308060,Friday
+Manhattan,West Chelsea/Hudson Yards,307861,246,307861,Saturday
+Manhattan,TriBeCa/Civic Center,307471,231,307471,Thursday
+Manhattan,West Chelsea/Hudson Yards,305758,246,305758,Thursday
+Manhattan,East Chelsea,305289,68,305289,Monday
+Manhattan,Midtown North,303627,163,303627,Sunday
+Manhattan,TriBeCa/Civic Center,302256,231,302256,Wednesday
+Manhattan,East Village,301867,79,301867,Tuesday
+Manhattan,Upper West Side North,299877,238,299877,Saturday
+Manhattan,Sutton Place/Turtle Bay North,299198,229,299198,Wednesday
+Manhattan,Upper West Side North,298696,238,298696,Monday
+Manhattan,Sutton Place/Turtle Bay North,298582,229,298582,Friday
+Manhattan,Sutton Place/Turtle Bay North,298055,229,298055,Thursday
+Manhattan,West Village,297605,249,297605,Friday
+Manhattan,West Chelsea/Hudson Yards,295700,246,295700,Friday
+Manhattan,Yorkville West,295308,263,295308,Thursday
+Manhattan,Upper West Side North,295140,238,295140,Sunday
+Manhattan,Gramercy,294897,107,294897,Monday
+Manhattan,West Chelsea/Hudson Yards,294504,246,294504,Wednesday
+Manhattan,Midtown South,293745,164,293745,Sunday
+Manhattan,TriBeCa/Civic Center,293055,231,293055,Friday
+Manhattan,Sutton Place/Turtle Bay North,292384,229,292384,Saturday
+Manhattan,West Village,292054,249,292054,Sunday
+Manhattan,Yorkville West,290967,263,290967,Sunday
+Manhattan,West Chelsea/Hudson Yards,287112,246,287112,Tuesday
+Manhattan,Flatiron,286819,90,286819,Saturday
+Manhattan,Yorkville West,285546,263,285546,Wednesday
+Manhattan,Lower East Side,284083,148,284083,Saturday
+Manhattan,Sutton Place/Turtle Bay North,283012,229,283012,Tuesday
+Manhattan,TriBeCa/Civic Center,282315,231,282315,Tuesday
+Manhattan,West Chelsea/Hudson Yards,281865,246,281865,Sunday
+Manhattan,Lenox Hill East,280338,140,280338,Monday
+Manhattan,East Village,280183,79,280183,Monday
+Manhattan,TriBeCa/Civic Center,277997,231,277997,Saturday
+Manhattan,West Chelsea/Hudson Yards,276796,246,276796,Monday
+Manhattan,Garment District,271185,100,271185,Friday
+Manhattan,Yorkville West,270908,263,270908,Tuesday
+Manhattan,Garment District,269358,100,269358,Wednesday
+Manhattan,Garment District,267962,100,267962,Thursday
+Manhattan,West Village,267947,249,267947,Thursday
+Manhattan,Sutton Place/Turtle Bay North,260446,229,260446,Sunday
+Manhattan,Garment District,259129,100,259129,Tuesday
+Manhattan,UN/Turtle Bay South,258828,233,258828,Friday
+Manhattan,Sutton Place/Turtle Bay North,256419,229,256419,Monday
+Manhattan,Flatiron,255192,90,255192,Friday
+Manhattan,UN/Turtle Bay South,254755,233,254755,Thursday
+Manhattan,TriBeCa/Civic Center,253228,231,253228,Monday
+Manhattan,West Village,252485,249,252485,Wednesday
+Manhattan,UN/Turtle Bay South,252372,233,252372,Wednesday
+Manhattan,Kips Bay,251939,137,251939,Friday
+Manhattan,Flatiron,250720,90,250720,Sunday
+Manhattan,Flatiron,249739,90,249739,Thursday
+Manhattan,Kips Bay,249437,137,249437,Saturday
+Manhattan,Garment District,248253,100,248253,Saturday
+Manhattan,Yorkville West,246665,263,246665,Monday
+Manhattan,Greenwich Village South,246500,114,246500,Saturday
+Manhattan,Flatiron,244501,90,244501,Wednesday
+Manhattan,Greenwich Village North,243908,113,243908,Wednesday
+Unknown,NV,243602,264,243602,Friday
+Manhattan,Greenwich Village North,243156,113,243156,Saturday
+Manhattan,Greenwich Village North,242720,113,242720,Thursday
+Manhattan,Greenwich Village North,241377,113,241377,Friday
+Manhattan,UN/Turtle Bay South,238794,233,238794,Tuesday
+Manhattan,Kips Bay,238496,137,238496,Thursday
+Manhattan,Garment District,236720,100,236720,Monday
+Manhattan,TriBeCa/Civic Center,234609,231,234609,Sunday
+Queens,LaGuardia Airport,234059,138,234059,Thursday
+Unknown,NV,233394,264,233394,Saturday
+Unknown,NV,233023,264,233023,Thursday
+Manhattan,West Village,232772,249,232772,Tuesday
+Manhattan,Greenwich Village North,232429,113,232429,Tuesday
+Queens,LaGuardia Airport,229344,138,229344,Friday
+Manhattan,Flatiron,228967,90,228967,Tuesday
+Manhattan,Kips Bay,227997,137,227997,Wednesday
+Manhattan,Meatpacking/West Village West,227411,158,227411,Saturday
+Manhattan,Kips Bay,223589,137,223589,Sunday
+Manhattan,Lower East Side,222308,148,222308,Sunday
+Manhattan,UN/Turtle Bay South,221952,233,221952,Saturday
+Manhattan,Lenox Hill East,220632,140,220632,Saturday
+Unknown,NV,219659,264,219659,Wednesday
+Manhattan,UN/Turtle Bay South,218541,233,218541,Monday
+Manhattan,Kips Bay,217968,137,217968,Tuesday
+Manhattan,Yorkville East,215027,262,215027,Thursday
+Manhattan,Clinton West,214454,50,214454,Saturday
+Manhattan,Yorkville East,213672,262,213672,Wednesday
+Manhattan,West Village,211878,249,211878,Monday
+Manhattan,Little Italy/NoLiTa,211428,144,211428,Saturday
+Manhattan,Yorkville East,210504,262,210504,Friday
+Unknown,NV,209822,264,209822,Sunday
+Queens,LaGuardia Airport,209220,138,209220,Wednesday
+Manhattan,East Harlem South,208525,75,208525,Friday
+Manhattan,Lincoln Square West,208433,143,208433,Thursday
+Manhattan,Greenwich Village North,208236,113,208236,Monday
+Manhattan,Lincoln Square West,207298,143,207298,Friday
+Manhattan,Lincoln Square West,206841,143,206841,Wednesday
+Manhattan,Greenwich Village North,206605,113,206605,Sunday
+Unknown,NV,206146,264,206146,Tuesday
+Manhattan,Flatiron,206013,90,206013,Monday
+Manhattan,Yorkville East,202885,262,202885,Tuesday
+Manhattan,Lenox Hill East,202727,140,202727,Sunday
+Manhattan,UN/Turtle Bay South,201643,233,201643,Sunday
+Manhattan,Garment District,201229,100,201229,Sunday
+Manhattan,Kips Bay,200772,137,200772,Monday
+Manhattan,Greenwich Village South,200564,114,200564,Friday
+Manhattan,East Harlem South,199792,75,199792,Thursday
+Manhattan,Lower East Side,199773,148,199773,Friday
+Manhattan,Clinton West,199279,50,199279,Friday
+Unknown,NV,198201,264,198201,Monday
+Manhattan,Meatpacking/West Village West,197927,158,197927,Friday
+Manhattan,East Harlem South,197900,75,197900,Wednesday
+Manhattan,Lincoln Square West,197820,143,197820,Tuesday
+Manhattan,Central Park,197433,43,197433,Wednesday
+Manhattan,Central Park,197050,43,197050,Thursday
+Manhattan,Central Park,196516,43,196516,Saturday
+Manhattan,Central Park,196060,43,196060,Friday
+Manhattan,Clinton West,192071,50,192071,Sunday
+Manhattan,Clinton West,189958,50,189958,Thursday
+Manhattan,Central Park,189858,43,189858,Tuesday
+Manhattan,Greenwich Village South,189243,114,189243,Sunday
+Manhattan,Lincoln Square West,189057,143,189057,Saturday
+Manhattan,Yorkville East,187295,262,187295,Saturday
+Queens,LaGuardia Airport,186566,138,186566,Monday
+Manhattan,East Harlem South,185214,75,185214,Tuesday
+Manhattan,Clinton West,185213,50,185213,Wednesday
+Manhattan,Yorkville East,184782,262,184782,Monday
+Manhattan,Meatpacking/West Village West,181565,158,181565,Sunday
+Manhattan,Lincoln Square West,180917,143,180917,Monday
+Manhattan,Meatpacking/West Village West,180571,158,180571,Thursday
+Queens,LaGuardia Airport,178466,138,178466,Sunday
+Manhattan,Battery Park City,176606,13,176606,Thursday
+Manhattan,Little Italy/NoLiTa,176122,144,176122,Sunday
+Manhattan,Yorkville East,175443,262,175443,Sunday
+Manhattan,East Harlem South,175428,75,175428,Saturday
+Queens,LaGuardia Airport,175148,138,175148,Tuesday
+Manhattan,Battery Park City,174979,13,174979,Wednesday
+Manhattan,Clinton West,174208,50,174208,Tuesday
+Manhattan,Central Park,173991,43,173991,Monday
+Manhattan,Lincoln Square West,173769,143,173769,Sunday
+Manhattan,Central Park,172622,43,172622,Sunday
+Manhattan,Greenwich Village South,172035,114,172035,Thursday
+Manhattan,East Harlem South,171682,75,171682,Monday
+Manhattan,SoHo,171497,211,171497,Saturday
+Manhattan,Meatpacking/West Village West,171247,158,171247,Wednesday
+Manhattan,Little Italy/NoLiTa,171133,144,171133,Friday
+Manhattan,Battery Park City,169464,13,169464,Friday
+Manhattan,Clinton West,163363,50,163363,Monday
+Manhattan,Greenwich Village South,162964,114,162964,Wednesday
+Manhattan,Battery Park City,162498,13,162498,Tuesday
+Queens,JFK Airport,162276,132,162276,Friday
+Manhattan,East Harlem South,161549,75,161549,Sunday
+Queens,JFK Airport,159788,132,159788,Sunday
+Manhattan,Lower East Side,158646,148,158646,Thursday
+Manhattan,Meatpacking/West Village West,153547,158,153547,Tuesday
+Manhattan,Greenwich Village South,152046,114,152046,Tuesday
+Manhattan,Battery Park City,151842,13,151842,Saturday
+Manhattan,Battery Park City,151564,13,151564,Monday
+Queens,JFK Airport,151469,132,151469,Thursday
+Manhattan,Little Italy/NoLiTa,150983,144,150983,Thursday
+Manhattan,SoHo,147595,211,147595,Friday
+Manhattan,Financial District North,144081,87,144081,Thursday
+Manhattan,Little Italy/NoLiTa,143997,144,143997,Wednesday
+Manhattan,East Harlem North,143822,74,143822,Saturday
+Manhattan,Meatpacking/West Village West,143770,158,143770,Monday
+Manhattan,East Harlem North,142985,74,142985,Friday
+Manhattan,Lower East Side,142324,148,142324,Wednesday
+Manhattan,Financial District North,140693,87,140693,Wednesday
+Manhattan,Financial District North,140545,87,140545,Saturday
+Manhattan,Financial District North,140198,87,140198,Friday
+Queens,JFK Airport,140195,132,140195,Monday
+Manhattan,SoHo,139799,211,139799,Thursday
+Manhattan,Greenwich Village South,137725,114,137725,Monday
+Manhattan,SoHo,137419,211,137419,Wednesday
+Manhattan,Manhattan Valley,137287,151,137287,Saturday
+Manhattan,SoHo,136205,211,136205,Sunday
+Manhattan,Battery Park City,135865,13,135865,Sunday
+Manhattan,Manhattan Valley,135346,151,135346,Sunday
+Manhattan,Financial District North,135255,87,135255,Sunday
+Manhattan,Manhattan Valley,135164,151,135164,Friday
+Queens,JFK Airport,134631,132,134631,Wednesday
+Manhattan,Little Italy/NoLiTa,134250,144,134250,Tuesday
+Manhattan,Morningside Heights,131473,166,131473,Friday
+Manhattan,Financial District North,130516,87,130516,Tuesday
+Manhattan,Manhattan Valley,129157,151,129157,Thursday
+Queens,JFK Airport,128373,132,128373,Saturday
+Manhattan,Morningside Heights,127798,166,127798,Thursday
+Manhattan,East Harlem North,127768,74,127768,Sunday
+Manhattan,Manhattan Valley,127514,151,127514,Wednesday
+Manhattan,SoHo,127400,211,127400,Tuesday
+Manhattan,Lower East Side,127228,148,127228,Tuesday
+Manhattan,Little Italy/NoLiTa,126836,144,126836,Monday
+Manhattan,Morningside Heights,125526,166,125526,Wednesday
+Manhattan,Manhattan Valley,123005,151,123005,Tuesday
+Manhattan,East Harlem North,122002,74,122002,Thursday
+Manhattan,Morningside Heights,121773,166,121773,Saturday
+Queens,JFK Airport,121277,132,121277,Tuesday
+Manhattan,Central Harlem,120045,41,120045,Saturday
+Manhattan,Financial District North,120039,87,120039,Monday
+Manhattan,Morningside Heights,119585,166,119585,Tuesday
+Manhattan,Lower East Side,118644,148,118644,Monday
+Manhattan,Central Harlem,118376,41,118376,Sunday
+Manhattan,SoHo,117432,211,117432,Monday
+Manhattan,East Harlem North,116664,74,116664,Wednesday
+Manhattan,Manhattan Valley,113891,151,113891,Monday
+Manhattan,Morningside Heights,112230,166,112230,Monday
+Manhattan,Morningside Heights,110988,166,110988,Sunday
+Manhattan,Central Harlem,110482,41,110482,Friday
+Manhattan,East Harlem North,109412,74,109412,Tuesday
+Manhattan,East Harlem North,105337,74,105337,Monday
+Manhattan,Alphabet City,103965,4,103965,Saturday
+Queens,LaGuardia Airport,102204,138,102204,Saturday
+Queens,Astoria,99989,7,99989,Sunday
+Manhattan,World Trade Center,98871,261,98871,Saturday
+Manhattan,Hudson Sq,98475,125,98475,Wednesday
+Queens,Astoria,97598,7,97598,Saturday
+Manhattan,Hudson Sq,97120,125,97120,Thursday
+Manhattan,Central Harlem,96922,41,96922,Thursday
+Manhattan,Two Bridges/Seward Park,95336,232,95336,Saturday
+Manhattan,Hudson Sq,94243,125,94243,Friday
+Manhattan,Central Harlem,92538,41,92538,Wednesday
+Manhattan,Alphabet City,92212,4,92212,Friday
+Manhattan,Alphabet City,91523,4,91523,Sunday
+Manhattan,Hudson Sq,91196,125,91196,Tuesday
+Manhattan,World Trade Center,90818,261,90818,Sunday
+Manhattan,Central Harlem,86365,41,86365,Tuesday
+Manhattan,Central Harlem North,84589,42,84589,Sunday
+Manhattan,World Trade Center,84436,261,84436,Friday
+Manhattan,Central Harlem North,83495,42,83495,Saturday
+Manhattan,Hudson Sq,83446,125,83446,Saturday
+Manhattan,Central Harlem,83005,41,83005,Monday
+Manhattan,Two Bridges/Seward Park,82608,232,82608,Sunday
+Manhattan,Two Bridges/Seward Park,82500,232,82500,Friday
+Manhattan,World Trade Center,82007,261,82007,Thursday
+Manhattan,Hudson Sq,81943,125,81943,Monday
+Manhattan,World Trade Center,80219,261,80219,Wednesday
+Manhattan,Stuy Town/Peter Cooper Village,78746,224,78746,Sunday
+Manhattan,Stuy Town/Peter Cooper Village,78163,224,78163,Saturday
+Queens,Astoria,77725,7,77725,Friday
+Manhattan,Financial District South,77500,88,77500,Thursday
+Manhattan,Financial District South,76947,88,76947,Wednesday
+Manhattan,World Trade Center,76593,261,76593,Tuesday
+Manhattan,Alphabet City,76573,4,76573,Thursday
+Manhattan,Two Bridges/Seward Park,75870,232,75870,Thursday
+Manhattan,World Trade Center,75418,261,75418,Monday
+Manhattan,Central Harlem North,74475,42,74475,Friday
+Manhattan,Financial District South,72850,88,72850,Friday
+Manhattan,Stuy Town/Peter Cooper Village,72303,224,72303,Friday
+Manhattan,Financial District South,72087,88,72087,Tuesday
+Manhattan,Alphabet City,72087,4,72087,Wednesday
+Manhattan,Two Bridges/Seward Park,71232,232,71232,Wednesday
+Manhattan,Hudson Sq,70224,125,70224,Sunday
+Queens,Astoria,68919,7,68919,Thursday
+Manhattan,Stuy Town/Peter Cooper Village,68275,224,68275,Thursday
+Brooklyn,Williamsburg (North Side),68204,255,68204,Saturday
+Manhattan,Two Bridges/Seward Park,68200,232,68200,Tuesday
+Manhattan,Financial District South,67851,88,67851,Monday
+Manhattan,Alphabet City,67798,4,67798,Tuesday
+Manhattan,Central Harlem North,66761,42,66761,Thursday
+Manhattan,Stuy Town/Peter Cooper Village,65768,224,65768,Wednesday
+Manhattan,Two Bridges/Seward Park,64797,232,64797,Monday
+Manhattan,Financial District South,64049,88,64049,Saturday
+Queens,Astoria,64037,7,64037,Wednesday
+Brooklyn,Park Slope,63137,181,63137,Saturday
+Manhattan,Alphabet City,63107,4,63107,Monday
+Manhattan,Central Harlem North,62858,42,62858,Wednesday
+Manhattan,Stuy Town/Peter Cooper Village,62817,224,62817,Tuesday
+Brooklyn,Williamsburg (North Side),62710,255,62710,Sunday
+Queens,Astoria,62219,7,62219,Monday
+Manhattan,Washington Heights South,62211,244,62211,Sunday
+Manhattan,Washington Heights South,61890,244,61890,Friday
+Brooklyn,Park Slope,61125,181,61125,Sunday
+Manhattan,Washington Heights South,60956,244,60956,Saturday
+Brooklyn,Williamsburg (South Side),59865,256,59865,Saturday
+Manhattan,Bloomingdale,59663,24,59663,Saturday
+Brooklyn,Park Slope,59173,181,59173,Thursday
+Manhattan,Washington Heights South,59008,244,59008,Thursday
+Queens,Astoria,58969,7,58969,Tuesday
+Manhattan,Stuy Town/Peter Cooper Village,58902,224,58902,Monday
+Manhattan,Central Harlem North,58868,42,58868,Tuesday
+Brooklyn,Park Slope,58674,181,58674,Friday
+Manhattan,Central Harlem North,58399,42,58399,Monday
+Manhattan,Hamilton Heights,58197,116,58197,Sunday
+Manhattan,Hamilton Heights,57718,116,57718,Saturday
+Brooklyn,Williamsburg (South Side),57472,256,57472,Sunday
+Queens,Long Island City/Hunters Point,56957,145,56957,Saturday
+Manhattan,Washington Heights South,56777,244,56777,Wednesday
+Brooklyn,Park Slope,56503,181,56503,Wednesday
+Manhattan,Financial District South,56041,88,56041,Sunday
+Manhattan,Bloomingdale,55562,24,55562,Friday
+Manhattan,Bloomingdale,55473,24,55473,Sunday
+Manhattan,Chinatown,54950,45,54950,Saturday
+Manhattan,Washington Heights South,54270,244,54270,Tuesday
+Queens,Long Island City/Hunters Point,54127,145,54127,Friday
+Manhattan,Washington Heights South,53641,244,53641,Monday
+Brooklyn,Williamsburg (North Side),52952,255,52952,Friday
+Queens,Long Island City/Hunters Point,52328,145,52328,Sunday
+Queens,Long Island City/Hunters Point,52179,145,52179,Thursday
+Brooklyn,Greenpoint,51889,112,51889,Saturday
+Brooklyn,Park Slope,51398,181,51398,Tuesday
+Queens,Sunnyside,51359,226,51359,Saturday
+Manhattan,Bloomingdale,51090,24,51090,Thursday
+Brooklyn,Brooklyn Heights,51048,33,51048,Thursday
+Queens,Sunnyside,50479,226,50479,Sunday
+Brooklyn,Brooklyn Heights,50086,33,50086,Wednesday
+Queens,Long Island City/Hunters Point,49957,145,49957,Wednesday
+Manhattan,Bloomingdale,49375,24,49375,Wednesday
+Manhattan,Chinatown,49191,45,49191,Friday
+Manhattan,Chinatown,48964,45,48964,Sunday
+Brooklyn,Brooklyn Heights,48548,33,48548,Friday
+Brooklyn,Greenpoint,48435,112,48435,Sunday
+Brooklyn,Williamsburg (South Side),48396,256,48396,Friday
+Brooklyn,Brooklyn Heights,48330,33,48330,Saturday
+Brooklyn,Brooklyn Heights,47994,33,47994,Sunday
+Brooklyn,Park Slope,47835,181,47835,Monday
+Manhattan,Bloomingdale,47578,24,47578,Tuesday
+Manhattan,Seaport,47208,209,47208,Saturday
+Manhattan,Hamilton Heights,47102,116,47102,Friday
+Brooklyn,Williamsburg (North Side),47077,255,47077,Thursday
+Manhattan,Seaport,46606,209,46606,Friday
+Brooklyn,Brooklyn Heights,46004,33,46004,Tuesday
+Brooklyn,Greenpoint,45998,112,45998,Friday
+Queens,Long Island City/Hunters Point,45761,145,45761,Tuesday
+Manhattan,Seaport,44671,209,44671,Thursday
+Queens,Sunnyside,44658,226,44658,Friday
+Queens,Long Island City/Hunters Point,43896,145,43896,Monday
+Manhattan,Bloomingdale,43515,24,43515,Monday
+Unknown,NA,43459,265,43459,Sunday
+Manhattan,Seaport,43370,209,43370,Wednesday
+Manhattan,Seaport,43018,209,43018,Sunday
+Unknown,NA,42995,265,42995,Friday
+Brooklyn,Williamsburg (North Side),42913,255,42913,Wednesday
+Manhattan,Chinatown,42905,45,42905,Thursday
+Brooklyn,Williamsburg (South Side),42718,256,42718,Thursday
+Brooklyn,Brooklyn Heights,42551,33,42551,Monday
+Queens,Steinway,42511,223,42511,Sunday
+Manhattan,Chinatown,42226,45,42226,Wednesday
+Brooklyn,East Williamsburg,41952,80,41952,Saturday
+Brooklyn,Greenpoint,41905,112,41905,Thursday
+Manhattan,Hamilton Heights,41642,116,41642,Thursday
+Brooklyn,East Williamsburg,41532,80,41532,Sunday
+Queens,Steinway,40947,223,40947,Saturday
+Queens,Sunnyside,40805,226,40805,Thursday
+Unknown,NA,40699,265,40699,Thursday
+Manhattan,Chinatown,40435,45,40435,Tuesday
+Manhattan,Chinatown,39772,45,39772,Monday
+Manhattan,Seaport,39591,209,39591,Tuesday
+Brooklyn,Williamsburg (South Side),39429,256,39429,Wednesday
+Brooklyn,Greenpoint,39348,112,39348,Wednesday
+Manhattan,Hamilton Heights,38999,116,38999,Wednesday
+Unknown,NA,38843,265,38843,Wednesday
+Brooklyn,Williamsburg (North Side),38640,255,38640,Tuesday
+Unknown,NA,38428,265,38428,Saturday
+Queens,Sunnyside,38356,226,38356,Wednesday
+Manhattan,Hamilton Heights,38148,116,38148,Monday
+EWR,Newark Airport,37688,1,37688,Friday
+Manhattan,Hamilton Heights,37493,116,37493,Tuesday
+Brooklyn,Crown Heights North,37298,61,37298,Sunday
+Brooklyn,Williamsburg (North Side),37153,255,37153,Monday
+Manhattan,Seaport,37016,209,37016,Monday
+Unknown,NA,36803,265,36803,Monday
+Queens,Steinway,36246,223,36246,Friday
+Queens,Sunnyside,36216,226,36216,Tuesday
+Queens,Sunnyside,36112,226,36112,Monday
+Manhattan,Washington Heights North,35978,243,35978,Sunday
+Brooklyn,Greenpoint,35956,112,35956,Tuesday
+Brooklyn,Crown Heights North,35882,61,35882,Saturday
+Queens,Jackson Heights,35795,129,35795,Sunday
+Brooklyn,Williamsburg (South Side),35635,256,35635,Tuesday
+Unknown,NA,35438,265,35438,Tuesday
+EWR,Newark Airport,35182,1,35182,Sunday
+Brooklyn,Clinton Hill,34999,49,34999,Sunday
+EWR,Newark Airport,34937,1,34937,Thursday
+Brooklyn,Clinton Hill,34870,49,34870,Saturday
+Queens,Jackson Heights,34696,129,34696,Saturday
+Brooklyn,Boerum Hill,34558,25,34558,Saturday
+Brooklyn,Bushwick South,34479,37,34479,Sunday
+Brooklyn,Boerum Hill,34383,25,34383,Sunday
+Brooklyn,Bushwick South,34262,37,34262,Saturday
+Manhattan,Washington Heights North,33829,243,33829,Saturday
+Brooklyn,Downtown Brooklyn/MetroTech,33808,65,33808,Friday
+Brooklyn,Downtown Brooklyn/MetroTech,33573,65,33573,Saturday
+Brooklyn,Greenpoint,33425,112,33425,Monday
+Brooklyn,Williamsburg (South Side),33175,256,33175,Monday
+Brooklyn,Downtown Brooklyn/MetroTech,33152,65,33152,Sunday
+Brooklyn,Bedford,33140,17,33140,Sunday
+Brooklyn,Downtown Brooklyn/MetroTech,32865,65,32865,Thursday
+Manhattan,Manhattanville,32856,152,32856,Saturday
+Brooklyn,Fort Greene,32688,97,32688,Saturday
+Brooklyn,East Williamsburg,32510,80,32510,Friday
+Brooklyn,Boerum Hill,32438,25,32438,Friday
+Queens,Steinway,32226,223,32226,Thursday
+Brooklyn,Clinton Hill,32176,49,32176,Friday
+Brooklyn,Bedford,31918,17,31918,Saturday
+Manhattan,Manhattanville,31822,152,31822,Sunday
+Brooklyn,Downtown Brooklyn/MetroTech,31766,65,31766,Wednesday
+EWR,Newark Airport,31563,1,31563,Wednesday
+Brooklyn,Boerum Hill,31293,25,31293,Thursday
+Brooklyn,Clinton Hill,31094,49,31094,Thursday
+Brooklyn,Fort Greene,30935,97,30935,Sunday
+Brooklyn,Fort Greene,30670,97,30670,Friday
+Manhattan,Washington Heights North,30616,243,30616,Friday
+Manhattan,Manhattanville,30276,152,30276,Friday
+Queens,Steinway,30018,223,30018,Wednesday
+Brooklyn,Boerum Hill,29936,25,29936,Wednesday
+Queens,Jackson Heights,29774,129,29774,Friday
+Queens,Old Astoria,29629,179,29629,Sunday
+Brooklyn,Crown Heights North,29623,61,29623,Friday
+Manhattan,Washington Heights North,29394,243,29394,Thursday
+Brooklyn,Clinton Hill,29345,49,29345,Wednesday
+Brooklyn,Downtown Brooklyn/MetroTech,29325,65,29325,Tuesday
+EWR,Newark Airport,29248,1,29248,Monday
+Queens,Steinway,29248,223,29248,Monday
+Brooklyn,Fort Greene,29214,97,29214,Thursday
+Brooklyn,Downtown Brooklyn/MetroTech,28959,65,28959,Monday
+Queens,Old Astoria,28530,179,28530,Saturday
+Brooklyn,East Williamsburg,28503,80,28503,Thursday
+Manhattan,Washington Heights North,28061,243,28061,Wednesday
+Brooklyn,Fort Greene,27846,97,27846,Wednesday
+Queens,Steinway,27802,223,27802,Tuesday
+Manhattan,Manhattanville,27217,152,27217,Thursday
+Brooklyn,Clinton Hill,27048,49,27048,Tuesday
+Brooklyn,Bedford,26919,17,26919,Friday
+Brooklyn,Boerum Hill,26840,25,26840,Tuesday
+Manhattan,Washington Heights North,26830,243,26830,Tuesday
+Brooklyn,Crown Heights North,26657,61,26657,Thursday
+EWR,Newark Airport,26636,1,26636,Tuesday
+Queens,Jackson Heights,26517,129,26517,Thursday
+Brooklyn,East Williamsburg,26355,80,26355,Wednesday
+Queens,Woodside,26256,260,26256,Sunday
+Queens,Jackson Heights,26157,129,26157,Monday
+Manhattan,Washington Heights North,26055,243,26055,Monday
+Manhattan,Manhattanville,25984,152,25984,Wednesday
+Brooklyn,Clinton Hill,25975,49,25975,Monday
+Brooklyn,DUMBO/Vinegar Hill,25953,66,25953,Thursday
+Brooklyn,Boerum Hill,25525,25,25525,Monday
+Brooklyn,Crown Heights North,25508,61,25508,Wednesday
+Brooklyn,DUMBO/Vinegar Hill,25345,66,25345,Friday
+Brooklyn,Bushwick South,25289,37,25289,Friday
+Brooklyn,Fort Greene,25260,97,25260,Tuesday
+Queens,Jackson Heights,25229,129,25229,Wednesday
+Queens,Woodside,25216,260,25216,Saturday
+Brooklyn,DUMBO/Vinegar Hill,25033,66,25033,Wednesday
+Brooklyn,DUMBO/Vinegar Hill,24856,66,24856,Saturday
+Queens,Long Island City/Queens Plaza,24778,146,24778,Saturday
+EWR,Newark Airport,24777,1,24777,Saturday
+Brooklyn,Bedford,24534,17,24534,Thursday
+Queens,Old Astoria,24522,179,24522,Friday
+Manhattan,Manhattanville,24510,152,24510,Tuesday
+Queens,Jackson Heights,24330,129,24330,Tuesday
+Manhattan,Manhattanville,24196,152,24196,Monday
+Brooklyn,DUMBO/Vinegar Hill,24037,66,24037,Sunday
+Brooklyn,East Williamsburg,24019,80,24019,Tuesday
+Brooklyn,Fort Greene,23986,97,23986,Monday
+Brooklyn,Stuyvesant Heights,23604,225,23604,Saturday
+Brooklyn,Bedford,23486,17,23486,Wednesday
+Brooklyn,East Williamsburg,23445,80,23445,Monday
+Brooklyn,Stuyvesant Heights,23382,225,23382,Sunday
+Brooklyn,Crown Heights North,23216,61,23216,Tuesday
+Brooklyn,DUMBO/Vinegar Hill,23152,66,23152,Tuesday
+Brooklyn,Crown Heights North,23126,61,23126,Monday
+Queens,Long Island City/Queens Plaza,22991,146,22991,Sunday
+Brooklyn,Bushwick North,22909,36,22909,Saturday
+Brooklyn,Bushwick North,22823,36,22823,Sunday
+Queens,Old Astoria,22486,179,22486,Thursday
+Brooklyn,DUMBO/Vinegar Hill,22189,66,22189,Monday
+Queens,Long Island City/Queens Plaza,21719,146,21719,Friday
+Brooklyn,Bushwick South,21651,37,21651,Thursday
+Queens,Old Astoria,21388,179,21388,Wednesday
+Brooklyn,Bedford,21388,17,21388,Monday
+Brooklyn,Bedford,21254,17,21254,Tuesday
+Brooklyn,Prospect Heights,20646,189,20646,Sunday
+Brooklyn,Carroll Gardens,20626,40,20626,Saturday
+Brooklyn,Carroll Gardens,20590,40,20590,Thursday
+Queens,Woodside,20342,260,20342,Friday
+Brooklyn,Prospect Heights,20342,189,20342,Saturday
+Queens,Elmhurst,20262,82,20262,Sunday
+Brooklyn,Carroll Gardens,20247,40,20247,Friday
+Queens,Old Astoria,20136,179,20136,Monday
+Queens,Long Island City/Queens Plaza,20101,146,20101,Thursday
+Queens,Forest Hills,20057,95,20057,Friday
+Queens,Forest Hills,19876,95,19876,Thursday
+Brooklyn,Bushwick South,19814,37,19814,Wednesday
+Brooklyn,Carroll Gardens,19728,40,19728,Sunday
+Brooklyn,Carroll Gardens,19724,40,19724,Wednesday
+Queens,Old Astoria,19561,179,19561,Tuesday
+Queens,Forest Hills,19400,95,19400,Saturday
+Queens,Forest Hills,19359,95,19359,Sunday
+Queens,Elmhurst,19353,82,19353,Saturday
+Queens,Long Island City/Queens Plaza,19229,146,19229,Wednesday
+Queens,Forest Hills,19167,95,19167,Wednesday
+Brooklyn,Stuyvesant Heights,18987,225,18987,Friday
+Brooklyn,Bushwick South,18570,37,18570,Monday
+Queens,Long Island City/Queens Plaza,18423,146,18423,Monday
+Brooklyn,Prospect Heights,18197,189,18197,Friday
+Brooklyn,Bushwick South,18081,37,18081,Tuesday
+Queens,Long Island City/Queens Plaza,18020,146,18020,Tuesday
+Queens,Woodside,17730,260,17730,Thursday
+Brooklyn,Prospect Heights,17694,189,17694,Thursday
+Queens,Forest Hills,17584,95,17584,Tuesday
+Brooklyn,Carroll Gardens,17400,40,17400,Tuesday
+Queens,Woodside,17329,260,17329,Monday
+Queens,Forest Hills,17113,95,17113,Monday
+Brooklyn,Prospect Heights,16954,189,16954,Wednesday
+Brooklyn,Stuyvesant Heights,16798,225,16798,Thursday
+Queens,Woodside,16550,260,16550,Wednesday
+Brooklyn,Carroll Gardens,16232,40,16232,Monday
+Brooklyn,Flatbush/Ditmas Park,16088,89,16088,Sunday
+Queens,Woodside,16008,260,16008,Tuesday
+Brooklyn,Bushwick North,15900,36,15900,Friday
+Brooklyn,Stuyvesant Heights,15822,225,15822,Wednesday
+Brooklyn,Flatbush/Ditmas Park,15653,89,15653,Saturday
+Bronx,Mott Haven/Port Morris,15410,168,15410,Saturday
+Brooklyn,Prospect Heights,15239,189,15239,Tuesday
+Manhattan,Inwood,15004,127,15004,Saturday
+Brooklyn,Prospect-Lefferts Gardens,14937,188,14937,Sunday
+Brooklyn,Cobble Hill,14774,52,14774,Thursday
+Brooklyn,Cobble Hill,14723,52,14723,Wednesday
+Manhattan,Inwood,14704,127,14704,Sunday
+Brooklyn,Stuyvesant Heights,14547,225,14547,Monday
+Queens,Elmhurst,14368,82,14368,Friday
+Brooklyn,Prospect Heights,14341,189,14341,Monday
+Brooklyn,Stuyvesant Heights,14279,225,14279,Tuesday
+Brooklyn,Flatbush/Ditmas Park,14237,89,14237,Friday
+Brooklyn,Bay Ridge,14145,14,14145,Friday
+Brooklyn,Prospect-Lefferts Gardens,14087,188,14087,Saturday
+Brooklyn,Cobble Hill,14059,52,14059,Friday
+Brooklyn,Bay Ridge,13913,14,13913,Saturday
+Bronx,Mott Haven/Port Morris,13867,168,13867,Sunday
+Bronx,Mott Haven/Port Morris,13762,168,13762,Friday
+Brooklyn,Bay Ridge,13741,14,13741,Sunday
+Brooklyn,Cobble Hill,13630,52,13630,Sunday
+Brooklyn,Cobble Hill,13554,52,13554,Saturday
+Brooklyn,Flatbush/Ditmas Park,13425,89,13425,Thursday
+Manhattan,Battery Park,13366,12,13366,Saturday
+Brooklyn,Flatbush/Ditmas Park,13331,89,13331,Wednesday
+Brooklyn,Sunset Park West,13308,228,13308,Saturday
+Brooklyn,Bay Ridge,13278,14,13278,Thursday
+Queens,Elmhurst,13273,82,13273,Monday
+Brooklyn,Cobble Hill,13240,52,13240,Tuesday
+Queens,Ridgewood,13015,198,13015,Sunday
+Queens,Ridgewood,12774,198,12774,Saturday
+Manhattan,Inwood,12749,127,12749,Friday
+Brooklyn,Bushwick North,12694,36,12694,Thursday
+Queens,Queensbridge/Ravenswood,12647,193,12647,Friday
+Manhattan,Battery Park,12557,12,12557,Sunday
+Queens,Elmhurst,12421,82,12421,Thursday
+Brooklyn,Sunset Park West,12397,228,12397,Sunday
+Brooklyn,Bay Ridge,12395,14,12395,Wednesday
+Brooklyn,Cobble Hill,12237,52,12237,Monday
+Brooklyn,Prospect-Lefferts Gardens,12219,188,12219,Friday
+Brooklyn,Flatbush/Ditmas Park,11949,89,11949,Tuesday
+Brooklyn,Flatbush/Ditmas Park,11886,89,11886,Monday
+Queens,Queensbridge/Ravenswood,11834,193,11834,Thursday
+Brooklyn,Bushwick North,11825,36,11825,Wednesday
+Queens,Elmhurst,11800,82,11800,Wednesday
+Brooklyn,Bushwick North,11794,36,11794,Monday
+Manhattan,Battery Park,11767,12,11767,Friday
+Manhattan,Inwood,11723,127,11723,Thursday
+Brooklyn,Gowanus,11640,106,11640,Saturday
+Queens,Elmhurst,11632,82,11632,Tuesday
+Brooklyn,Prospect-Lefferts Gardens,11571,188,11571,Thursday
+Manhattan,Battery Park,11526,12,11526,Thursday
+Brooklyn,Sunset Park West,11425,228,11425,Friday
+Queens,Queensbridge/Ravenswood,11360,193,11360,Wednesday
+Bronx,Mott Haven/Port Morris,11344,168,11344,Thursday
+Manhattan,Battery Park,11329,12,11329,Wednesday
+Queens,Queensbridge/Ravenswood,11293,193,11293,Saturday
+Manhattan,Inwood,11204,127,11204,Wednesday
+Bronx,Mott Haven/Port Morris,11151,168,11151,Wednesday
+Brooklyn,Prospect-Lefferts Gardens,11091,188,11091,Wednesday
+Manhattan,Battery Park,11089,12,11089,Monday
+Bronx,Mott Haven/Port Morris,11015,168,11015,Monday
+Brooklyn,Bushwick North,10879,36,10879,Tuesday
+Manhattan,Battery Park,10825,12,10825,Tuesday
+Queens,Queensbridge/Ravenswood,10733,193,10733,Tuesday
+Brooklyn,Bay Ridge,10732,14,10732,Tuesday
+Queens,Queensbridge/Ravenswood,10703,193,10703,Monday
+Bronx,Mott Haven/Port Morris,10593,168,10593,Tuesday
+Brooklyn,Prospect-Lefferts Gardens,10543,188,10543,Monday
+Manhattan,Inwood,10535,127,10535,Tuesday
+Manhattan,Inwood,10447,127,10447,Monday
+Brooklyn,Sunset Park West,10339,228,10339,Thursday
+Brooklyn,Gowanus,10319,106,10319,Sunday
+Brooklyn,Prospect-Lefferts Gardens,10259,188,10259,Tuesday
+Queens,Ridgewood,10218,198,10218,Friday
+Brooklyn,Bay Ridge,9965,14,9965,Monday
+Brooklyn,Sunset Park West,9830,228,9830,Wednesday
+Brooklyn,Gowanus,9768,106,9768,Friday
+Queens,Queensbridge/Ravenswood,9746,193,9746,Sunday
+Queens,Elmhurst/Maspeth,9717,83,9717,Sunday
+Bronx,West Concourse,9636,247,9636,Sunday
+Brooklyn,Crown Heights South,9361,62,9361,Sunday
+Brooklyn,Red Hook,9140,195,9140,Saturday
+Brooklyn,Windsor Terrace,9132,257,9132,Thursday
+Brooklyn,Windsor Terrace,9121,257,9121,Saturday
+Bronx,West Concourse,9087,247,9087,Saturday
+Brooklyn,Sunset Park West,9022,228,9022,Tuesday
+Queens,Elmhurst/Maspeth,9018,83,9018,Saturday
+Brooklyn,Gowanus,8926,106,8926,Thursday
+Brooklyn,Windsor Terrace,8870,257,8870,Sunday
+Brooklyn,Windsor Terrace,8860,257,8860,Friday
+Brooklyn,Sunset Park West,8778,228,8778,Monday
+Queens,Ridgewood,8735,198,8735,Thursday
+Manhattan,Roosevelt Island,8541,202,8541,Saturday
+Brooklyn,Windsor Terrace,8406,257,8406,Wednesday
+Queens,Ridgewood,8381,198,8381,Wednesday
+Brooklyn,Gowanus,8191,106,8191,Wednesday
+Manhattan,Roosevelt Island,8058,202,8058,Sunday
+Brooklyn,Red Hook,7972,195,7972,Friday
+Brooklyn,Crown Heights South,7968,62,7968,Saturday
+Queens,Ridgewood,7930,198,7930,Monday
+Queens,East Elmhurst,7887,70,7887,Friday
+Queens,Ridgewood,7883,198,7883,Tuesday
+Bronx,East Concourse/Concourse Village,7860,69,7860,Saturday
+Bronx,East Concourse/Concourse Village,7843,69,7843,Sunday
+Brooklyn,Red Hook,7744,195,7744,Sunday
+Brooklyn,Windsor Terrace,7698,257,7698,Tuesday
+Queens,Flushing,7652,92,7652,Saturday
+Manhattan,Roosevelt Island,7617,202,7617,Friday
+Queens,North Corona,7358,173,7358,Sunday
+Queens,Maspeth,7335,157,7335,Sunday
+Brooklyn,Gowanus,7309,106,7309,Tuesday
+Queens,Flushing,7262,92,7262,Friday
+Brooklyn,Crown Heights South,7192,62,7192,Friday
+Brooklyn,Crown Heights South,7142,62,7142,Thursday
+Bronx,West Concourse,7102,247,7102,Friday
+Bronx,East Concourse/Concourse Village,7082,69,7082,Friday
+Manhattan,Roosevelt Island,7054,202,7054,Wednesday
+Manhattan,Roosevelt Island,7025,202,7025,Thursday
+Queens,Flushing,6994,92,6994,Sunday
+Queens,Elmhurst/Maspeth,6991,83,6991,Friday
+Brooklyn,Windsor Terrace,6971,257,6971,Monday
+Queens,Maspeth,6951,157,6951,Saturday
+Queens,South Ozone Park,6852,216,6852,Friday
+Brooklyn,Crown Heights South,6828,62,6828,Wednesday
+Brooklyn,Red Hook,6811,195,6811,Thursday
+Brooklyn,Gowanus,6748,106,6748,Monday
+Queens,North Corona,6656,173,6656,Saturday
+Queens,Flushing,6647,92,6647,Thursday
+Queens,East Elmhurst,6626,70,6626,Sunday
+Queens,Flushing,6616,92,6616,Wednesday
+Queens,South Ozone Park,6596,216,6596,Sunday
+Manhattan,Roosevelt Island,6589,202,6589,Tuesday
+Queens,Rego Park,6572,196,6572,Sunday
+Queens,East Elmhurst,6571,70,6571,Thursday
+Queens,Baisley Park,6554,10,6554,Saturday
+Bronx,West Concourse,6528,247,6528,Wednesday
+Bronx,Spuyten Duyvil/Kingsbridge,6504,220,6504,Sunday
+Queens,Elmhurst/Maspeth,6496,83,6496,Monday
+Queens,Rego Park,6493,196,6493,Saturday
+Queens,Baisley Park,6426,10,6426,Sunday
+Manhattan,Roosevelt Island,6413,202,6413,Monday
+Bronx,West Concourse,6411,247,6411,Monday
+Brooklyn,Crown Heights South,6374,62,6374,Monday
+Brooklyn,South Williamsburg,6364,217,6364,Tuesday
+Queens,East Elmhurst,6347,70,6347,Wednesday
+Brooklyn,Crown Heights South,6347,62,6347,Tuesday
+Brooklyn,South Williamsburg,6337,217,6337,Wednesday
+Queens,South Ozone Park,6334,216,6334,Monday
+Bronx,Spuyten Duyvil/Kingsbridge,6333,220,6333,Saturday
+Queens,Rego Park,6318,196,6318,Friday
+Queens,Flushing,6316,92,6316,Monday
+Queens,South Ozone Park,6299,216,6299,Thursday
+Queens,East Elmhurst,6258,70,6258,Monday
+Queens,Flushing,6257,92,6257,Tuesday
+Queens,East Elmhurst,6230,70,6230,Saturday
+Queens,Rego Park,6204,196,6204,Thursday
+Queens,South Ozone Park,6188,216,6188,Saturday
+Queens,Baisley Park,6177,10,6177,Monday
+Queens,Baisley Park,6175,10,6175,Friday
+Queens,South Ozone Park,6161,216,6161,Wednesday
+Bronx,Spuyten Duyvil/Kingsbridge,6140,220,6140,Friday
+Bronx,Melrose South,6129,159,6129,Saturday
+Bronx,West Concourse,6122,247,6122,Thursday
+Brooklyn,South Williamsburg,6118,217,6118,Thursday
+Queens,Elmhurst/Maspeth,6110,83,6110,Thursday
+Bronx,East Concourse/Concourse Village,6091,69,6091,Thursday
+Queens,Maspeth,6079,157,6079,Friday
+Brooklyn,South Williamsburg,6077,217,6077,Sunday
+Queens,East Elmhurst,6058,70,6058,Tuesday
+Bronx,Spuyten Duyvil/Kingsbridge,6057,220,6057,Thursday
+Queens,South Ozone Park,6034,216,6034,Tuesday
+Bronx,Spuyten Duyvil/Kingsbridge,6012,220,6012,Wednesday
+Brooklyn,Red Hook,5978,195,5978,Wednesday
+Brooklyn,South Williamsburg,5954,217,5954,Monday
+Bronx,West Concourse,5903,247,5903,Tuesday
+Bronx,East Concourse/Concourse Village,5850,69,5850,Monday
+Bronx,Melrose South,5831,159,5831,Sunday
+Queens,Baisley Park,5826,10,5826,Tuesday
+Queens,Rego Park,5825,196,5825,Wednesday
+Bronx,East Concourse/Concourse Village,5813,69,5813,Wednesday
+Queens,Corona,5794,56,5794,Sunday
+Queens,Elmhurst/Maspeth,5785,83,5785,Wednesday
+Queens,Baisley Park,5746,10,5746,Wednesday
+Bronx,East Concourse/Concourse Village,5652,69,5652,Tuesday
+Queens,Baisley Park,5647,10,5647,Thursday
+Queens,Rego Park,5639,196,5639,Monday
+Queens,Middle Village,5625,160,5625,Sunday
+Queens,Elmhurst/Maspeth,5591,83,5591,Tuesday
+Bronx,Spuyten Duyvil/Kingsbridge,5550,220,5550,Tuesday
+Queens,Middle Village,5487,160,5487,Saturday
+Queens,Rego Park,5483,196,5483,Tuesday
+Queens,Corona,5470,56,5470,Saturday
+Brooklyn,Kensington,5467,133,5467,Saturday
+Brooklyn,Kensington,5459,133,5459,Sunday
+Bronx,Riverdale/North Riverdale/Fieldston,5423,200,5423,Thursday
+Brooklyn,Kensington,5265,133,5265,Friday
+Bronx,Melrose South,5245,159,5245,Friday
+Brooklyn,Red Hook,5234,195,5234,Tuesday
+Bronx,Riverdale/North Riverdale/Fieldston,5204,200,5204,Wednesday
+Brooklyn,Columbia Street,5182,54,5182,Thursday
+Brooklyn,Kensington,5181,133,5181,Thursday
+Brooklyn,Columbia Street,5124,54,5124,Friday
+Brooklyn,Red Hook,5101,195,5101,Monday
+Queens,Middle Village,5094,160,5094,Friday
+Queens,Maspeth,5030,157,5030,Thursday
+Bronx,Riverdale/North Riverdale/Fieldston,5022,200,5022,Friday
+Brooklyn,Columbia Street,5001,54,5001,Saturday
+Bronx,Spuyten Duyvil/Kingsbridge,4969,220,4969,Monday
+Queens,Middle Village,4925,160,4925,Thursday
+Bronx,Riverdale/North Riverdale/Fieldston,4861,200,4861,Sunday
+Brooklyn,Sunset Park East,4859,227,4859,Sunday
+Brooklyn,Columbia Street,4859,54,4859,Wednesday
+Brooklyn,Columbia Street,4825,54,4825,Sunday
+Queens,Maspeth,4816,157,4816,Monday
+Queens,Maspeth,4811,157,4811,Tuesday
+Brooklyn,Kensington,4795,133,4795,Wednesday
+Bronx,Riverdale/North Riverdale/Fieldston,4784,200,4784,Tuesday
+Brooklyn,Sunset Park East,4743,227,4743,Saturday
+Queens,Maspeth,4738,157,4738,Wednesday
+Bronx,Highbridge,4702,119,4702,Saturday
+Queens,Middle Village,4641,160,4641,Wednesday
+Brooklyn,South Williamsburg,4610,217,4610,Friday
+Brooklyn,Columbia Street,4583,54,4583,Tuesday
+Bronx,Melrose South,4537,159,4537,Thursday
+Queens,Jamaica,4523,130,4523,Friday
+Bronx,Highbridge,4518,119,4518,Sunday
+Bronx,Riverdale/North Riverdale/Fieldston,4518,200,4518,Monday
+Bronx,Riverdale/North Riverdale/Fieldston,4504,200,4504,Saturday
+Brooklyn,Ocean Hill,4489,177,4489,Sunday
+Queens,North Corona,4394,173,4394,Friday
+Brooklyn,Kensington,4394,133,4394,Monday
+Brooklyn,Kensington,4383,133,4383,Tuesday
+Bronx,Melrose South,4377,159,4377,Monday
+Brooklyn,Prospect Park,4371,190,4371,Sunday
+Brooklyn,Ocean Hill,4367,177,4367,Saturday
+Queens,Corona,4332,56,4332,Friday
+Brooklyn,East New York,4329,76,4329,Sunday
+Queens,North Corona,4312,173,4312,Monday
+Queens,Middle Village,4265,160,4265,Tuesday
+Bronx,Melrose South,4246,159,4246,Wednesday
+Brooklyn,Prospect Park,4223,190,4223,Saturday
+Queens,Jamaica,4214,130,4214,Sunday
+Queens,Briarwood/Jamaica Hills,4211,28,4211,Saturday
+Queens,Jamaica,4199,130,4199,Saturday
+Brooklyn,East New York,4192,76,4192,Saturday
+Queens,Briarwood/Jamaica Hills,4178,28,4178,Sunday
+Manhattan,Randalls Island,4076,194,4076,Saturday
+Queens,Kew Gardens,4066,134,4066,Sunday
+Queens,Briarwood/Jamaica Hills,4042,28,4042,Friday
+Queens,Middle Village,4042,160,4042,Monday
+Queens,Kew Gardens,4038,134,4038,Friday
+Brooklyn,Columbia Street,4029,54,4029,Monday
+Bronx,Melrose South,4028,159,4028,Tuesday
+Queens,Corona,4014,56,4014,Monday
+Queens,Jamaica,4002,130,4002,Thursday
+Manhattan,Randalls Island,3971,194,3971,Sunday
+Bronx,Mount Hope,3924,169,3924,Saturday
+Queens,Richmond Hill,3913,197,3913,Sunday
+Queens,Jamaica,3903,130,3903,Monday
+Brooklyn,Sunset Park East,3901,227,3901,Friday
+Brooklyn,Borough Park,3891,26,3891,Wednesday
+Queens,Kew Gardens,3851,134,3851,Saturday
+Queens,Kew Gardens,3835,134,3835,Thursday
+Queens,Corona,3831,56,3831,Thursday
+Brooklyn,Borough Park,3817,26,3817,Thursday
+Bronx,Mount Hope,3815,169,3815,Sunday
+Queens,Richmond Hill,3811,197,3811,Friday
+Bronx,University Heights/Morris Heights,3778,235,3778,Saturday
+Queens,Jamaica,3766,130,3766,Wednesday
+Bronx,University Heights/Morris Heights,3755,235,3755,Sunday
+Queens,Jamaica,3739,130,3739,Tuesday
+Brooklyn,Borough Park,3731,26,3731,Monday
+Queens,Kew Gardens,3725,134,3725,Monday
+Queens,Kew Gardens,3721,134,3721,Wednesday
+Queens,Briarwood/Jamaica Hills,3711,28,3711,Monday
+Queens,Richmond Hill,3694,197,3694,Saturday
+Queens,Kew Gardens Hills,3692,135,3692,Wednesday
+Queens,Kew Gardens Hills,3682,135,3682,Sunday
+Queens,Flushing Meadows-Corona Park,3671,93,3671,Saturday
+Queens,Corona,3670,56,3670,Wednesday
+Brooklyn,East New York,3662,76,3662,Monday
+Brooklyn,Borough Park,3659,26,3659,Sunday
+Queens,Kew Gardens Hills,3655,135,3655,Thursday
+Queens,North Corona,3639,173,3639,Thursday
+Queens,Briarwood/Jamaica Hills,3634,28,3634,Tuesday
+Brooklyn,Borough Park,3631,26,3631,Tuesday
+Queens,Kew Gardens Hills,3624,135,3624,Monday
+Queens,Richmond Hill,3607,197,3607,Tuesday
+Brooklyn,East New York,3606,76,3606,Friday
+Brooklyn,Sunset Park East,3589,227,3589,Thursday
+Queens,Briarwood/Jamaica Hills,3576,28,3576,Wednesday
+Queens,Richmond Hill,3574,197,3574,Monday
+Queens,Flushing Meadows-Corona Park,3572,93,3572,Sunday
+Queens,Corona,3572,56,3572,Tuesday
+Queens,North Corona,3541,173,3541,Tuesday
+Queens,Kew Gardens,3530,134,3530,Tuesday
+Queens,Richmond Hill,3510,197,3510,Wednesday
+Bronx,Highbridge,3489,119,3489,Friday
+Queens,Briarwood/Jamaica Hills,3486,28,3486,Thursday
+Queens,Kew Gardens Hills,3471,135,3471,Tuesday
+Queens,North Corona,3459,173,3459,Wednesday
+Brooklyn,Sunset Park East,3454,227,3454,Wednesday
+Brooklyn,Ocean Hill,3432,177,3432,Friday
+Bronx,Van Cortlandt Village,3398,241,3398,Saturday
+Brooklyn,Midwood,3391,165,3391,Wednesday
+Queens,Springfield Gardens South,3391,219,3391,Monday
+Queens,Richmond Hill,3360,197,3360,Thursday
+Brooklyn,Bensonhurst West,3330,22,3330,Saturday
+Queens,Woodhaven,3329,258,3329,Sunday
+Bronx,Van Cortlandt Village,3325,241,3325,Sunday
+Brooklyn,Midwood,3301,165,3301,Sunday
+Brooklyn,Canarsie,3299,39,3299,Sunday
+Queens,Woodhaven,3291,258,3291,Saturday
+Queens,Springfield Gardens South,3290,219,3290,Friday
+Brooklyn,South Williamsburg,3287,217,3287,Saturday
+Brooklyn,Midwood,3286,165,3286,Thursday
+Brooklyn,East New York,3285,76,3285,Wednesday
+Queens,Springfield Gardens South,3277,219,3277,Sunday
+Brooklyn,Bensonhurst West,3269,22,3269,Sunday
+Queens,Kew Gardens Hills,3250,135,3250,Friday
+Brooklyn,Sunset Park East,3241,227,3241,Monday
+Brooklyn,East New York,3219,76,3219,Thursday
+Bronx,Bedford Park,3211,18,3211,Saturday
+Bronx,Morrisania/Melrose,3204,167,3204,Saturday
+Brooklyn,East New York,3187,76,3187,Tuesday
+Brooklyn,Sunset Park East,3185,227,3185,Tuesday
+Bronx,Bedford Park,3180,18,3180,Sunday
+Queens,Springfield Gardens South,3179,219,3179,Saturday
+Queens,Springfield Gardens South,3171,219,3171,Tuesday
+Queens,Springfield Gardens South,3170,219,3170,Wednesday
+Brooklyn,Canarsie,3167,39,3167,Saturday
+Bronx,Morrisania/Melrose,3164,167,3164,Sunday
+Brooklyn,Erasmus,3137,85,3137,Sunday
+Bronx,University Heights/Morris Heights,3088,235,3088,Friday
+Brooklyn,Bensonhurst West,3075,22,3075,Friday
+Brooklyn,Ocean Hill,3067,177,3067,Monday
+Brooklyn,Midwood,3061,165,3061,Tuesday
+Bronx,Mount Hope,3058,169,3058,Friday
+Queens,Springfield Gardens South,3043,219,3043,Thursday
+Brooklyn,Midwood,3021,165,3021,Monday
+Brooklyn,Midwood,3017,165,3017,Friday
+Brooklyn,Canarsie,2992,39,2992,Monday
+Brooklyn,Erasmus,2975,85,2975,Saturday
+Brooklyn,Ocean Hill,2970,177,2970,Thursday
+Brooklyn,East Flatbush/Farragut,2965,71,2965,Saturday
+Queens,Glendale,2950,102,2950,Sunday
+Brooklyn,East Flatbush/Farragut,2944,71,2944,Sunday
+Queens,Flushing Meadows-Corona Park,2930,93,2930,Friday
+Bronx,Highbridge,2925,119,2925,Monday
+Brooklyn,Borough Park,2921,26,2921,Friday
+Brooklyn,Flatlands,2887,91,2887,Sunday
+Brooklyn,Canarsie,2887,39,2887,Tuesday
+Brooklyn,Dyker Heights,2865,67,2865,Saturday
+Queens,Glendale,2856,102,2856,Saturday
+Brooklyn,East Flatbush/Remsen Village,2840,72,2840,Sunday
+Brooklyn,Bensonhurst West,2840,22,2840,Thursday
+Bronx,Highbridge,2836,119,2836,Thursday
+Bronx,Highbridge,2832,119,2832,Wednesday
+Brooklyn,Canarsie,2828,39,2828,Friday
+Bronx,Soundview/Bruckner,2824,212,2824,Saturday
+Queens,Woodhaven,2823,258,2823,Friday
+Brooklyn,Flatlands,2806,91,2806,Saturday
+Bronx,Morrisania/Melrose,2801,167,2801,Friday
+Bronx,Soundview/Bruckner,2796,212,2796,Sunday
+Brooklyn,Prospect Park,2784,190,2784,Friday
+Queens,Woodhaven,2776,258,2776,Monday
+Brooklyn,Dyker Heights,2774,67,2774,Sunday
+Brooklyn,East Flatbush/Remsen Village,2753,72,2753,Saturday
+Brooklyn,Brooklyn Navy Yard,2735,34,2735,Thursday
+Bronx,Soundview/Castle Hill,2727,213,2727,Saturday
+Brooklyn,Ocean Hill,2723,177,2723,Wednesday
+Queens,Flushing Meadows-Corona Park,2719,93,2719,Wednesday
+Brooklyn,Flatlands,2714,91,2714,Friday
+Brooklyn,Ocean Hill,2704,177,2704,Tuesday
+Queens,Flushing Meadows-Corona Park,2699,93,2699,Monday
+Bronx,Highbridge,2692,119,2692,Tuesday
+Queens,Woodhaven,2689,258,2689,Thursday
+Bronx,Mount Hope,2662,169,2662,Monday
+Brooklyn,Canarsie,2659,39,2659,Wednesday
+Bronx,Soundview/Castle Hill,2657,213,2657,Sunday
+Brooklyn,Bensonhurst West,2650,22,2650,Wednesday
+Queens,Woodhaven,2643,258,2643,Wednesday
+Brooklyn,Prospect Park,2643,190,2643,Thursday
+Bronx,Van Cortlandt Village,2642,241,2642,Friday
+Brooklyn,Brownsville,2635,35,2635,Saturday
+Brooklyn,Brooklyn Navy Yard,2625,34,2625,Friday
+Brooklyn,Canarsie,2622,39,2622,Thursday
+Bronx,University Heights/Morris Heights,2611,235,2611,Thursday
+Brooklyn,Flatlands,2600,91,2600,Monday
+Brooklyn,Dyker Heights,2591,67,2591,Thursday
+Queens,Hillcrest/Pomonok,2585,121,2585,Sunday
+Brooklyn,East Flatbush/Farragut,2584,71,2584,Friday
+Queens,Bayside,2579,16,2579,Sunday
+Brooklyn,Dyker Heights,2569,67,2569,Friday
+Queens,Flushing Meadows-Corona Park,2569,93,2569,Thursday
+Bronx,University Heights/Morris Heights,2560,235,2560,Monday
+Queens,Woodhaven,2559,258,2559,Tuesday
+Bronx,Woodlawn/Wakefield,2559,259,2559,Sunday
+Bronx,Schuylerville/Edgewater Park,2556,208,2556,Saturday
+Brooklyn,Brooklyn Navy Yard,2545,34,2545,Wednesday
+Bronx,Schuylerville/Edgewater Park,2527,208,2527,Sunday
+Brooklyn,Prospect Park,2520,190,2520,Wednesday
+Bronx,Soundview/Castle Hill,2515,213,2515,Friday
+Brooklyn,Flatlands,2506,91,2506,Thursday
+Bronx,University Heights/Morris Heights,2503,235,2503,Wednesday
+Bronx,Mount Hope,2494,169,2494,Thursday
+Brooklyn,Flatlands,2492,91,2492,Tuesday
+Brooklyn,East Flatbush/Remsen Village,2487,72,2487,Friday
+Queens,Flushing Meadows-Corona Park,2485,93,2485,Tuesday
+Brooklyn,Flatlands,2482,91,2482,Wednesday
+Queens,Bayside,2474,16,2474,Saturday
+Brooklyn,Brownsville,2465,35,2465,Sunday
+Queens,Whitestone,2463,252,2463,Sunday
+Queens,Kew Gardens Hills,2460,135,2460,Saturday
+Brooklyn,Bensonhurst West,2452,22,2452,Tuesday
+Queens,Bayside,2423,16,2423,Friday
+Brooklyn,East Flatbush/Remsen Village,2420,72,2420,Monday
+Queens,Murray Hill-Queens,2412,171,2412,Sunday
+Brooklyn,Homecrest,2405,123,2405,Wednesday
+Bronx,West Farms/Bronx River,2398,248,2398,Saturday
+Bronx,Woodlawn/Wakefield,2395,259,2395,Saturday
+Brooklyn,East Flatbush/Farragut,2394,71,2394,Thursday
+Brooklyn,Erasmus,2393,85,2393,Friday
+Bronx,Parkchester,2390,182,2390,Sunday
+Bronx,Hunts Point,2383,126,2383,Saturday
+Queens,Murray Hill-Queens,2379,171,2379,Saturday
+Queens,Hillcrest/Pomonok,2378,121,2378,Monday
+Brooklyn,Dyker Heights,2375,67,2375,Wednesday
+Brooklyn,Brooklyn Navy Yard,2373,34,2373,Tuesday
+Bronx,Mount Hope,2362,169,2362,Wednesday
+Bronx,Bedford Park,2360,18,2360,Friday
+Brooklyn,East Flatbush/Farragut,2355,71,2355,Wednesday
+Queens,Murray Hill-Queens,2351,171,2351,Friday
+Bronx,Parkchester,2346,182,2346,Saturday
+Bronx,Van Cortlandt Village,2343,241,2343,Monday
+Brooklyn,Homecrest,2343,123,2343,Sunday
+Bronx,Mount Hope,2328,169,2328,Tuesday
+Brooklyn,Bensonhurst West,2325,22,2325,Monday
+Bronx,University Heights/Morris Heights,2323,235,2323,Tuesday
+Queens,Fresh Meadows,2321,98,2321,Friday
+Brooklyn,East Flatbush/Farragut,2310,71,2310,Monday
+Queens,Hillcrest/Pomonok,2310,121,2310,Saturday
+Bronx,West Farms/Bronx River,2308,248,2308,Sunday
+Queens,Whitestone,2308,252,2308,Friday
+Bronx,Longwood,2298,147,2298,Saturday
+Queens,Hillcrest/Pomonok,2285,121,2285,Friday
+Bronx,Kingsbridge Heights,2277,136,2277,Saturday
+Bronx,Norwood,2270,174,2270,Sunday
+Queens,Hillcrest/Pomonok,2268,121,2268,Wednesday
+Queens,Jamaica Estates,2267,131,2267,Monday
+Brooklyn,Brooklyn Navy Yard,2254,34,2254,Monday
+Queens,Saint Albans,2254,205,2254,Monday
+Bronx,Kingsbridge Heights,2251,136,2251,Sunday
+Queens,Glendale,2248,102,2248,Friday
+Bronx,Van Cortlandt Village,2248,241,2248,Thursday
+Queens,Hillcrest/Pomonok,2248,121,2248,Thursday
+Queens,Jamaica Estates,2241,131,2241,Sunday
+Brooklyn,Homecrest,2239,123,2239,Thursday
+Brooklyn,Prospect Park,2238,190,2238,Tuesday
+Bronx,Belmont,2237,20,2237,Saturday
+Bronx,Longwood,2233,147,2233,Sunday
+Queens,Hillcrest/Pomonok,2225,121,2225,Tuesday
+Queens,Whitestone,2225,252,2225,Saturday
+Bronx,Norwood,2222,174,2222,Saturday
+Queens,Bayside,2213,16,2213,Thursday
+Bronx,Pelham Parkway,2211,185,2211,Sunday
+Brooklyn,East Flatbush/Farragut,2203,71,2203,Tuesday
+Brooklyn,East Flatbush/Remsen Village,2198,72,2198,Thursday
+Queens,Whitestone,2197,252,2197,Monday
+Brooklyn,Homecrest,2191,123,2191,Tuesday
+Manhattan,Randalls Island,2186,194,2186,Friday
+Bronx,Schuylerville/Edgewater Park,2186,208,2186,Friday
+Bronx,Morrisania/Melrose,2185,167,2185,Thursday
+Queens,Springfield Gardens North,2184,218,2184,Monday
+Bronx,Van Cortlandt Village,2181,241,2181,Wednesday
+Queens,Jamaica Estates,2181,131,2181,Thursday
+Queens,Bayside,2178,16,2178,Wednesday
+Bronx,Van Cortlandt Village,2177,241,2177,Tuesday
+Brooklyn,Erasmus,2172,85,2172,Wednesday
+Bronx,Soundview/Castle Hill,2172,213,2172,Thursday
+Queens,Murray Hill-Queens,2169,171,2169,Wednesday
+Brooklyn,Brownsville,2166,35,2166,Friday
+Brooklyn,Dyker Heights,2161,67,2161,Tuesday
+Brooklyn,Midwood,2159,165,2159,Saturday
+Queens,Murray Hill-Queens,2156,171,2156,Thursday
+Bronx,Hunts Point,2153,126,2153,Sunday
+Bronx,Hunts Point,2149,126,2149,Friday
+Bronx,Pelham Parkway,2132,185,2132,Saturday
+Bronx,Morrisania/Melrose,2127,167,2127,Monday
+Brooklyn,East Flatbush/Remsen Village,2119,72,2119,Tuesday
+Brooklyn,Homecrest,2114,123,2114,Monday
+Queens,Fresh Meadows,2111,98,2111,Thursday
+Queens,Springfield Gardens North,2110,218,2110,Tuesday
+Queens,Springfield Gardens North,2109,218,2109,Sunday
+Queens,Saint Albans,2105,205,2105,Sunday
+Brooklyn,Homecrest,2104,123,2104,Friday
+Queens,Whitestone,2103,252,2103,Tuesday
+Queens,Bayside,2100,16,2100,Monday
+Brooklyn,Erasmus,2097,85,2097,Thursday
+Queens,Murray Hill-Queens,2096,171,2096,Tuesday
+Queens,Whitestone,2090,252,2090,Wednesday
+Bronx,Norwood,2090,174,2090,Friday
+Bronx,Soundview/Bruckner,2088,212,2088,Friday
+Bronx,Morrisania/Melrose,2085,167,2085,Wednesday
+Brooklyn,Borough Park,2084,26,2084,Saturday
+Queens,Murray Hill-Queens,2084,171,2084,Monday
+Queens,Jamaica Estates,2082,131,2082,Tuesday
+Queens,Bayside,2080,16,2080,Tuesday
+Brooklyn,East Flatbush/Remsen Village,2080,72,2080,Wednesday
+Queens,Springfield Gardens North,2078,218,2078,Saturday
+Queens,Jamaica Estates,2069,131,2069,Wednesday
+Queens,Whitestone,2063,252,2063,Thursday
+Queens,Springfield Gardens North,2062,218,2062,Friday
+Brooklyn,Cypress Hills,2061,63,2061,Sunday
+Queens,Glendale,2060,102,2060,Wednesday
+Bronx,Belmont,2053,20,2053,Sunday
+Queens,Springfield Gardens North,2040,218,2040,Thursday
+Brooklyn,Bensonhurst East,2037,21,2037,Friday
+Brooklyn,Bensonhurst East,2031,21,2031,Sunday
+Bronx,Morrisania/Melrose,2028,167,2028,Tuesday
+Bronx,Soundview/Castle Hill,2025,213,2025,Wednesday
+Brooklyn,Bensonhurst East,2023,21,2023,Saturday
+Queens,Jamaica Estates,2022,131,2022,Friday
+Brooklyn,Marine Park/Mill Basin,2021,155,2021,Sunday
+Brooklyn,Dyker Heights,2019,67,2019,Monday
+Brooklyn,Erasmus,2007,85,2007,Tuesday
+Queens,Glendale,2004,102,2004,Thursday
+Brooklyn,Erasmus,1996,85,1996,Monday
+Bronx,Bedford Park,1985,18,1985,Monday
+Queens,Saint Albans,1979,205,1979,Saturday
+Brooklyn,Cypress Hills,1974,63,1974,Saturday
+Bronx,Parkchester,1974,182,1974,Friday
+Brooklyn,Sheepshead Bay,1966,210,1966,Sunday
+Bronx,Soundview/Castle Hill,1965,213,1965,Monday
+Queens,Fresh Meadows,1963,98,1963,Saturday
+Brooklyn,Prospect Park,1957,190,1957,Monday
+Manhattan,Randalls Island,1952,194,1952,Thursday
+Brooklyn,Madison,1949,149,1949,Sunday
+Queens,Springfield Gardens North,1947,218,1947,Wednesday
+Bronx,Bedford Park,1947,18,1947,Thursday
+Queens,Glendale,1942,102,1942,Tuesday
+Bronx,East Tremont,1937,78,1937,Saturday
+Queens,Saint Albans,1933,205,1933,Tuesday
+Bronx,Woodlawn/Wakefield,1923,259,1923,Friday
+Bronx,Schuylerville/Edgewater Park,1919,208,1919,Thursday
+Bronx,Soundview/Castle Hill,1918,213,1918,Tuesday
+Queens,Glendale,1904,102,1904,Monday
+Brooklyn,Sheepshead Bay,1903,210,1903,Saturday
+Bronx,Bedford Park,1903,18,1903,Wednesday
+Bronx,Hunts Point,1902,126,1902,Monday
+Bronx,Williamsbridge/Olinville,1900,254,1900,Saturday
+Bronx,East Tremont,1899,78,1899,Sunday
+Bronx,West Farms/Bronx River,1898,248,1898,Friday
+Queens,Jamaica Estates,1873,131,1873,Saturday
+Bronx,Kingsbridge Heights,1872,136,1872,Friday
+Queens,Fresh Meadows,1870,98,1870,Wednesday
+Brooklyn,Cypress Hills,1867,63,1867,Monday
+Brooklyn,Cypress Hills,1863,63,1863,Friday
+Brooklyn,Brownsville,1858,35,1858,Monday
+Queens,Queens Village,1848,191,1848,Monday
+Bronx,Pelham Parkway,1845,185,1845,Friday
+Bronx,Parkchester,1841,182,1841,Thursday
+Bronx,Longwood,1841,147,1841,Friday
+Queens,Howard Beach,1841,124,1841,Sunday
+Queens,Saint Albans,1829,205,1829,Friday
+Queens,Fresh Meadows,1828,98,1828,Tuesday
+Bronx,Hunts Point,1826,126,1826,Thursday
+Queens,Fresh Meadows,1823,98,1823,Sunday
+Brooklyn,Bensonhurst East,1821,21,1821,Thursday
+Queens,Saint Albans,1821,205,1821,Thursday
+Bronx,Van Nest/Morris Park,1820,242,1820,Saturday
+Bronx,Schuylerville/Edgewater Park,1817,208,1817,Wednesday
+Brooklyn,Marine Park/Mill Basin,1812,155,1812,Friday
+Brooklyn,Marine Park/Mill Basin,1806,155,1806,Saturday
+Bronx,Norwood,1805,174,1805,Monday
+Queens,Saint Albans,1804,205,1804,Wednesday
+Brooklyn,Marine Park/Mill Basin,1802,155,1802,Thursday
+Brooklyn,Madison,1799,149,1799,Wednesday
+Brooklyn,Bensonhurst East,1798,21,1798,Wednesday
+Brooklyn,Marine Park/Mill Basin,1797,155,1797,Monday
+Bronx,Hunts Point,1795,126,1795,Wednesday
+Bronx,Fordham South,1786,94,1786,Saturday
+Brooklyn,Sheepshead Bay,1784,210,1784,Friday
+Queens,College Point,1782,53,1782,Sunday
+Brooklyn,Coney Island,1778,55,1778,Sunday
+Bronx,Kingsbridge Heights,1775,136,1775,Thursday
+Bronx,Norwood,1774,174,1774,Wednesday
+Brooklyn,Marine Park/Mill Basin,1774,155,1774,Wednesday
+Bronx,Claremont/Bathgate,1772,47,1772,Saturday
+Brooklyn,Coney Island,1766,55,1766,Saturday
+Brooklyn,Brownsville,1764,35,1764,Tuesday
+Queens,Fresh Meadows,1762,98,1762,Monday
+Bronx,Schuylerville/Edgewater Park,1762,208,1762,Monday
+Bronx,Bedford Park,1758,18,1758,Tuesday
+Brooklyn,Brownsville,1756,35,1756,Thursday
+Bronx,Williamsbridge/Olinville,1755,254,1755,Sunday
+Bronx,Soundview/Bruckner,1754,212,1754,Thursday
+Queens,College Point,1749,53,1749,Monday
+Queens,South Jamaica,1747,215,1747,Sunday
+Brooklyn,Madison,1736,149,1736,Thursday
+Brooklyn,Cypress Hills,1729,63,1729,Tuesday
+Queens,Rosedale,1728,203,1728,Monday
+Queens,South Jamaica,1727,215,1727,Monday
+Brooklyn,Bensonhurst East,1726,21,1726,Tuesday
+Bronx,Norwood,1725,174,1725,Thursday
+Queens,Queens Village,1724,191,1724,Sunday
+Bronx,Pelham Parkway,1724,185,1724,Thursday
+Bronx,Parkchester,1723,182,1723,Monday
+Brooklyn,Brownsville,1717,35,1717,Wednesday
+Brooklyn,Madison,1711,149,1711,Friday
+Brooklyn,Sheepshead Bay,1711,210,1711,Wednesday
+Bronx,Van Nest/Morris Park,1705,242,1705,Sunday
+Bronx,Norwood,1704,174,1704,Tuesday
+Bronx,Claremont/Bathgate,1694,47,1694,Sunday
+Bronx,Hunts Point,1693,126,1693,Tuesday
+Brooklyn,Sheepshead Bay,1691,210,1691,Thursday
+Brooklyn,Cypress Hills,1688,63,1688,Thursday
+Brooklyn,Homecrest,1686,123,1686,Saturday
+Bronx,Van Nest/Morris Park,1685,242,1685,Friday
+Bronx,Pelham Parkway,1679,185,1679,Monday
+Brooklyn,Brighton Beach,1679,29,1679,Sunday
+Bronx,Soundview/Bruckner,1678,212,1678,Monday
+Bronx,Kingsbridge Heights,1677,136,1677,Wednesday
+Queens,College Point,1673,53,1673,Friday
+Brooklyn,Bensonhurst East,1666,21,1666,Monday
+Brooklyn,Marine Park/Mill Basin,1664,155,1664,Tuesday
+Bronx,Schuylerville/Edgewater Park,1653,208,1653,Tuesday
+Queens,Howard Beach,1652,124,1652,Thursday
+Queens,Queens Village,1651,191,1651,Tuesday
+Queens,College Point,1645,53,1645,Wednesday
+Queens,College Point,1644,53,1644,Tuesday
+Queens,Howard Beach,1644,124,1644,Saturday
+Bronx,Parkchester,1643,182,1643,Wednesday
+Brooklyn,Brooklyn Navy Yard,1637,34,1637,Saturday
+Queens,Queens Village,1634,191,1634,Saturday
+Bronx,Fordham South,1633,94,1633,Sunday
+Brooklyn,Cypress Hills,1632,63,1632,Wednesday
+Queens,Howard Beach,1628,124,1628,Monday
+Brooklyn,Madison,1622,149,1622,Monday
+Queens,South Jamaica,1619,215,1619,Saturday
+Bronx,Soundview/Bruckner,1617,212,1617,Wednesday
+Brooklyn,Madison,1614,149,1614,Tuesday
+Queens,College Point,1610,53,1610,Thursday
+Queens,Queens Village,1608,191,1608,Friday
+Queens,Howard Beach,1608,124,1608,Tuesday
+Queens,Bay Terrace/Fort Totten,1603,15,1603,Sunday
+Queens,Queens Village,1601,191,1601,Wednesday
+Bronx,Westchester Village/Unionport,1601,250,1601,Saturday
+Brooklyn,Madison,1598,149,1598,Saturday
+Bronx,Co-Op City,1595,51,1595,Saturday
+Queens,Rosedale,1588,203,1588,Tuesday
+Bronx,Westchester Village/Unionport,1585,250,1585,Sunday
+Queens,Howard Beach,1584,124,1584,Friday
+Queens,College Point,1582,53,1582,Saturday
+Bronx,Pelham Parkway,1577,185,1577,Wednesday
+Brooklyn,Brighton Beach,1572,29,1572,Saturday
+Bronx,Claremont/Bathgate,1572,47,1572,Friday
+Bronx,East Tremont,1572,78,1572,Friday
+Bronx,Van Nest/Morris Park,1569,242,1569,Wednesday
+Bronx,Parkchester,1565,182,1565,Tuesday
+Bronx,Belmont,1561,20,1561,Friday
+Bronx,Pelham Parkway,1554,185,1554,Tuesday
+Brooklyn,Sheepshead Bay,1554,210,1554,Tuesday
+Queens,South Jamaica,1552,215,1552,Tuesday
+Queens,Howard Beach,1542,124,1542,Wednesday
+Bronx,Kingsbridge Heights,1529,136,1529,Tuesday
+Bronx,Van Nest/Morris Park,1523,242,1523,Thursday
+Queens,South Jamaica,1522,215,1522,Friday
+Bronx,Co-Op City,1522,51,1522,Sunday
+Bronx,Soundview/Bruckner,1521,212,1521,Tuesday
+Queens,Queens Village,1519,191,1519,Thursday
+Bronx,West Farms/Bronx River,1518,248,1518,Thursday
+Bronx,Van Nest/Morris Park,1507,242,1507,Monday
+Queens,South Jamaica,1506,215,1506,Wednesday
+Brooklyn,Brighton Beach,1505,29,1505,Thursday
+Bronx,Bronx Park,1486,31,1486,Saturday
+Queens,South Jamaica,1483,215,1483,Thursday
+Bronx,Kingsbridge Heights,1483,136,1483,Monday
+Bronx,Woodlawn/Wakefield,1479,259,1479,Thursday
+Brooklyn,Sheepshead Bay,1468,210,1468,Monday
+Brooklyn,Brighton Beach,1465,29,1465,Friday
+Bronx,Bronxdale,1465,32,1465,Saturday
+Bronx,Westchester Village/Unionport,1460,250,1460,Friday
+Brooklyn,Brighton Beach,1452,29,1452,Wednesday
+Brooklyn,Ocean Parkway South,1449,178,1449,Wednesday
+Bronx,Van Nest/Morris Park,1446,242,1446,Tuesday
+Bronx,Williamsbridge/Olinville,1441,254,1441,Friday
+Bronx,Belmont,1441,20,1441,Monday
+Brooklyn,Coney Island,1437,55,1437,Friday
+Bronx,Woodlawn/Wakefield,1434,259,1434,Wednesday
+Bronx,West Farms/Bronx River,1433,248,1433,Tuesday
+Bronx,West Farms/Bronx River,1432,248,1432,Monday
+Bronx,Longwood,1429,147,1429,Wednesday
+Queens,Queensboro Hill,1427,192,1427,Sunday
+Queens,Rosedale,1427,203,1427,Wednesday
+Brooklyn,Ocean Parkway South,1422,178,1422,Thursday
+Bronx,West Farms/Bronx River,1422,248,1422,Wednesday
+Bronx,Longwood,1421,147,1421,Monday
+Bronx,Longwood,1419,147,1419,Thursday
+Bronx,Bronxdale,1415,32,1415,Sunday
+Bronx,Crotona Park East,1411,60,1411,Saturday
+Queens,Bay Terrace/Fort Totten,1406,15,1406,Friday
+Queens,Rosedale,1394,203,1394,Sunday
+Bronx,Woodlawn/Wakefield,1390,259,1390,Tuesday
+Queens,Oakland Gardens,1389,175,1389,Friday
+Brooklyn,Coney Island,1373,55,1373,Wednesday
+Queens,Rosedale,1372,203,1372,Friday
+Queens,Bay Terrace/Fort Totten,1368,15,1368,Saturday
+Queens,Saint Michaels Cemetery/Woodside,1365,207,1365,Wednesday
+Queens,Bay Terrace/Fort Totten,1358,15,1358,Wednesday
+Queens,Queensboro Hill,1357,192,1357,Wednesday
+Queens,Douglaston,1356,64,1356,Wednesday
+Queens,Bay Terrace/Fort Totten,1349,15,1349,Thursday
+Brooklyn,Brighton Beach,1349,29,1349,Tuesday
+Bronx,Woodlawn/Wakefield,1345,259,1345,Monday
+Bronx,Westchester Village/Unionport,1343,250,1343,Thursday
+Bronx,Longwood,1342,147,1342,Tuesday
+Queens,Queensboro Hill,1339,192,1339,Monday
+Queens,Laurelton,1336,139,1336,Monday
+Queens,Ozone Park,1336,180,1336,Sunday
+Bronx,Co-Op City,1335,51,1335,Friday
+Brooklyn,Bath Beach,1324,11,1324,Saturday
+Brooklyn,Coney Island,1322,55,1322,Thursday
+Brooklyn,Ocean Parkway South,1322,178,1322,Monday
+Brooklyn,Brighton Beach,1319,29,1319,Monday
+Queens,Queensboro Hill,1317,192,1317,Saturday
+Queens,Rosedale,1317,203,1317,Saturday
+Queens,Ozone Park,1315,180,1315,Saturday
+Queens,Queensboro Hill,1314,192,1314,Friday
+Queens,Bay Terrace/Fort Totten,1312,15,1312,Monday
+Brooklyn,Bath Beach,1308,11,1308,Friday
+Queens,Cambria Heights,1304,38,1304,Monday
+Queens,Oakland Gardens,1301,175,1301,Monday
+Manhattan,Randalls Island,1300,194,1300,Wednesday
+Queens,Oakland Gardens,1299,175,1299,Tuesday
+Brooklyn,Coney Island,1291,55,1291,Monday
+Bronx,Fordham South,1289,94,1289,Friday
+Bronx,Bronx Park,1284,31,1284,Sunday
+Queens,Oakland Gardens,1283,175,1283,Wednesday
+Brooklyn,Ocean Parkway South,1280,178,1280,Tuesday
+Bronx,Crotona Park East,1280,60,1280,Sunday
+Brooklyn,Ocean Parkway South,1278,178,1278,Sunday
+Queens,Rosedale,1277,203,1277,Thursday
+Bronx,Williamsbridge/Olinville,1275,254,1275,Thursday
+Queens,Saint Michaels Cemetery/Woodside,1272,207,1272,Friday
+Queens,Oakland Gardens,1272,175,1272,Thursday
+Queens,Douglaston,1269,64,1269,Sunday
+Queens,Douglaston,1269,64,1269,Friday
+Queens,Ozone Park,1266,180,1266,Monday
+Brooklyn,Ocean Parkway South,1265,178,1265,Friday
+Brooklyn,Bath Beach,1264,11,1264,Sunday
+Brooklyn,East New York/Pennsylvania Avenue,1264,77,1264,Saturday
+Bronx,East Tremont,1263,78,1263,Wednesday
+Brooklyn,Brooklyn Navy Yard,1262,34,1262,Sunday
+Bronx,East Tremont,1260,78,1260,Monday
+Queens,Queensboro Hill,1260,192,1260,Thursday
+Queens,Cambria Heights,1258,38,1258,Sunday
+Brooklyn,East New York/Pennsylvania Avenue,1254,77,1254,Sunday
+Queens,Bay Terrace/Fort Totten,1251,15,1251,Tuesday
+Bronx,Claremont/Bathgate,1246,47,1246,Thursday
+Queens,Douglaston,1244,64,1244,Tuesday
+Bronx,East Tremont,1244,78,1244,Thursday
+Queens,Saint Michaels Cemetery/Woodside,1241,207,1241,Thursday
+Bronx,Williamsbridge/Olinville,1239,254,1239,Monday
+Queens,Douglaston,1231,64,1231,Monday
+Queens,Cambria Heights,1229,38,1229,Tuesday
+Queens,Ozone Park,1225,180,1225,Friday
+Queens,Douglaston,1223,64,1223,Thursday
+Queens,Queensboro Hill,1219,192,1219,Tuesday
+Queens,Saint Michaels Cemetery/Woodside,1215,207,1215,Tuesday
+Queens,Ozone Park,1212,180,1212,Tuesday
+Queens,Ozone Park,1209,180,1209,Thursday
+Bronx,Williamsbridge/Olinville,1206,254,1206,Wednesday
+Brooklyn,Coney Island,1201,55,1201,Tuesday
+Bronx,Bronxdale,1199,32,1199,Friday
+Bronx,Co-Op City,1189,51,1189,Monday
+Manhattan,Randalls Island,1189,194,1189,Tuesday
+Queens,Laurelton,1187,139,1187,Tuesday
+Bronx,Belmont,1185,20,1185,Thursday
+Queens,Oakland Gardens,1178,175,1178,Sunday
+Bronx,East Tremont,1177,78,1177,Tuesday
+Bronx,Belmont,1176,20,1176,Wednesday
+Queens,Laurelton,1172,139,1172,Sunday
+Queens,Oakland Gardens,1167,175,1167,Saturday
+Bronx,Claremont/Bathgate,1165,47,1165,Wednesday
+Queens,Cambria Heights,1162,38,1162,Wednesday
+Bronx,Williamsbridge/Olinville,1162,254,1162,Tuesday
+Bronx,Co-Op City,1160,51,1160,Thursday
+Queens,Saint Michaels Cemetery/Woodside,1146,207,1146,Monday
+Bronx,Co-Op City,1145,51,1145,Tuesday
+Queens,Ozone Park,1141,180,1141,Wednesday
+Bronx,Westchester Village/Unionport,1138,250,1138,Wednesday
+Queens,Laurelton,1137,139,1137,Wednesday
+Bronx,Westchester Village/Unionport,1132,250,1132,Monday
+Bronx,Westchester Village/Unionport,1131,250,1131,Tuesday
+Bronx,Claremont/Bathgate,1130,47,1130,Monday
+Queens,Cambria Heights,1129,38,1129,Thursday
+Bronx,Co-Op City,1126,51,1126,Wednesday
+Brooklyn,East New York/Pennsylvania Avenue,1109,77,1109,Friday
+Brooklyn,Bath Beach,1105,11,1105,Thursday
+Queens,East Flushing,1104,73,1104,Saturday
+Bronx,Belmont,1102,20,1102,Tuesday
+Queens,East Flushing,1098,73,1098,Sunday
+Queens,Douglaston,1096,64,1096,Saturday
+Manhattan,Randalls Island,1088,194,1088,Monday
+Bronx,Claremont/Bathgate,1080,47,1080,Tuesday
+Brooklyn,Bath Beach,1070,11,1070,Tuesday
+Queens,Laurelton,1069,139,1069,Friday
+Manhattan,Inwood Hill Park,1063,128,1063,Friday
+Brooklyn,East New York/Pennsylvania Avenue,1060,77,1060,Monday
+Bronx,Bronxdale,1055,32,1055,Thursday
+Manhattan,Inwood Hill Park,1046,128,1046,Wednesday
+Queens,Laurelton,1046,139,1046,Saturday
+Brooklyn,Bath Beach,1036,11,1036,Wednesday
+Bronx,Allerton/Pelham Gardens,1035,3,1035,Saturday
+Bronx,Fordham South,1034,94,1034,Monday
+Bronx,Allerton/Pelham Gardens,1032,3,1032,Sunday
+Bronx,Crotona Park East,1029,60,1029,Friday
+Queens,Laurelton,1026,139,1026,Thursday
+Brooklyn,Gravesend,1006,108,1006,Sunday
+Bronx,Pelham Bay,1005,183,1005,Saturday
+Queens,Auburndale,1002,9,1002,Sunday
+Brooklyn,East New York/Pennsylvania Avenue,1000,77,1000,Thursday
+Queens,Cambria Heights,993,38,993,Friday
+Queens,Auburndale,988,9,988,Saturday
+Queens,Corona,987,57,987,Sunday
+Queens,Auburndale,986,9,986,Friday
+Queens,Bellerose,984,19,984,Sunday
+Brooklyn,Bath Beach,982,11,982,Monday
+Queens,East Flushing,979,73,979,Friday
+Manhattan,Inwood Hill Park,974,128,974,Saturday
+Manhattan,Inwood Hill Park,973,128,973,Thursday
+Bronx,Fordham South,971,94,971,Thursday
+Brooklyn,East New York/Pennsylvania Avenue,970,77,970,Wednesday
+Queens,Corona,969,57,969,Saturday
+Bronx,Allerton/Pelham Gardens,964,3,964,Friday
+Bronx,Bronxdale,960,32,960,Monday
+Manhattan,Highbridge Park,959,120,959,Sunday
+Brooklyn,Gravesend,957,108,957,Friday
+Queens,Bellerose,956,19,956,Wednesday
+Bronx,Crotona Park East,953,60,953,Monday
+Queens,Glen Oaks,951,101,951,Friday
+Manhattan,Marble Hill,950,153,950,Saturday
+Queens,Bellerose,950,19,950,Saturday
+Brooklyn,East New York/Pennsylvania Avenue,949,77,949,Tuesday
+Queens,Bellerose,943,19,943,Tuesday
+Brooklyn,Manhattan Beach,937,150,937,Sunday
+Queens,Far Rockaway,936,86,936,Monday
+Manhattan,Inwood Hill Park,936,128,936,Sunday
+Queens,Bellerose,936,19,936,Thursday
+Bronx,Bronxdale,933,32,933,Wednesday
+Queens,Bellerose,933,19,933,Friday
+Queens,Bellerose,931,19,931,Monday
+Bronx,Fordham South,929,94,929,Tuesday
+Manhattan,Inwood Hill Park,927,128,927,Tuesday
+Queens,Glen Oaks,927,101,927,Sunday
+Queens,East Flushing,925,73,925,Monday
+Brooklyn,Gravesend,924,108,924,Thursday
+Queens,Auburndale,923,9,923,Wednesday
+Bronx,Fordham South,923,94,923,Wednesday
+Queens,Auburndale,915,9,915,Thursday
+Queens,East Flushing,912,73,912,Wednesday
+Queens,Glen Oaks,911,101,911,Tuesday
+Brooklyn,Gravesend,904,108,904,Saturday
+Queens,East Flushing,900,73,900,Tuesday
+Queens,Auburndale,898,9,898,Tuesday
+Queens,Auburndale,896,9,896,Monday
+Queens,Corona,893,57,893,Friday
+Manhattan,Inwood Hill Park,889,128,889,Monday
+Bronx,Bronxdale,889,32,889,Tuesday
+Queens,Glen Oaks,880,101,880,Wednesday
+Brooklyn,Gravesend,880,108,880,Wednesday
+Queens,Glen Oaks,878,101,878,Thursday
+Brooklyn,Manhattan Beach,869,150,869,Saturday
+Manhattan,Marble Hill,859,153,859,Sunday
+Brooklyn,Manhattan Beach,858,150,858,Friday
+Queens,Corona,856,57,856,Thursday
+Bronx,Eastchester,854,81,854,Sunday
+Queens,Glen Oaks,853,101,853,Saturday
+Queens,Far Rockaway,852,86,852,Sunday
+Queens,Glen Oaks,851,101,851,Monday
+Queens,East Flushing,846,73,846,Thursday
+Queens,Corona,846,57,846,Tuesday
+Queens,Far Rockaway,840,86,840,Thursday
+Queens,Far Rockaway,836,86,836,Wednesday
+Brooklyn,Ocean Parkway South,834,178,834,Saturday
+Bronx,Allerton/Pelham Gardens,827,3,827,Thursday
+Brooklyn,Gravesend,824,108,824,Tuesday
+Bronx,Allerton/Pelham Gardens,822,3,822,Wednesday
+Bronx,Pelham Bay,822,183,822,Sunday
+Bronx,Pelham Bay,819,183,819,Friday
+Queens,Far Rockaway,814,86,814,Tuesday
+Queens,Corona,809,57,809,Monday
+Manhattan,Highbridge Park,802,120,802,Saturday
+Bronx,Eastchester,796,81,796,Saturday
+Bronx,Van Cortlandt Park,792,240,792,Sunday
+Brooklyn,Manhattan Beach,791,150,791,Wednesday
+Brooklyn,Manhattan Beach,786,150,786,Thursday
+Bronx,Allerton/Pelham Gardens,781,3,781,Tuesday
+Bronx,Allerton/Pelham Gardens,780,3,780,Monday
+Queens,Far Rockaway,778,86,778,Friday
+Queens,Corona,777,57,777,Wednesday
+Bronx,Crotona Park East,775,60,775,Tuesday
+Bronx,Crotona Park East,770,60,770,Wednesday
+Bronx,Crotona Park East,763,60,763,Thursday
+Bronx,Van Cortlandt Park,759,240,759,Saturday
+Brooklyn,Manhattan Beach,754,150,754,Tuesday
+Bronx,Eastchester,742,81,742,Friday
+Manhattan,Marble Hill,736,153,736,Friday
+Brooklyn,Manhattan Beach,734,150,734,Monday
+Brooklyn,Gravesend,731,108,731,Monday
+Bronx,Bronx Park,731,31,731,Friday
+Queens,Hollis,709,122,709,Monday
+Queens,Hollis,707,122,707,Sunday
+Bronx,Pelham Bay,706,183,706,Thursday
+Queens,Hammels/Arverne,700,117,700,Saturday
+Manhattan,Highbridge Park,697,120,697,Friday
+Queens,Rockaway Park,696,201,696,Friday
+Queens,Cambria Heights,691,38,691,Saturday
+Bronx,Bronx Park,677,31,677,Thursday
+Queens,Rockaway Park,674,201,674,Saturday
+Bronx,Pelham Bay,664,183,664,Wednesday
+Bronx,Eastchester,664,81,664,Thursday
+Queens,Rockaway Park,663,201,663,Sunday
+Queens,Hammels/Arverne,650,117,650,Sunday
+Bronx,Eastchester,642,81,642,Wednesday
+Manhattan,Marble Hill,640,153,640,Thursday
+Queens,Hollis,636,122,636,Saturday
+Queens,Hollis,635,122,635,Friday
+Queens,Rockaway Park,634,201,634,Thursday
+Manhattan,Marble Hill,633,153,633,Wednesday
+Queens,Hammels/Arverne,630,117,630,Friday
+Manhattan,Highbridge Park,629,120,629,Thursday
+Queens,Hammels/Arverne,616,117,616,Thursday
+Bronx,Eastchester,615,81,615,Monday
+Manhattan,Marble Hill,609,153,609,Tuesday
+Bronx,Pelham Bay,603,183,603,Tuesday
+Queens,Hammels/Arverne,598,117,598,Monday
+Queens,Hollis,597,122,597,Tuesday
+Manhattan,Highbridge Park,593,120,593,Wednesday
+Queens,Rockaway Park,589,201,589,Wednesday
+Queens,Hollis,586,122,586,Wednesday
+Bronx,Pelham Bay,580,183,580,Monday
+Bronx,Eastchester,576,81,576,Tuesday
+Bronx,Bronx Park,568,31,568,Wednesday
+Brooklyn,Starrett City,565,222,565,Sunday
+Queens,Hammels/Arverne,565,117,565,Tuesday
+Queens,Rockaway Park,562,201,562,Tuesday
+Queens,Rockaway Park,560,201,560,Monday
+Queens,Hollis,558,122,558,Thursday
+Queens,Hammels/Arverne,541,117,541,Wednesday
+Manhattan,Highbridge Park,538,120,538,Tuesday
+Manhattan,Marble Hill,537,153,537,Monday
+Manhattan,Highbridge Park,536,120,536,Monday
+Queens,Far Rockaway,528,86,528,Saturday
+Bronx,Bronx Park,520,31,520,Tuesday
+Brooklyn,Starrett City,508,222,508,Friday
+Brooklyn,Starrett City,494,222,494,Saturday
+Brooklyn,Starrett City,485,222,485,Wednesday
+Bronx,Bronx Park,484,31,484,Monday
+Brooklyn,Starrett City,484,222,484,Thursday
+Bronx,Van Cortlandt Park,466,240,466,Friday
+Staten Island,Bloomfield/Emerson Hill,463,23,463,Thursday
+Brooklyn,Starrett City,463,222,463,Monday
+Brooklyn,Starrett City,460,222,460,Tuesday
+Queens,Astoria Park,454,8,454,Sunday
+Staten Island,Bloomfield/Emerson Hill,420,23,420,Friday
+Bronx,Country Club,417,58,417,Sunday
+Queens,Astoria Park,414,8,414,Saturday
+Bronx,Van Cortlandt Park,414,240,414,Thursday
+Staten Island,Bloomfield/Emerson Hill,407,23,407,Wednesday
+Staten Island,Stapleton,401,221,401,Saturday
+Staten Island,Stapleton,396,221,396,Thursday
+Bronx,Van Cortlandt Park,395,240,395,Wednesday
+Bronx,Country Club,390,58,390,Saturday
+Bronx,Country Club,375,58,375,Friday
+Staten Island,Bloomfield/Emerson Hill,371,23,371,Tuesday
+Staten Island,Arrochar/Fort Wadsworth,371,6,371,Friday
+Bronx,Van Cortlandt Park,369,240,369,Monday
+Staten Island,Stapleton,369,221,369,Wednesday
+Staten Island,Saint George/New Brighton,364,206,364,Saturday
+Staten Island,Stapleton,364,221,364,Friday
+Staten Island,Stapleton,360,221,360,Sunday
+Bronx,Country Club,356,58,356,Thursday
+Staten Island,Arrochar/Fort Wadsworth,348,6,348,Thursday
+Staten Island,South Beach/Dongan Hills,346,214,346,Friday
+Staten Island,Heartland Village/Todt Hill,340,118,340,Saturday
+Staten Island,Bloomfield/Emerson Hill,339,23,339,Saturday
+Staten Island,Arrochar/Fort Wadsworth,335,6,335,Tuesday
+Staten Island,Saint George/New Brighton,334,206,334,Sunday
+Staten Island,Arrochar/Fort Wadsworth,333,6,333,Saturday
+Staten Island,Bloomfield/Emerson Hill,333,23,333,Monday
+Staten Island,South Beach/Dongan Hills,329,214,329,Wednesday
+Queens,Forest Park/Highland Park,327,96,327,Sunday
+Staten Island,Arrochar/Fort Wadsworth,326,6,326,Wednesday
+Staten Island,Bloomfield/Emerson Hill,324,23,324,Sunday
+Bronx,Van Cortlandt Park,322,240,322,Tuesday
+Staten Island,Heartland Village/Todt Hill,322,118,322,Sunday
+Staten Island,South Beach/Dongan Hills,318,214,318,Sunday
+Staten Island,Stapleton,316,221,316,Monday
+Queens,Forest Park/Highland Park,314,96,314,Friday
+Queens,Forest Park/Highland Park,312,96,312,Saturday
+Queens,Forest Park/Highland Park,311,96,311,Wednesday
+Queens,Astoria Park,311,8,311,Thursday
+Staten Island,Saint George/New Brighton,310,206,310,Friday
+Bronx,Country Club,307,58,307,Tuesday
+Staten Island,Westerleigh,307,251,307,Thursday
+Staten Island,Stapleton,306,221,306,Tuesday
+Staten Island,Heartland Village/Todt Hill,303,118,303,Friday
+Staten Island,South Beach/Dongan Hills,303,214,303,Thursday
+Staten Island,South Beach/Dongan Hills,302,214,302,Saturday
+Bronx,Country Club,301,58,301,Wednesday
+Staten Island,Westerleigh,292,251,292,Friday
+Queens,Forest Park/Highland Park,287,96,287,Monday
+Staten Island,Saint George/New Brighton,284,206,284,Thursday
+Queens,Astoria Park,282,8,282,Tuesday
+Queens,Astoria Park,282,8,282,Friday
+Bronx,City Island,281,46,281,Saturday
+Staten Island,Heartland Village/Todt Hill,280,118,280,Thursday
+Staten Island,Westerleigh,280,251,280,Saturday
+Staten Island,Heartland Village/Todt Hill,275,118,275,Tuesday
+Staten Island,South Beach/Dongan Hills,274,214,274,Tuesday
+Staten Island,Heartland Village/Todt Hill,274,118,274,Wednesday
+Staten Island,Arrochar/Fort Wadsworth,272,6,272,Sunday
+Staten Island,Saint George/New Brighton,270,206,270,Wednesday
+Brooklyn,Green-Wood Cemetery,269,111,269,Saturday
+Queens,Astoria Park,269,8,269,Wednesday
+Bronx,City Island,265,46,265,Sunday
+Queens,Forest Park/Highland Park,262,96,262,Tuesday
+Bronx,Country Club,262,58,262,Monday
+Staten Island,Saint George/New Brighton,261,206,261,Tuesday
+Queens,Forest Park/Highland Park,261,96,261,Thursday
+Staten Island,Arrochar/Fort Wadsworth,261,6,261,Monday
+Staten Island,Westerleigh,252,251,252,Wednesday
+Bronx,City Island,252,46,252,Friday
+Bronx,City Island,244,46,244,Thursday
+Staten Island,Saint George/New Brighton,240,206,240,Monday
+Staten Island,Grymes Hill/Clifton,240,115,240,Saturday
+Queens,Astoria Park,238,8,238,Monday
+Staten Island,Grymes Hill/Clifton,237,115,237,Tuesday
+Staten Island,South Beach/Dongan Hills,237,214,237,Monday
+Staten Island,Grymes Hill/Clifton,233,115,233,Friday
+Staten Island,New Dorp/Midland Beach,230,172,230,Thursday
+Staten Island,Grymes Hill/Clifton,226,115,226,Sunday
+Staten Island,Westerleigh,223,251,223,Monday
+Brooklyn,Green-Wood Cemetery,223,111,223,Thursday
+Staten Island,Heartland Village/Todt Hill,221,118,221,Monday
+Staten Island,New Dorp/Midland Beach,220,172,220,Friday
+Bronx,City Island,218,46,218,Wednesday
+Staten Island,Westerleigh,217,251,217,Tuesday
+Brooklyn,Green-Wood Cemetery,216,111,216,Friday
+Staten Island,Grymes Hill/Clifton,215,115,215,Thursday
+Staten Island,Grymes Hill/Clifton,215,115,215,Wednesday
+Brooklyn,Green-Wood Cemetery,212,111,212,Sunday
+Staten Island,Mariners Harbor,211,156,211,Wednesday
+Staten Island,Grymes Hill/Clifton,209,115,209,Monday
+Staten Island,Mariners Harbor,205,156,205,Friday
+Bronx,City Island,204,46,204,Tuesday
+Brooklyn,Green-Wood Cemetery,204,111,204,Wednesday
+Brooklyn,Green-Wood Cemetery,203,111,203,Tuesday
+Staten Island,New Dorp/Midland Beach,202,172,202,Tuesday
+Staten Island,Westerleigh,200,251,200,Sunday
+Staten Island,New Dorp/Midland Beach,200,172,200,Wednesday
+Staten Island,Mariners Harbor,197,156,197,Thursday
+Staten Island,West Brighton,197,245,197,Sunday
+Staten Island,West Brighton,195,245,195,Saturday
+Queens,Breezy Point/Fort Tilden/Riis Beach,195,27,195,Sunday
+Staten Island,Great Kills,193,109,193,Thursday
+Brooklyn,Marine Park/Floyd Bennett Field,186,154,186,Saturday
+Bronx,City Island,186,46,186,Monday
+Staten Island,West Brighton,185,245,185,Friday
+Staten Island,Mariners Harbor,183,156,183,Tuesday
+Staten Island,Great Kills,183,109,183,Friday
+Staten Island,Mariners Harbor,175,156,175,Monday
+Queens,Breezy Point/Fort Tilden/Riis Beach,175,27,175,Friday
+Staten Island,West Brighton,171,245,171,Thursday
+Staten Island,Great Kills,170,109,170,Wednesday
+Queens,Breezy Point/Fort Tilden/Riis Beach,169,27,169,Saturday
+Brooklyn,Green-Wood Cemetery,167,111,167,Monday
+Staten Island,New Dorp/Midland Beach,167,172,167,Monday
+Queens,Saint Michaels Cemetery/Woodside,166,207,166,Saturday
+Staten Island,New Dorp/Midland Beach,165,172,165,Saturday
+Staten Island,Great Kills,163,109,163,Saturday
+Bronx,Pelham Bay Park,162,184,162,Sunday
+Staten Island,New Dorp/Midland Beach,161,172,161,Sunday
+Staten Island,Mariners Harbor,161,156,161,Sunday
+Queens,Saint Michaels Cemetery/Woodside,160,207,160,Sunday
+Staten Island,West Brighton,160,245,160,Tuesday
+Staten Island,Eltingville/Annadale/Prince's Bay,159,84,159,Friday
+Staten Island,Eltingville/Annadale/Prince's Bay,156,84,156,Saturday
+Bronx,Pelham Bay Park,154,184,154,Saturday
+Staten Island,Mariners Harbor,152,156,152,Saturday
+Staten Island,Great Kills,147,109,147,Sunday
+Staten Island,Oakwood,144,176,144,Sunday
+Staten Island,West Brighton,144,245,144,Wednesday
+Brooklyn,Marine Park/Floyd Bennett Field,144,154,144,Sunday
+Brooklyn,Marine Park/Floyd Bennett Field,144,154,144,Monday
+Bronx,Crotona Park,142,59,142,Saturday
+Staten Island,West Brighton,142,245,142,Monday
+Bronx,Pelham Bay Park,134,184,134,Friday
+Queens,Willets Point,133,253,133,Saturday
+Brooklyn,Marine Park/Floyd Bennett Field,130,154,130,Friday
+Staten Island,Great Kills,128,109,128,Tuesday
+Brooklyn,Marine Park/Floyd Bennett Field,127,154,127,Thursday
+Staten Island,Oakwood,127,176,127,Saturday
+Queens,Willets Point,126,253,126,Sunday
+Staten Island,Eltingville/Annadale/Prince's Bay,124,84,124,Sunday
+Staten Island,Port Richmond,122,187,122,Saturday
+Queens,Breezy Point/Fort Tilden/Riis Beach,122,27,122,Thursday
+Staten Island,Oakwood,120,176,120,Wednesday
+Brooklyn,Marine Park/Floyd Bennett Field,120,154,120,Wednesday
+Bronx,Crotona Park,118,59,118,Sunday
+Brooklyn,Marine Park/Floyd Bennett Field,116,154,116,Tuesday
+Staten Island,Eltingville/Annadale/Prince's Bay,113,84,113,Thursday
+Queens,Breezy Point/Fort Tilden/Riis Beach,113,27,113,Monday
+Queens,Willets Point,112,253,112,Wednesday
+Queens,Willets Point,112,253,112,Monday
+Staten Island,Oakwood,112,176,112,Tuesday
+Staten Island,Rossville/Woodrow,109,204,109,Wednesday
+Staten Island,Rossville/Woodrow,108,204,108,Friday
+Bronx,Crotona Park,106,59,106,Friday
+Staten Island,Port Richmond,106,187,106,Friday
+Staten Island,Arden Heights,105,5,105,Thursday
+Bronx,Pelham Bay Park,105,184,105,Thursday
+Queens,Willets Point,104,253,104,Tuesday
+Staten Island,Arden Heights,103,5,103,Friday
+Queens,Willets Point,101,253,101,Friday
+Queens,Willets Point,100,253,100,Thursday
+Queens,Breezy Point/Fort Tilden/Riis Beach,100,27,100,Tuesday
+Staten Island,Oakwood,99,176,99,Thursday
+Queens,Breezy Point/Fort Tilden/Riis Beach,98,27,98,Wednesday
+Staten Island,Port Richmond,97,187,97,Thursday
+Staten Island,Rossville/Woodrow,96,204,96,Thursday
+Queens,Broad Channel,96,30,96,Sunday
+Staten Island,Arden Heights,95,5,95,Wednesday
+Staten Island,Oakwood,94,176,94,Monday
+Staten Island,Eltingville/Annadale/Prince's Bay,92,84,92,Wednesday
+Staten Island,Rossville/Woodrow,91,204,91,Saturday
+Bronx,Pelham Bay Park,91,184,91,Monday
+Staten Island,Oakwood,91,176,91,Friday
+Staten Island,Port Richmond,90,187,90,Sunday
+Staten Island,Arden Heights,89,5,89,Saturday
+Bronx,Pelham Bay Park,88,184,88,Wednesday
+Staten Island,Rossville/Woodrow,86,204,86,Tuesday
+Staten Island,Great Kills,86,109,86,Monday
+Staten Island,Arden Heights,84,5,84,Sunday
+Staten Island,Rossville/Woodrow,83,204,83,Monday
+Staten Island,Rossville/Woodrow,79,204,79,Sunday
+Staten Island,Eltingville/Annadale/Prince's Bay,77,84,77,Tuesday
+Bronx,Pelham Bay Park,76,184,76,Tuesday
+Staten Island,Charleston/Tottenville,74,44,74,Friday
+Bronx,Crotona Park,73,59,73,Tuesday
+Bronx,Crotona Park,73,59,73,Wednesday
+Staten Island,Arden Heights,69,5,69,Monday
+Staten Island,Arden Heights,66,5,66,Tuesday
+Bronx,Crotona Park,66,59,66,Thursday
+Bronx,Crotona Park,65,59,65,Monday
+Staten Island,Port Richmond,65,187,65,Wednesday
+Staten Island,Charleston/Tottenville,64,44,64,Saturday
+Staten Island,Charleston/Tottenville,63,44,63,Thursday
+Staten Island,Charleston/Tottenville,62,44,62,Sunday
+Queens,Broad Channel,62,30,62,Saturday
+Staten Island,Port Richmond,61,187,61,Monday
+Staten Island,Charleston/Tottenville,56,44,56,Wednesday
+Staten Island,Charleston/Tottenville,55,44,55,Tuesday
+Staten Island,Port Richmond,55,187,55,Tuesday
+Staten Island,Eltingville/Annadale/Prince's Bay,55,84,55,Monday
+Queens,Broad Channel,54,30,54,Friday
+Queens,Broad Channel,51,30,51,Monday
+Queens,Broad Channel,49,30,49,Wednesday
+Queens,Broad Channel,45,30,45,Tuesday
+Queens,Broad Channel,42,30,42,Thursday
+Staten Island,Charleston/Tottenville,40,44,40,Monday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,22,105,22,Wednesday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,20,105,20,Thursday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,19,105,19,Monday
+Bronx,Rikers Island,16,199,16,Wednesday
+Staten Island,Freshkills Park,14,99,14,Friday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,12,105,12,Tuesday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,12,105,12,Friday
+Queens,Jamaica Bay,11,2,11,Thursday
+Staten Island,Freshkills Park,11,99,11,Saturday
+Staten Island,Freshkills Park,11,99,11,Thursday
+Queens,Jamaica Bay,10,2,10,Friday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,10,105,10,Sunday
+Queens,Jamaica Bay,10,2,10,Sunday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,10,105,10,Saturday
+Queens,Jamaica Bay,9,2,9,Tuesday
+Staten Island,Freshkills Park,9,99,9,Wednesday
+Queens,Jamaica Bay,9,2,9,Wednesday
+Queens,Jamaica Bay,8,2,8,Saturday
+Queens,Jamaica Bay,8,2,8,Monday
+Staten Island,Freshkills Park,6,99,6,Tuesday
+Staten Island,Freshkills Park,6,99,6,Monday
+Staten Island,Freshkills Park,4,99,4,Sunday
+Bronx,Rikers Island,4,199,4,Thursday
+Bronx,Rikers Island,3,199,3,Sunday
+Bronx,Rikers Island,2,199,2,Saturday
+Staten Island,Great Kills Park,1,110,1,Thursday
+Bronx,Rikers Island,1,199,1,Tuesday
+Staten Island,Great Kills Park,1,110,1,Friday
+Bronx,Rikers Island,1,199,1,Friday
+Manhattan,Governor's Island/Ellis Island/Liberty Island,1,104,1,Friday

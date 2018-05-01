@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Longwood,315,147,315,1
+Bronx,Schuylerville/Edgewater Park,314,208,314,1
+Queens,Bellerose,314,19,314,1
+Brooklyn,Bensonhurst East,310,21,310,2
+Bronx,Williamsbridge/Olinville,308,254,308,1

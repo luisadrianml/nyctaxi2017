@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Bay Terrace/Fort Totten,58,15,58
+Queens,Willets Point,57,253,57

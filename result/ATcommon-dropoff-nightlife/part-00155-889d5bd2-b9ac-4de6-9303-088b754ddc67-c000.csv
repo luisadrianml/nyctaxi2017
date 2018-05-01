@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Brooklyn Navy Yard,1178,34,1178
+Bronx,Allerton/Pelham Gardens,1149,3,1149

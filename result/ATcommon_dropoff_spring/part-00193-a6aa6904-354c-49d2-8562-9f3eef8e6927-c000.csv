@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Arden Heights,179,5,179
+Staten Island,Port Richmond,165,187,165

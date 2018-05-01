@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Arrochar/Fort Wadsworth,94,6,94
+Brooklyn,Manhattan Beach,92,150,92

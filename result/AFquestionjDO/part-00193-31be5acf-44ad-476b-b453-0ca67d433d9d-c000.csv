@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Arrochar/Fort Wadsworth,8,6,8,4
+Queens,Forest Park/Highland Park,8,96,8,4

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Gravesend,122,108,122
+Queens,Fresh Meadows,119,98,119

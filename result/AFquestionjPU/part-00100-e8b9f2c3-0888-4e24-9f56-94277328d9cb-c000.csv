@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Glendale,402,102,402,1
+Bronx,Bedford Park,400,18,400,1
+Bronx,Kingsbridge Heights,399,136,399,1
+Queens,Jamaica Estates,397,131,397,2

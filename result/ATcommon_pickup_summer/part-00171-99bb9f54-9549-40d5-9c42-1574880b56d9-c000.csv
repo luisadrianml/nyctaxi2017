@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Bay Terrace/Fort Totten,69,15,69
+Brooklyn,Marine Park/Floyd Bennett Field,69,154,69

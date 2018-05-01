@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Douglaston,2365,64,2365
+Queens,Ozone Park,2258,180,2258

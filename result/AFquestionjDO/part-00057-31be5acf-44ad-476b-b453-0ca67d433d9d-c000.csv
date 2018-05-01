@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Springfield Gardens North,9408,218,9408,2
+Bronx,Soundview/Bruckner,9399,212,9399,2
+Manhattan,Gramercy,9326,107,9326,3
+Bronx,Van Cortlandt Village,9290,241,9290,2
+Brooklyn,East New York,9255,76,9255,1
+Manhattan,Upper West Side South,9246,239,9246,3

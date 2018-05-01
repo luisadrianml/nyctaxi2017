@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Cobble Hill,271,52,271,3
+Bronx,Belmont,268,20,268,1
+Brooklyn,Sheepshead Bay,268,210,268,2
+Bronx,Mott Haven/Port Morris,265,168,265,4
+Bronx,West Farms/Bronx River,264,248,264,1

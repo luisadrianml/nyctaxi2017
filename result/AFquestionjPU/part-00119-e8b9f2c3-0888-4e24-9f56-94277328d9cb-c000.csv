@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Manhattan Beach,211,150,211,1
+Bronx,Fordham South,206,94,206,1
+Queens,Briarwood/Jamaica Hills,205,28,205,3
+Queens,Oakland Gardens,204,175,204,1
+Staten Island,Mariners Harbor,203,156,203,1

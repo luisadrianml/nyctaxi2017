@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Governor's Island/Ellis Island/Liberty Island,46,105,46
+Staten Island,Bloomfield/Emerson Hill,40,23,40
+Bronx,Pelham Bay,40,183,40

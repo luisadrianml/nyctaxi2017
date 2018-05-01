@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,SoHo,652819,211,652819,1
+Queens,LaGuardia Airport,642066,138,642066,2
+Manhattan,West Village,632802,249,632802,2
+Manhattan,Manhattan Valley,626752,151,626752,1
+Manhattan,Yorkville West,625967,263,625967,2

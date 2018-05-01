@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,World Trade Center,588362,261,588362
+Manhattan,Alphabet City,567265,4,567265

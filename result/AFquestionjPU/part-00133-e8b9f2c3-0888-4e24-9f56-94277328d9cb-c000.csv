@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,Stapleton,100,221,100,2
+Queens,Corona,100,56,100,3
+Staten Island,Arrochar/Fort Wadsworth,99,6,99,1
+Queens,East Flushing,99,73,99,1
+Bronx,Pelham Bay,98,183,98,2

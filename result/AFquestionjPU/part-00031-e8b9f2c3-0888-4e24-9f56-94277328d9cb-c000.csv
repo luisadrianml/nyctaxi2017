@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Clinton Hill,24038,49,24038,1
+Brooklyn,Greenpoint,23728,112,23728,2
+Brooklyn,East Williamsburg,23453,80,23453,2
+Queens,Woodside,23206,260,23206,1
+Queens,Elmhurst,22559,82,22559,2

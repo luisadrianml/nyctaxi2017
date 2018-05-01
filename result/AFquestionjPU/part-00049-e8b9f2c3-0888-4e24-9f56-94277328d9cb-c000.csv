@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Rego Park,5085,196,5085,2
+Queens,Jamaica,5027,130,5027,1
+Queens,Flushing Meadows-Corona Park,4959,93,4959,2
+Queens,South Ozone Park,4924,216,4924,1
+Manhattan,Upper East Side North,4907,236,4907,4

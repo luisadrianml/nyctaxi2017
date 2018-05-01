@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Manhattan Beach,80,150,80
+Brooklyn,Green-Wood Cemetery,80,111,80

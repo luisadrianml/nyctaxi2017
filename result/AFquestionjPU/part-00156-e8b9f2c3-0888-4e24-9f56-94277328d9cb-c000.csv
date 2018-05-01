@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Glen Oaks,31,101,31,3
+Queens,Rosedale,31,203,31,3
+Bronx,Riverdale/North Riverdale/Fieldston,31,200,31,3

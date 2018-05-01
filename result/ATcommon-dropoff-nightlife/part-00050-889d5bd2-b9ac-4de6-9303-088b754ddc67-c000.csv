@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Clinton Hill,44550,49,44550
+Brooklyn,Bushwick South,43693,37,43693

@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Bedford Park,241,18,241
+Bronx,Norwood,241,174,241
+Queens,Ozone Park,241,180,241

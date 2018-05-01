@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Melrose South,12881,159,12881,1
+Brooklyn,Windsor Terrace,12814,257,12814,2
+Queens,Briarwood/Jamaica Hills,12755,28,12755,1
+Queens,Kew Gardens Hills,12732,135,12732,1
+Manhattan,East Chelsea,12635,68,12635,3

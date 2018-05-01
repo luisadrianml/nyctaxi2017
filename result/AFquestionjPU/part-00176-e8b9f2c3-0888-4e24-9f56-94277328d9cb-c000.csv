@@ -1,0 +1,15 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Manhattan Beach,7,150,7,4
+Queens,Corona,7,57,7,3
+Bronx,Riverdale/North Riverdale/Fieldston,7,200,7,4
+Bronx,Longwood,7,147,7,4
+Brooklyn,Bath Beach,7,11,7,4
+Staten Island,Mariners Harbor,7,156,7,3
+Queens,Cambria Heights,7,38,7,3
+Queens,Springfield Gardens North,7,218,7,4
+Queens,East Flushing,7,73,7,4
+Staten Island,Saint George/New Brighton,7,206,7,3
+Brooklyn,Bensonhurst East,7,21,7,4
+Bronx,Woodlawn/Wakefield,7,259,7,4
+Queens,Hillcrest/Pomonok,7,121,7,4
+Bronx,Rikers Island,7,199,7,2

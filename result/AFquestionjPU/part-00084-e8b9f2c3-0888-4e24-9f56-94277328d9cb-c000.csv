@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Financial District South,746,88,746,4
+Brooklyn,East Williamsburg,742,80,742,3
+Brooklyn,Ocean Parkway South,741,178,741,2
+Bronx,Morrisania/Melrose,736,167,736,1
+Bronx,Soundview/Castle Hill,733,213,733,2

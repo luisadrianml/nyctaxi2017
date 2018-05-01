@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Williamsburg (North Side),31483,255,31483
+Brooklyn,Brooklyn Heights,30483,33,30483

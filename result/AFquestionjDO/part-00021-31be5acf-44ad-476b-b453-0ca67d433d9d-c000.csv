@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Seaport,216648,209,216648,1
+Manhattan,Financial District North,207572,87,207572,2
+Manhattan,Two Bridges/Seward Park,204559,232,204559,2
+Queens,Astoria,203822,7,203822,2
+Manhattan,World Trade Center,201924,261,201924,2

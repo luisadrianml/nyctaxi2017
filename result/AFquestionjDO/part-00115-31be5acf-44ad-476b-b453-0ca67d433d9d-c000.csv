@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Financial District North,1156,87,1156,4
+Queens,Forest Park/Highland Park,1123,96,1123,2
+Bronx,Country Club,1072,58,1072,2
+Bronx,City Island,1069,46,1069,1
+Brooklyn,Clinton Hill,1068,49,1068,3

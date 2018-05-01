@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Middle Village,798,160,798,1
+Brooklyn,Cypress Hills,795,63,795,2
+Brooklyn,Bensonhurst West,790,22,790,2
+Brooklyn,Prospect-Lefferts Gardens,788,188,788,3
+Queens,Saint Michaels Cemetery/Woodside,787,207,787,1
+Queens,Woodhaven,777,258,777,2

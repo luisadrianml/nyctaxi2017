@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,East Harlem North,206663,74,206663
+Manhattan,Central Harlem,168129,41,168129

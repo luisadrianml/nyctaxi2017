@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Steinway,68634,223,68634
+Queens,Woodside,68294,260,68294

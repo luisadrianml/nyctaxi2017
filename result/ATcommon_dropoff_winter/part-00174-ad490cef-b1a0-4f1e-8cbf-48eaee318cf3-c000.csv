@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Stapleton,701,221,701
+Staten Island,Bloomfield/Emerson Hill,635,23,635

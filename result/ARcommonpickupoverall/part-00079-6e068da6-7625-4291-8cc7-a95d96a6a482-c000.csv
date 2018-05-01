@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Flatbush/Ditmas Park,9700,89,9700
+Queens,Jamaica,9131,130,9131

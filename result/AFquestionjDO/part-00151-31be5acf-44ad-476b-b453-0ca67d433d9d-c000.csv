@@ -1,0 +1,8 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Rossville/Woodrow,184,204,184,2
+Queens,Queens Village,182,191,182,3
+Queens,North Corona,182,173,182,4
+Brooklyn,Sheepshead Bay,181,210,181,3
+Queens,Bayside,181,16,181,3
+Queens,Jamaica,181,130,181,4
+Queens,Jamaica Estates,181,131,181,3

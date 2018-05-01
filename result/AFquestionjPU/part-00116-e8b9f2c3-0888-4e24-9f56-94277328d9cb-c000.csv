@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Gravesend,251,108,251,2
+Queens,Jamaica,250,130,250,3
+Bronx,Woodlawn/Wakefield,250,259,250,1
+Queens,Old Astoria,250,179,250,4
+Queens,Fresh Meadows,248,98,248,2

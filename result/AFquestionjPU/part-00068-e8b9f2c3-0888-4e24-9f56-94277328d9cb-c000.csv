@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Meatpacking/West Village West,1816,158,1816,4
+Queens,Ridgewood,1810,198,1810,1
+Queens,Corona,1784,56,1784,1
+Bronx,Melrose South,1784,159,1784,1
+Manhattan,UN/Turtle Bay South,1775,233,1775,4

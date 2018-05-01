@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Jackson Heights,45280,129,45280,2
+Brooklyn,Carroll Gardens,44222,40,44222,1
+Brooklyn,Fort Greene,44163,97,44163,2
+Queens,Woodside,43723,260,43723,2
+Brooklyn,Williamsburg (North Side),43603,255,43603,2

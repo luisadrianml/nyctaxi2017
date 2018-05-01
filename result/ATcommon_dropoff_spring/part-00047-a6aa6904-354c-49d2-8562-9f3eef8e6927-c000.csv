@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Williamsburg (South Side),90154,256,90154
+Manhattan,Hamilton Heights,87149,116,87149

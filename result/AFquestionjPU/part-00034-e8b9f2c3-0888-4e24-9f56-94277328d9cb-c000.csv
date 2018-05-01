@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Unknown,NV,17240,264,17240,3
+Brooklyn,Bushwick South,17159,37,17159,1
+Queens,Baisley Park,16396,10,16396,1
+Manhattan,East Village,15469,79,15469,3
+Manhattan,Murray Hill,15462,170,15462,3

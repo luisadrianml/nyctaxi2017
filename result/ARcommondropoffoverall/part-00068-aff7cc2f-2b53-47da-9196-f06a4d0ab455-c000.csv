@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Bushwick North,108824,36,108824
+Queens,Elmhurst,103109,82,103109

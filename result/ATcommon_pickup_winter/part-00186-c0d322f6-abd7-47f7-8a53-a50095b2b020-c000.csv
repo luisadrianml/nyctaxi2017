@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,City Island,12,46,12
+Staten Island,Great Kills,12,109,12

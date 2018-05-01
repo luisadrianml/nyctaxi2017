@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Springfield Gardens North,1039,218,1039
+Bronx,Norwood,1026,174,1026

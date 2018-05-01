@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Meatpacking/West Village West,313219,158,313219
+Manhattan,Lincoln Square West,306205,143,306205

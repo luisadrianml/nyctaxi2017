@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,South Beach/Dongan Hills,22,214,22
+Staten Island,Rossville/Woodrow,22,204,22
+Queens,Jamaica Bay,22,2,22

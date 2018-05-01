@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East New York/Pennsylvania Avenue,174,77,174
+Brooklyn,Bath Beach,174,11,174

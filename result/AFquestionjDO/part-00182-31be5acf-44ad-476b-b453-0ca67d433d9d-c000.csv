@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Glen Oaks,37,101,37,4
+Brooklyn,Brooklyn Navy Yard,37,34,37,4
+Bronx,Eastchester,35,81,35,4
+Queens,Douglaston,34,64,34,4
+Brooklyn,Gravesend,34,108,34,4
+Brooklyn,Ocean Parkway South,34,178,34,4

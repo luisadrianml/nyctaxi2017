@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Central Harlem North,285458,42,285458,1
+Brooklyn,Williamsburg (North Side),274753,255,274753,1
+Manhattan,Washington Heights South,272942,244,272942,1
+Manhattan,Central Harlem,264666,41,264666,2
+Manhattan,Morningside Heights,258692,166,258692,2

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Rikers Island,21,199,21,1
+Brooklyn,Sheepshead Bay,21,210,21,3
+Queens,Oakland Gardens,21,175,21,3
+Queens,Saint Albans,21,205,21,3
+Brooklyn,East Flatbush/Farragut,21,71,21,4

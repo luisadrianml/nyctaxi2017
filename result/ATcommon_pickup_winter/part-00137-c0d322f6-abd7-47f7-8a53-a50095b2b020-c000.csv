@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Sheepshead Bay,227,210,227
+Queens,Whitestone,224,252,224

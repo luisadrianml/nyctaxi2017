@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,East Flatbush/Remsen Village,530,72,530,2
+EWR,Newark Airport,526,1,526,3
+Queens,Long Island City/Queens Plaza,520,146,520,4
+Manhattan,Bloomingdale,516,24,516,4

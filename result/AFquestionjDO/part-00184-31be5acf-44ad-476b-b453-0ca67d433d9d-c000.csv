@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Bath Beach,32,11,32,4
+Queens,Laurelton,31,139,31,4
+Queens,Jamaica Bay,31,2,31,2
+Queens,Far Rockaway,31,86,31,4
+Queens,Hammels/Arverne,31,117,31,4

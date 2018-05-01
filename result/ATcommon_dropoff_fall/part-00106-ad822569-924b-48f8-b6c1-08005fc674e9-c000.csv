@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Bensonhurst West,4661,22,4661
+Queens,Woodhaven,4471,258,4471

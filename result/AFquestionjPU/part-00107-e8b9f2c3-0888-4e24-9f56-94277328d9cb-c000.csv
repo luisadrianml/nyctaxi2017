@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Williamsburg (South Side),332,256,332,4
+Queens,East Elmhurst,327,70,327,3
+Manhattan,Inwood Hill Park,327,128,327,2
+Manhattan,Washington Heights North,326,243,326,3
+Queens,Saint Albans,325,205,325,1

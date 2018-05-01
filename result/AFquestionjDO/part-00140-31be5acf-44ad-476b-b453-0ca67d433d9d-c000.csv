@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Flatlands,301,91,301,3
+Bronx,Spuyten Duyvil/Kingsbridge,298,220,298,3
+Brooklyn,Bushwick North,293,36,293,4
+Bronx,Morrisania/Melrose,293,167,293,3
+Brooklyn,Sunset Park East,289,227,289,3

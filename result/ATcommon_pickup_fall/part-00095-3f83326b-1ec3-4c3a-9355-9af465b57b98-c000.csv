@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Highbridge,1118,119,1118
+Brooklyn,Crown Heights South,1085,62,1085

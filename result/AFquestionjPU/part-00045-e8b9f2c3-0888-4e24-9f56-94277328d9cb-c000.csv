@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Penn Station/Madison Sq West,6772,186,6772,4
+Brooklyn,Bushwick North,6519,36,6519,2
+EWR,Newark Airport,6513,1,6513,1
+Manhattan,Meatpacking/West Village West,6449,158,6449,3
+Brooklyn,Sunset Park West,6431,228,6431,1

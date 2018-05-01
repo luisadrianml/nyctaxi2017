@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,East New York/Pennsylvania Avenue,1353,77,1353
+Queens,Oakland Gardens,1332,175,1332

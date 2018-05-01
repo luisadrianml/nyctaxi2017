@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Elmhurst/Maspeth,286,83,286,3
+Manhattan,Highbridge Park,284,120,284,1
+Queens,Jackson Heights,283,129,283,4
+Queens,Woodside,283,260,283,4
+Brooklyn,Madison,283,149,283,2
+Brooklyn,Marine Park/Mill Basin,283,155,283,2

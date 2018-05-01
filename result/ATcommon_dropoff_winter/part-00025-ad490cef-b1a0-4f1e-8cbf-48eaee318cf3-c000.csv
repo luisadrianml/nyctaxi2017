@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Central Park,327206,43,327206
+Manhattan,Greenwich Village South,317587,114,317587

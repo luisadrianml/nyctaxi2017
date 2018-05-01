@@ -1,0 +1,4 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,New Dorp/Midland Beach,303,172,303
+Staten Island,West Brighton,299,245,299
+Brooklyn,Marine Park/Floyd Bennett Field,299,154,299

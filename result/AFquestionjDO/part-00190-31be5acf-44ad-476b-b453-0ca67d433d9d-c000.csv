@@ -1,0 +1,8 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Port Richmond,15,187,15,3
+Staten Island,South Beach/Dongan Hills,15,214,15,4
+Staten Island,Great Kills,15,109,15,3
+Queens,Breezy Point/Fort Tilden/Riis Beach,14,27,14,3
+Staten Island,New Dorp/Midland Beach,14,172,14,3
+Bronx,Van Cortlandt Park,14,240,14,4
+Brooklyn,Starrett City,14,222,14,4

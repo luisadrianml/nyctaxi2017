@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Canarsie,5554,39,5554
+Queens,Woodhaven,5542,258,5542

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Country Club,1299,58,1299,1
+Brooklyn,Prospect-Lefferts Gardens,1297,188,1297,3
+Brooklyn,Brooklyn Heights,1296,33,1296,3
+Queens,Elmhurst,1292,82,1292,3
+Queens,Astoria Park,1283,8,1283,1

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Williamsburg (North Side),1091,255,1091,3
+Queens,Woodside,1082,260,1082,3
+Manhattan,Manhattanville,1074,152,1074,3
+Queens,North Corona,1067,173,1067,1
+Queens,Steinway,1002,223,1002,3

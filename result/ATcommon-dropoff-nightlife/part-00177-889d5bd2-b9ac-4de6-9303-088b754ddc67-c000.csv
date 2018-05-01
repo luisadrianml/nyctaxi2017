@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Westerleigh,386,251,386
+Queens,Forest Park/Highland Park,382,96,382

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Chinatown,40779,45,40779
+Manhattan,Financial District South,40682,88,40682

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Astoria,83964,7,83964,1
+Manhattan,Central Harlem North,83656,42,83656,1
+Brooklyn,Park Slope,83611,181,83611,1
+Brooklyn,Williamsburg (South Side),77040,256,77040,1
+Manhattan,Two Bridges/Seward Park,75887,232,75887,2
+Brooklyn,Boerum Hill,74280,25,74280,1

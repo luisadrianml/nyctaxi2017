@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Eltingville/Annadale/Prince's Bay,11,84,11
+Queens,Broad Channel,11,30,11
+Staten Island,Arden Heights,11,5,11

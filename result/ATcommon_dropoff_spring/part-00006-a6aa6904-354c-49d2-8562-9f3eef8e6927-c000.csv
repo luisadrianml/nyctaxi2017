@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Penn Station/Madison Sq West,807489,186,807489
+Manhattan,Lincoln Square East,782850,142,782850

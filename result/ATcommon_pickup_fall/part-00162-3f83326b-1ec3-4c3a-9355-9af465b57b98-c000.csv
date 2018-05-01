@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Bronxdale,105,32,105
+Brooklyn,Gravesend,105,108,105

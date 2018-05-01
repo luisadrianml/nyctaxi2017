@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,South Jamaica,193,215,193,3
+Bronx,Eastchester,189,81,189,2
+Queens,Glen Oaks,186,101,186,2
+Queens,Auburndale,180,9,180,1
+Brooklyn,Brooklyn Heights,179,33,179,4

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Unknown,NV,4833,264,4833,4
+Queens,Saint Michaels Cemetery/Woodside,4831,207,4831,2
+Manhattan,Randalls Island,4815,194,4815,1
+Manhattan,Midtown North,4749,163,4749,4
+Manhattan,Midtown East,4688,162,4688,4

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Meatpacking/West Village West,302952,158,302952
+Queens,LaGuardia Airport,294423,138,294423

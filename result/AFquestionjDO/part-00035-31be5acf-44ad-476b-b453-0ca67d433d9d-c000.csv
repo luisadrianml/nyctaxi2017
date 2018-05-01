@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Gowanus,45920,106,45920,1
+Brooklyn,Windsor Terrace,45813,257,45813,1
+Brooklyn,Stuyvesant Heights,45483,225,45483,2
+EWR,Newark Airport,44122,1,44122,2
+Manhattan,Battery Park,41738,12,41738,2

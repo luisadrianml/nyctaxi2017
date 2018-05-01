@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Charleston/Tottenville,24,44,24
+Staten Island,Freshkills Park,11,99,11

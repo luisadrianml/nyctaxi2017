@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Highbridge,3979,119,3979
+Queens,Richmond Hill,3949,197,3949

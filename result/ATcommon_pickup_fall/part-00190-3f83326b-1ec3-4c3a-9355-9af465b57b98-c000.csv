@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Charleston/Tottenville,7,44,7
+Staten Island,West Brighton,7,245,7

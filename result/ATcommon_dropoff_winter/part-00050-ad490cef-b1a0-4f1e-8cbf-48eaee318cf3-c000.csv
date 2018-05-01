@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Greenpoint,74118,112,74118
+Manhattan,Seaport,72261,209,72261

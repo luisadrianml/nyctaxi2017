@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Richmond Hill,145,197,145,3
+Manhattan,Inwood,145,127,145,3
+Queens,Douglaston,145,64,145,2
+Bronx,Allerton/Pelham Gardens,145,3,145,2
+Brooklyn,Canarsie,145,39,145,3

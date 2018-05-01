@@ -1,0 +1,14 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,Westerleigh,6,251,6,3
+Bronx,Crotona Park East,6,60,6,4
+Staten Island,Bloomfield/Emerson Hill,6,23,6,4
+Queens,Auburndale,6,9,6,4
+Bronx,Fordham South,6,94,6,4
+Queens,Saint Albans,6,205,6,4
+Staten Island,Heartland Village/Todt Hill,6,118,6,3
+Queens,Rosedale,6,203,6,4
+Brooklyn,Gravesend,6,108,6,4
+Queens,Ozone Park,6,180,6,4
+Brooklyn,Brighton Beach,6,29,6,4
+Bronx,Pelham Parkway,6,185,6,4
+Bronx,Van Nest/Morris Park,6,242,6,4

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,East Flushing,86,73,86
+Brooklyn,Starrett City,86,222,86

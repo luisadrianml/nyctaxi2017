@@ -1,0 +1,4 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Howard Beach,180,124,180,3
+Queens,Hillcrest/Pomonok,179,121,179,3
+Brooklyn,Marine Park/Mill Basin,179,155,179,3

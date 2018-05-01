@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Downtown Brooklyn/MetroTech,61151,65,61151,2
+Brooklyn,Bushwick South,60387,37,60387,2
+Queens,Long Island City/Queens Plaza,60071,146,60071,2
+Brooklyn,Bedford,59804,17,59804,2
+Brooklyn,Bay Ridge,59587,14,59587,1
+Brooklyn,Crown Heights North,59277,61,59277,2

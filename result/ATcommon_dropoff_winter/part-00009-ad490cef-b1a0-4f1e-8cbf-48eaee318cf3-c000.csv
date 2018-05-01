@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Midtown North,670074,163,670074
+Manhattan,Lenox Hill West,664939,141,664939

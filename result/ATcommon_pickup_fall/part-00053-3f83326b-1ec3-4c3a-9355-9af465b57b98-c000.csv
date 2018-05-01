@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Manhattanville,24631,152,24631
+Manhattan,Washington Heights South,23677,244,23677

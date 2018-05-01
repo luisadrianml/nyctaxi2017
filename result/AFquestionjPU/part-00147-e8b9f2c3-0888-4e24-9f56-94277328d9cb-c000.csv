@@ -1,0 +1,10 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Rego Park,48,196,48,4
+Queens,Ozone Park,47,180,47,3
+Queens,Whitestone,47,252,47,3
+Queens,Rockaway Park,46,201,46,2
+Staten Island,Saint George/New Brighton,46,206,46,1
+Bronx,Van Nest/Morris Park,46,242,46,3
+Brooklyn,Sunset Park East,46,227,46,3
+Manhattan,Inwood,46,127,46,4
+Brooklyn,East New York/Pennsylvania Avenue,46,77,46,3

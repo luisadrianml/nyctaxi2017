@@ -1,0 +1,9 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Sheepshead Bay,8,210,8,4
+Staten Island,Stapleton,8,221,8,3
+Queens,Murray Hill-Queens,8,171,8,4
+Bronx,East Tremont,8,78,8,4
+Brooklyn,Sunset Park East,8,227,8,4
+Queens,Astoria Park,8,8,8,4
+Queens,Jamaica Estates,8,131,8,4
+Queens,Laurelton,8,139,8,3

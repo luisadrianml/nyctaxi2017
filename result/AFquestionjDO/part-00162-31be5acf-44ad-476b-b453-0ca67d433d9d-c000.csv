@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Flatlands,110,91,110,4
+Queens,Briarwood/Jamaica Hills,108,28,108,4
+Bronx,Soundview/Bruckner,108,212,108,4
+Bronx,Spuyten Duyvil/Kingsbridge,108,220,108,4
+Brooklyn,Brownsville,108,35,108,4

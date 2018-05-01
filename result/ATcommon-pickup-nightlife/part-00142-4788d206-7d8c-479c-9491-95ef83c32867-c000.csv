@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Astoria Park,96,8,96
+Queens,Howard Beach,96,124,96

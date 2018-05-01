@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Murray Hill-Queens,412,171,412,2
+Queens,Queensboro Hill,410,192,410,1
+Bronx,East Tremont,408,78,408,1
+Queens,Ozone Park,408,180,408,2
+Brooklyn,East New York/Pennsylvania Avenue,404,77,404,1
+Bronx,Schuylerville/Edgewater Park,403,208,403,2
+Queens,Whitestone,403,252,403,1

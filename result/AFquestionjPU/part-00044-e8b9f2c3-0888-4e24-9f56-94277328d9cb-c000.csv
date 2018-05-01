@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Forest Hills,7264,95,7264,1
+Brooklyn,Prospect-Lefferts Gardens,7107,188,7107,2
+Manhattan,Times Sq/Theatre District,6972,230,6972,4
+Manhattan,Clinton West,6880,50,6880,3
+Manhattan,Little Italy/NoLiTa,6821,144,6821,3

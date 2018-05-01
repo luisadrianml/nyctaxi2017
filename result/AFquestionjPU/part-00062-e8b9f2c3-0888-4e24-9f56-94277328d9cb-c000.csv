@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Morningside Heights,2573,166,2573,3
+Queens,Maspeth,2569,157,2569,1
+Brooklyn,Bay Ridge,2554,14,2554,2
+Brooklyn,Bay Ridge,2510,14,2510,1
+Queens,Maspeth,2508,157,2508,2

@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Mott Haven/Port Morris,525,168,525,4
+Queens,Long Island City/Queens Plaza,523,146,523,4
+Brooklyn,Borough Park,522,26,522,3
+Staten Island,Westerleigh,522,251,522,2

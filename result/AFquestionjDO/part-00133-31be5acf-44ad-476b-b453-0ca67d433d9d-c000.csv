@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Elmhurst,424,82,424,4
+Staten Island,West Brighton,421,245,421,2
+Bronx,University Heights/Morris Heights,419,235,419,3
+Manhattan,Seaport,418,209,418,4
+Bronx,Pelham Bay Park,407,184,407,1

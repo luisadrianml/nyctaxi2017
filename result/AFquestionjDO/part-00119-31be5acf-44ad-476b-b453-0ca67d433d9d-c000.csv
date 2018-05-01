@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Bushwick North,899,36,899,3
+Manhattan,Washington Heights South,837,244,837,4
+Manhattan,Alphabet City,826,4,826,4
+Manhattan,Hudson Sq,816,125,816,4
+Staten Island,Mariners Harbor,780,156,780,1

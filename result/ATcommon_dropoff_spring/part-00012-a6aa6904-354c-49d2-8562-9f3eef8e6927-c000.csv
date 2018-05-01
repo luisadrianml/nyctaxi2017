@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Midtown South,633184,164,633184
+Manhattan,Upper West Side North,602598,238,602598

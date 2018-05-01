@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,West Concourse,5540,247,5540
+Manhattan,Washington Heights North,5505,243,5505

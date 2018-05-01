@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Hollis,2661,122,2661,2
+Brooklyn,Manhattan Beach,2653,150,2653,2
+Manhattan,Washington Heights South,2630,244,2630,3
+Queens,Laurelton,2609,139,2609,1
+Queens,Corona,2571,57,2571,1

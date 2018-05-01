@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Governor's Island/Ellis Island/Liberty Island,33,105,33,2
+Manhattan,Highbridge Park,33,120,33,4
+Bronx,Allerton/Pelham Gardens,33,3,33,4
+Staten Island,Grymes Hill/Clifton,33,115,33,3
+Queens,Jamaica Bay,33,2,33,1

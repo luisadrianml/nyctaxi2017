@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Governor's Island/Ellis Island/Liberty Island,30,105,30
+Staten Island,Stapleton,30,221,30
+Staten Island,Westerleigh,30,251,30

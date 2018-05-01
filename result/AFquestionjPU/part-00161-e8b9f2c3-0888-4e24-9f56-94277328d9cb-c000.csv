@@ -1,0 +1,9 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Erasmus,22,85,22,4
+Queens,Breezy Point/Fort Tilden/Riis Beach,22,27,22,1
+Staten Island,New Dorp/Midland Beach,22,172,22,2
+Bronx,Co-Op City,22,51,22,3
+Bronx,Crotona Park,22,59,22,2
+Manhattan,Highbridge Park,22,120,22,3
+Staten Island,Great Kills,22,109,22,1
+Bronx,Country Club,22,58,22,2

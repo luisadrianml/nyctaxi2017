@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Madison,2946,149,2946
+Queens,Springfield Gardens North,2938,218,2938

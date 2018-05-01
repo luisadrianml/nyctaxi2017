@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Great Kills Park,2,110,2
+Staten Island,Freshkills Park,2,99,2

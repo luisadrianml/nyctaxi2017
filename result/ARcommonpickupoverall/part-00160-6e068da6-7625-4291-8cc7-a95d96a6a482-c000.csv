@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Glen Oaks,456,101,456
+Bronx,Bronxdale,439,32,439

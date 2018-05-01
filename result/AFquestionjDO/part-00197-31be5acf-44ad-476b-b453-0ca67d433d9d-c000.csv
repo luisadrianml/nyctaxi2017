@@ -1,0 +1,4 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Eltingville/Annadale/Prince's Bay,2,84,2,4
+Queens,Breezy Point/Fort Tilden/Riis Beach,2,27,2,4
+Manhattan,Governor's Island/Ellis Island/Liberty Island,2,105,2,4

@@ -1,0 +1,8 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Arden Heights,406,5,406,1
+Brooklyn,Stuyvesant Heights,406,225,406,4
+Queens,Richmond Hill,404,197,404,3
+Staten Island,New Dorp/Midland Beach,401,172,401,2
+Brooklyn,Kensington,398,133,398,3
+Queens,Breezy Point/Fort Tilden/Riis Beach,397,27,397,2
+Brooklyn,Brooklyn Heights,397,33,397,4

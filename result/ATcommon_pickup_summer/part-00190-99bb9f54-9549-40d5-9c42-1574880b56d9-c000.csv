@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,West Brighton,8,245,8
+Bronx,Crotona Park,8,59,8

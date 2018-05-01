@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Prospect Park,5497,190,5497,2
+Manhattan,East Harlem North,5471,74,5471,3
+Bronx,Belmont,5463,20,5463,1
+Bronx,Hunts Point,5456,126,5456,1
+Bronx,Fordham South,5383,94,5383,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,University Heights/Morris Heights,20618,235,20618
+Brooklyn,Canarsie,20454,39,20454

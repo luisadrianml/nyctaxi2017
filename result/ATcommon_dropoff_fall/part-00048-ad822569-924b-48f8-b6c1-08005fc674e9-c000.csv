@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Seaport,75755,209,75755
+Brooklyn,Williamsburg (South Side),74181,256,74181

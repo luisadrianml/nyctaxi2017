@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Van Cortlandt Park,1641,240,1641,2
+Brooklyn,Downtown Brooklyn/MetroTech,1640,65,1640,3
+Manhattan,Little Italy/NoLiTa,1617,144,1617,4
+Manhattan,Manhattanville,1615,152,1615,3
+Manhattan,Seaport,1612,209,1612,3

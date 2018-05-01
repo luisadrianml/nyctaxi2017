@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,East Flushing,157,73,157,2
+Manhattan,Randalls Island,154,194,154,3
+Brooklyn,Crown Heights South,152,62,152,3
+Brooklyn,Crown Heights North,151,61,151,4
+Queens,Forest Park/Highland Park,151,96,151,2

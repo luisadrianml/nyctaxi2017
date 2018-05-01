@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,West Chelsea/Hudson Yards,170263,246,170263
+Manhattan,Greenwich Village North,166704,113,166704

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Gowanus,15124,106,15124
+Queens,Ridgewood,15009,198,15009

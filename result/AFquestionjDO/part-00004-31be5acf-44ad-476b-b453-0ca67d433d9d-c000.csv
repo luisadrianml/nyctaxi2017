@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,TriBeCa/Civic Center,1437388,231,1437388,1
+Manhattan,Yorkville West,1428605,263,1428605,1
+Manhattan,West Village,1409103,249,1409103,1
+Manhattan,Upper East Side South,1355593,237,1355593,2
+Manhattan,Lenox Hill East,1338701,140,1338701,1
+Manhattan,Sutton Place/Turtle Bay North,1332904,229,1332904,1

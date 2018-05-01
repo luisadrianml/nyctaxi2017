@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,North Corona,491,173,491,3
+Queens,Springfield Gardens South,490,219,490,3
+Queens,Saint Michaels Cemetery/Woodside,484,207,484,1
+Brooklyn,Ocean Parkway South,483,178,483,3
+Brooklyn,Green-Wood Cemetery,482,111,482,2

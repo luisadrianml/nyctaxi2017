@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Long Island City/Queens Plaza,36428,146,36428
+Brooklyn,Carroll Gardens,32990,40,32990

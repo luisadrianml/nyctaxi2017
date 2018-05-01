@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Claremont/Bathgate,887,47,887,2
+Bronx,Kingsbridge Heights,881,136,881,2
+Queens,Old Astoria,880,179,880,3
+Unknown,NA,867,265,867,4
+Bronx,Soundview/Bruckner,858,212,858,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Middle Village,9384,160,9384
+Brooklyn,Columbia Street,9250,54,9250

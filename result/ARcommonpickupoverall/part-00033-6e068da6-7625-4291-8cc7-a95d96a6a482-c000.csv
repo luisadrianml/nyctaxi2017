@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,East Harlem South,739208,75,739208
+Manhattan,World Trade Center,690430,261,690430

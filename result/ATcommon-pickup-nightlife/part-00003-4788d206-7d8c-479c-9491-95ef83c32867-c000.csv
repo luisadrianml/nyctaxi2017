@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,West Village,445401,249,445401
+Manhattan,Union Sq,416775,234,416775

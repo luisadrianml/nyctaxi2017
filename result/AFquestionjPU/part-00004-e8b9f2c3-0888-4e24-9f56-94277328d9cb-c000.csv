@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Times Sq/Theatre District,1530882,230,1530882,2
+Manhattan,Flatiron,1520914,90,1520914,1
+Manhattan,TriBeCa/Civic Center,1486798,231,1486798,1
+Manhattan,Midtown Center,1435546,161,1435546,2
+Manhattan,Upper West Side North,1427094,238,1427094,1

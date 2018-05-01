@@ -1,0 +1,7 @@
+PU_Borough,PUWeekday,PUHour,avg(passenger_count)
+EWR,Tuesday,21,1.75
+EWR,Friday,2,1.75
+EWR,Saturday,22,1.75
+EWR,Monday,6,1.7346938775510203
+EWR,Wednesday,20,1.7272727272727273
+Bronx,Saturday,20,1.7263681592039801

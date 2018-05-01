@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Yorkville East,1516,262,1516,4
+Staten Island,Stapleton,1506,221,1506,1
+Brooklyn,Williamsburg (North Side),1504,255,1504,3
+Brooklyn,Bedford,1492,17,1492,3
+Manhattan,Meatpacking/West Village West,1488,158,1488,4
+Manhattan,Central Harlem,1378,41,1378,4

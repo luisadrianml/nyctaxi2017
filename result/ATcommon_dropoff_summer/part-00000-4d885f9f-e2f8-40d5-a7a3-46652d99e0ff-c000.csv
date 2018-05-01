@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Midtown Center,1029988,161,1029988
+Manhattan,Murray Hill,887960,170,887960

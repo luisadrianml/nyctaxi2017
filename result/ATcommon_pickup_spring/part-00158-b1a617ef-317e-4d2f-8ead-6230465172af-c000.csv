@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Madison,133,149,133
+Staten Island,Westerleigh,131,251,131

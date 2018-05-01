@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Downtown Brooklyn/MetroTech,53936,65,53936
+EWR,Newark Airport,53336,1,53336

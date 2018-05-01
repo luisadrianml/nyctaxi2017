@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,East Flatbush/Remsen Village,310,72,310,3
+Staten Island,Port Richmond,309,187,309,1
+Queens,Woodhaven,308,258,308,3
+Brooklyn,Brownsville,307,35,307,3
+Manhattan,Roosevelt Island,304,202,304,3

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Boerum Hill,214973,25,214973
+Manhattan,Washington Heights North,210763,243,210763

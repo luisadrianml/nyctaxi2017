@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,East Harlem South,171134,75,171134
+Manhattan,Hudson Sq,160038,125,160038

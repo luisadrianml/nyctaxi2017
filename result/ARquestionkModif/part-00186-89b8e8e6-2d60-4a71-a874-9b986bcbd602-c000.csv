@@ -1,0 +1,7 @@
+PU_Borough,PUWeekday,PUHour,avg(passenger_count)
+EWR,Tuesday,18,1.2763157894736843
+EWR,Wednesday,11,1.2758620689655173
+EWR,Wednesday,18,1.2753623188405796
+EWR,Thursday,4,1.275
+Staten Island,Thursday,4,1.2666666666666666
+EWR,Friday,7,1.2666666666666666

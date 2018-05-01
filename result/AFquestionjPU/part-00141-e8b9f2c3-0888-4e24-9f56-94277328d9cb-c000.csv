@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bushwick North,65,36,65,4
+Bronx,Spuyten Duyvil/Kingsbridge,63,220,63,3
+Queens,Rockaway Park,61,201,61,1
+Queens,Kew Gardens Hills,61,135,61,3
+Brooklyn,Sunset Park West,61,228,61,4
+Queens,Middle Village,60,160,60,3
+Brooklyn,Homecrest,60,123,60,3

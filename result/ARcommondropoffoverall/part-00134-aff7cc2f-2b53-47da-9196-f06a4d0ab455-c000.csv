@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,West Farms/Bronx River,12409,248,12409
+Brooklyn,Sheepshead Bay,12077,210,12077

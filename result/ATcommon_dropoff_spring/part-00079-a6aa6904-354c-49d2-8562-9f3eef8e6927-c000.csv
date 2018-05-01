@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,West Concourse,14468,247,14468
+Brooklyn,Crown Heights South,14266,62,14266

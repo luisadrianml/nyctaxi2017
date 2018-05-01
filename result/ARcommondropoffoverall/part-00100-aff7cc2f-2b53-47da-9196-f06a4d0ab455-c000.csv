@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Kew Gardens Hills,23834,135,23834
+Brooklyn,Ocean Hill,23752,177,23752

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Carroll Gardens,15563,40,15563
+Queens,Jackson Heights,14930,129,14930

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Cobble Hill,18736,52,18736
+Brooklyn,Carroll Gardens,18725,40,18725

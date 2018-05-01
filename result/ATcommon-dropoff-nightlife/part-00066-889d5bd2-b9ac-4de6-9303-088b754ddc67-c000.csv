@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Long Island City/Queens Plaza,23030,146,23030
+Brooklyn,Flatbush/Ditmas Park,20589,89,20589

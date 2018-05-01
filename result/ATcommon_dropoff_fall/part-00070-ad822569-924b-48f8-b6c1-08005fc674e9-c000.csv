@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Flatbush/Ditmas Park,22920,89,22920
+Brooklyn,Cobble Hill,22877,52,22877

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Williamsburg (North Side),33074,255,33074
+Brooklyn,Park Slope,31283,181,31283

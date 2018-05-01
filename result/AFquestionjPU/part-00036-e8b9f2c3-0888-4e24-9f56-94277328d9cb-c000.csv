@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bushwick South,14159,37,14159,2
+Bronx,Mott Haven/Port Morris,14156,168,14156,2
+Manhattan,Union Sq,14137,234,14137,3
+Manhattan,Garment District,14068,100,14068,3
+Manhattan,Midtown North,14051,163,14051,3

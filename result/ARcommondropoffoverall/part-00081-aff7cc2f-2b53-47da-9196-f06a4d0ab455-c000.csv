@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Elmhurst/Maspeth,49708,83,49708
+Brooklyn,Red Hook,47980,195,47980

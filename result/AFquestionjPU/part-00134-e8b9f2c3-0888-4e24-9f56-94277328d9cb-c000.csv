@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Bellerose,97,19,97,3
+Brooklyn,Starrett City,96,222,96,2
+Brooklyn,Prospect Park,95,190,95,3
+Brooklyn,Flatbush/Ditmas Park,94,89,94,4
+Brooklyn,Red Hook,91,195,91,3
+Queens,Ridgewood,91,198,91,3
+Bronx,Highbridge,91,119,91,3

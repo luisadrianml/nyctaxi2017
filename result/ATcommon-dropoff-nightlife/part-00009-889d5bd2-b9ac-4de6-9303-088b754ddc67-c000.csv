@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Upper East Side North,243444,236,243444
+Manhattan,Yorkville West,240642,263,240642

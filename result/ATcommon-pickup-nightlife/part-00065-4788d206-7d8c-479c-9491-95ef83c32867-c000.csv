@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,DUMBO/Vinegar Hill,4482,66,4482
+Brooklyn,Cobble Hill,4470,52,4470

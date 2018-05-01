@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Kips Bay,359390,137,359390
+Manhattan,UN/Turtle Bay South,354557,233,354557

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Clinton East,17372,48,17372,3
+Queens,Middle Village,16935,160,16935,2
+Queens,Middle Village,16670,160,16670,1
+Brooklyn,Sunset Park East,16558,227,16558,1
+Queens,Baisley Park,16306,10,16306,1

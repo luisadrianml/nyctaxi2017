@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Battery Park,156,12,156,4
+Queens,Corona,156,56,156,4
+Brooklyn,Coney Island,154,55,154,3
+Bronx,Westchester Village/Unionport,153,250,153,3

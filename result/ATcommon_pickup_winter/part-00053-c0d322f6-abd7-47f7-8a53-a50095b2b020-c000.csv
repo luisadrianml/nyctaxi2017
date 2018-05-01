@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Manhattanville,27905,152,27905
+Brooklyn,Fort Greene,27295,97,27295

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Baisley Park,545,10,545,3
+Bronx,Crotona Park East,540,60,540,2
+Bronx,West Farms/Bronx River,540,248,540,2
+Queens,Elmhurst,539,82,539,3
+Brooklyn,Bushwick South,538,37,538,3
+Brooklyn,Gowanus,538,106,538,3

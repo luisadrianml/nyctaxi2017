@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+EWR,Newark Airport,105,1,105,4
+Queens,Maspeth,105,157,105,3
+Staten Island,Grymes Hill/Clifton,104,115,104,2
+Brooklyn,Carroll Gardens,103,40,103,4
+Queens,Elmhurst/Maspeth,101,83,101,4

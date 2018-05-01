@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,West Farms/Bronx River,868,248,868
+Brooklyn,Coney Island,855,55,855

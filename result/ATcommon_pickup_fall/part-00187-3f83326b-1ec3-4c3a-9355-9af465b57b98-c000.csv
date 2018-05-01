@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Oakwood,10,176,10
+Staten Island,Westerleigh,10,251,10

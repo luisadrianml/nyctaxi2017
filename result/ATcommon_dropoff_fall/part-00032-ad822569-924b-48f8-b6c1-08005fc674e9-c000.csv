@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,SoHo,245916,211,245916
+Manhattan,Financial District North,236214,87,236214

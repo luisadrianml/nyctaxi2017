@@ -1,0 +1,12 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Bellerose,9,19,9,4
+Bronx,Hunts Point,9,126,9,4
+Staten Island,Freshkills Park,9,99,9,1
+Staten Island,Charleston/Tottenville,9,44,9,2
+Queens,Rockaway Park,9,201,9,3
+Brooklyn,Midwood,9,165,9,4
+Staten Island,Oakwood,9,176,9,2
+Brooklyn,Homecrest,9,123,9,4
+Queens,Howard Beach,9,124,9,4
+Manhattan,Highbridge Park,9,120,9,4
+Bronx,Bedford Park,9,18,9,4

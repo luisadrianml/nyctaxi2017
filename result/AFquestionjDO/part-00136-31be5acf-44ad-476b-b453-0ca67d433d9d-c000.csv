@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Marine Park/Floyd Bennett Field,381,154,381,1
+Queens,Old Astoria,381,179,381,4
+Bronx,Pelham Bay Park,373,184,373,2
+Brooklyn,East Williamsburg,370,80,370,4
+Bronx,Highbridge,369,119,369,3

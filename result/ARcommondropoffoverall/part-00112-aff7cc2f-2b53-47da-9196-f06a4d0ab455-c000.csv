@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Dyker Heights,17354,67,17354
+Brooklyn,East Flatbush/Remsen Village,16897,72,16897

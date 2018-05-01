@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Pelham Parkway,393,185,393,2
+Bronx,Norwood,393,174,393,1
+Brooklyn,Brighton Beach,390,29,390,1
+Brooklyn,Ocean Parkway South,388,178,388,1
+Brooklyn,Bath Beach,385,11,385,2

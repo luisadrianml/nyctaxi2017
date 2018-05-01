@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Sheepshead Bay,2089,210,2089
+Queens,Jamaica Estates,2078,131,2078

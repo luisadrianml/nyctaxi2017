@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Hammels/Arverne,48,117,48
+Staten Island,Bloomfield/Emerson Hill,39,23,39

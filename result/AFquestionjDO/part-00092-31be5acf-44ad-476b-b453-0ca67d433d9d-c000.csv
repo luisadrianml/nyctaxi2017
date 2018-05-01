@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Rosedale,3396,203,3396,1
+Brooklyn,Ocean Parkway South,3385,178,3385,2
+Bronx,Bronxdale,3378,32,3378,1
+Bronx,Bronx Park,3370,31,3370,1
+Manhattan,Morningside Heights,3326,166,3326,3

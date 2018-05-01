@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Kew Gardens Hills,232,135,232,3
+Queens,Baisley Park,231,10,231,4
+Bronx,Riverdale/North Riverdale/Fieldston,230,200,230,3
+Queens,Whitestone,229,252,229,3
+Queens,South Ozone Park,224,216,224,4

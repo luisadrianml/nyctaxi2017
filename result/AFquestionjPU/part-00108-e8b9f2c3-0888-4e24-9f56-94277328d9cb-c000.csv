@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Stuyvesant Heights,324,225,324,3
+Brooklyn,Boerum Hill,324,25,324,4
+Manhattan,Hamilton Heights,318,116,318,4
+Brooklyn,Greenpoint,317,112,317,4
+Queens,Bayside,317,16,317,1

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East Williamsburg,15768,80,15768
+Brooklyn,Greenpoint,15503,112,15503

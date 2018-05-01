@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Elmhurst,9682,82,9682,1
+Manhattan,Flatiron,9508,90,9508,3
+Queens,JFK Airport,9492,132,9492,4
+Manhattan,Sutton Place/Turtle Bay North,9062,229,9062,3
+Bronx,West Concourse,9042,247,9042,1
+Queens,Forest Hills,8856,95,8856,2

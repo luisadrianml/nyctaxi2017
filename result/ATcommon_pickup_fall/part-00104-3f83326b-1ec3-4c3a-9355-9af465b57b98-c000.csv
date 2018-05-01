@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Erasmus,519,85,519
+Bronx,Spuyten Duyvil/Kingsbridge,502,220,502

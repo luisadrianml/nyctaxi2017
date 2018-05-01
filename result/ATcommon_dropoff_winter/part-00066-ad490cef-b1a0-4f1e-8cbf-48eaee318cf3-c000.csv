@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Forest Hills,32194,95,32194
+Brooklyn,Stuyvesant Heights,31759,225,31759

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Yorkville East,961724,262,961724,1
+Manhattan,Greenwich Village South,906100,114,906100,1
+Manhattan,Meatpacking/West Village West,896088,158,896088,1
+Manhattan,Lower East Side,877771,148,877771,1
+Manhattan,Clinton West,870207,50,870207,1
+Manhattan,Union Sq,839314,234,839314,2

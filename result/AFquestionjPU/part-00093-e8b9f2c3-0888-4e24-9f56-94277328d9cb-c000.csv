@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Glendale,506,102,506,2
+Bronx,Fordham South,504,94,504,2
+Queens,Bellerose,502,19,502,2
+Brooklyn,East Flatbush/Farragut,495,71,495,2
+Manhattan,Two Bridges/Seward Park,491,232,491,4

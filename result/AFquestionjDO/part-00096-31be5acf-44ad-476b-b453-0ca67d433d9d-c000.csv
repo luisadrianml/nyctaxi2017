@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Gravesend,2900,108,2900,2
+Queens,Bellerose,2895,19,2895,1
+Bronx,Pelham Bay,2866,183,2866,1
+Queens,Glen Oaks,2827,101,2827,2
+Manhattan,Marble Hill,2812,153,2812,1

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Williamsbridge/Olinville,426,254,426,2
+Manhattan,Marble Hill,426,153,426,1
+Brooklyn,Marine Park/Mill Basin,424,155,424,1
+Manhattan,Battery Park,422,12,422,3
+Queens,Hillcrest/Pomonok,422,121,422,2
+Brooklyn,Dyker Heights,422,67,422,2

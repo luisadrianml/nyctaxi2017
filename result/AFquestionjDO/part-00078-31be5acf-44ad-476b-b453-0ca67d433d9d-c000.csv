@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Madison,5233,149,5233,2
+Bronx,Kingsbridge Heights,5202,136,5202,1
+Bronx,Westchester Village/Unionport,5182,250,5182,2
+Bronx,Pelham Parkway,5180,185,5180,2
+Queens,College Point,5167,53,5167,1

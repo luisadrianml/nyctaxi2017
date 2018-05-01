@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Sheepshead Bay,154,210,154
+Staten Island,Arrochar/Fort Wadsworth,149,6,149

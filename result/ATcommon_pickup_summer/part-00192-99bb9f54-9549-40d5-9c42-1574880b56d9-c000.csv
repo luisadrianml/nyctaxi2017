@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Charleston/Tottenville,5,44,5
+Staten Island,Great Kills,5,109,5
+Staten Island,Arden Heights,5,5,5

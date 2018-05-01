@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,LaGuardia Airport,3034390,138,3034390
+Manhattan,Upper West Side South,2865232,239,2865232

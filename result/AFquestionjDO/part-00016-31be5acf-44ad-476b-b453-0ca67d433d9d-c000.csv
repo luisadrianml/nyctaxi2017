@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,World Trade Center,381987,261,381987,1
+Manhattan,East Harlem North,371972,74,371972,2
+Manhattan,Alphabet City,369470,4,369470,1
+Manhattan,Lower East Side,365598,148,365598,2
+Manhattan,Stuy Town/Peter Cooper Village,358431,224,358431,1
+Manhattan,Meatpacking/West Village West,353109,158,353109,2

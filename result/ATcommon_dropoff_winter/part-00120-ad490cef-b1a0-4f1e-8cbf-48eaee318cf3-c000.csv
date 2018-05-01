@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Murray Hill-Queens,3631,171,3631
+Queens,Whitestone,3498,252,3498

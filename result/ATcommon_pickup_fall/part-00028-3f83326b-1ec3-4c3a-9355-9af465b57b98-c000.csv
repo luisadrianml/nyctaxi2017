@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Little Italy/NoLiTa,310205,144,310205
+Manhattan,Lincoln Square West,306681,143,306681

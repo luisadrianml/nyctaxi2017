@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Eltingville/Annadale/Prince's Bay,776,84,776
+Staten Island,Rossville/Woodrow,652,204,652

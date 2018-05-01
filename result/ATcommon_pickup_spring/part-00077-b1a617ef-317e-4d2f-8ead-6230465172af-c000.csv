@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Sunset Park West,3712,228,3712
+Queens,Flushing Meadows-Corona Park,3597,93,3597

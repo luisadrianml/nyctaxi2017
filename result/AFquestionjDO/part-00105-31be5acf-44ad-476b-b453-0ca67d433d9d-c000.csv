@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Park Slope,2011,181,2011,3
+Queens,Woodside,1985,260,1985,3
+Bronx,Eastchester,1974,81,1974,1
+Queens,Hammels/Arverne,1933,117,1933,2
+Brooklyn,Williamsburg (South Side),1828,256,1828,3

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Rego Park,455,196,455,3
+Staten Island,Rossville/Woodrow,455,204,455,1
+Queens,Corona,450,56,450,3
+Brooklyn,Downtown Brooklyn/MetroTech,447,65,447,4
+Queens,Briarwood/Jamaica Hills,439,28,439,3

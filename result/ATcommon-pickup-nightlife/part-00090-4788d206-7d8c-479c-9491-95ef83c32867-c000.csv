@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Windsor Terrace,624,257,624
+Queens,Briarwood/Jamaica Hills,594,28,594

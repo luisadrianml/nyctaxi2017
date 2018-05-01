@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Forest Hills,947,95,947,3
+Staten Island,Arrochar/Fort Wadsworth,933,6,933,2
+Staten Island,New Dorp/Midland Beach,925,172,925,1
+Queens,Astoria Park,923,8,923,2
+Queens,Forest Park/Highland Park,917,96,917,1
+Staten Island,Grymes Hill/Clifton,917,115,917,1

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Spuyten Duyvil/Kingsbridge,7387,220,7387
+Brooklyn,Kensington,7376,133,7376

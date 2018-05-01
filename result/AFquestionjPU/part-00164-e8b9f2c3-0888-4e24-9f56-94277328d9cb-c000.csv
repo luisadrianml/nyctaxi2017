@@ -1,0 +1,2 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,University Heights/Morris Heights,19,235,19,4

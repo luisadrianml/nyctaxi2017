@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Alphabet City,131934,4,131934
+Manhattan,Two Bridges/Seward Park,125796,232,125796

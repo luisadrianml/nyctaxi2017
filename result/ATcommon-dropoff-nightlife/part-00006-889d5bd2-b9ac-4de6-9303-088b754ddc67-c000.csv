@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Lower East Side,274169,148,274169
+Manhattan,Union Sq,268769,234,268769

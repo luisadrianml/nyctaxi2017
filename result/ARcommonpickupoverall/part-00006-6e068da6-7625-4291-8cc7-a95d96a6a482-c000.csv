@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Clinton East,3566684,48,3566684
+Manhattan,East Village,3327259,79,3327259

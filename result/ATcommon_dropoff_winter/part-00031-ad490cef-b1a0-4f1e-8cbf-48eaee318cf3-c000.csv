@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,SoHo,244009,211,244009
+Manhattan,Manhattan Valley,231479,151,231479

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Midtown Center,4197830,161,4197830
+Manhattan,Upper East Side North,4150922,236,4150922

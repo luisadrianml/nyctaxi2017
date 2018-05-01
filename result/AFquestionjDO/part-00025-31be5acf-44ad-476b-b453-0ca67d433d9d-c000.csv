@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Sunnyside,141346,226,141346,2
+Brooklyn,Crown Heights North,139834,61,139834,1
+Manhattan,Chinatown,134557,45,134557,2
+Manhattan,Washington Heights South,132344,244,132344,2
+Brooklyn,DUMBO/Vinegar Hill,128629,66,128629,1

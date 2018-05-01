@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Crown Heights South,12872,62,12872
+Manhattan,Roosevelt Island,12576,202,12576

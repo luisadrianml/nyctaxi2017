@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Union Sq,11887,234,11887,3
+Brooklyn,Canarsie,11865,39,11865,2
+Queens,Jamaica,11835,130,11835,1
+Bronx,Mount Hope,11745,169,11745,2
+Brooklyn,Borough Park,11722,26,11722,2

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Van Nest/Morris Park,151,242,151,3
+Queens,Auburndale,151,9,151,3
+Queens,College Point,150,53,150,3
+Bronx,Fordham South,149,94,149,3
+Brooklyn,Brighton Beach,148,29,148,3

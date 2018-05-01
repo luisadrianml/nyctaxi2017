@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,East Village,658485,79,658485
+Manhattan,Lenox Hill West,646278,141,646278

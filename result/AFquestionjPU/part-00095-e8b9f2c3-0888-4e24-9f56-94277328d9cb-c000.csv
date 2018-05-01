@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Ozone Park,451,180,451,1
+Queens,Astoria Park,449,8,449,2
+Bronx,Belmont,448,20,448,2
+Brooklyn,Carroll Gardens,441,40,441,3
+Queens,Queens Village,441,191,441,2

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Sunset Park East,6534,227,6534
+Queens,Briarwood/Jamaica Hills,6291,28,6291

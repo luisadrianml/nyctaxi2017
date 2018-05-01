@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Eastchester,2784,81,2784,2
+Manhattan,Alphabet City,2717,4,2717,3
+Manhattan,Upper West Side North,2717,238,2717,4
+Manhattan,Financial District South,2712,88,2712,3
+Brooklyn,Boerum Hill,2712,25,2712,3
+Manhattan,Gramercy,2670,107,2670,4

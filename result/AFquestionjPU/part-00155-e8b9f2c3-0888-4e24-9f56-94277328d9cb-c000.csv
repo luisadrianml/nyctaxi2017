@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Brooklyn Navy Yard,32,34,32,3
+Bronx,Crotona Park East,32,60,32,3
+Brooklyn,Coney Island,32,55,32,3
+Bronx,Longwood,32,147,32,3
+Bronx,Bedford Park,32,18,32,3
+Bronx,Mount Hope,32,169,32,4

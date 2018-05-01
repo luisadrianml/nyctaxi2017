@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Hudson Sq,167824,125,167824
+Manhattan,World Trade Center,163856,261,163856

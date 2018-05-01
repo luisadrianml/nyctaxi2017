@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Flatbush/Ditmas Park,4543,89,4543,1
+Manhattan,Garment District,4538,100,4538,4
+Manhattan,Financial District North,4518,87,4518,3
+Manhattan,East Village,4517,79,4517,4
+Manhattan,SoHo,4509,211,4509,3
+Queens,LaGuardia Airport,4433,138,4433,4

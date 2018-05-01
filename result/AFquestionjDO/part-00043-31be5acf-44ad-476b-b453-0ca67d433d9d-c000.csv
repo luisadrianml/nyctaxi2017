@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Melrose South,20924,159,20924,2
+Bronx,East Concourse/Concourse Village,20377,69,20377,1
+Manhattan,Times Sq/Theatre District,20370,230,20370,3
+Queens,Elmhurst/Maspeth,19613,83,19613,1
+Queens,Corona,19422,56,19422,2

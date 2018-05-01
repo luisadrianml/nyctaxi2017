@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,University Heights/Morris Heights,6002,235,6002
+Queens,Springfield Gardens South,5900,219,5900

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Rego Park,10413,196,10413
+Brooklyn,Red Hook,10206,195,10206

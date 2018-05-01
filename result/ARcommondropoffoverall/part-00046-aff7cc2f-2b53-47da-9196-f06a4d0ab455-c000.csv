@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Brooklyn Heights,334561,33,334561
+Manhattan,Hamilton Heights,319299,116,319299

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Howard Beach,1575,124,1575
+Queens,Fresh Meadows,1571,98,1571

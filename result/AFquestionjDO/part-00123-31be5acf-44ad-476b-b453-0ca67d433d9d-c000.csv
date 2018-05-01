@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Gowanus,668,106,668,3
+Manhattan,Chinatown,624,45,624,4
+Staten Island,Grymes Hill/Clifton,620,115,620,2
+Bronx,West Concourse,605,247,605,3
+Brooklyn,Prospect Heights,603,189,603,3

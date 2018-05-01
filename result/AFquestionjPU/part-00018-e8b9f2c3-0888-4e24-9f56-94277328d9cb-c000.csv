@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,East Harlem North,225683,74,225683,2
+Manhattan,Central Harlem,221170,41,221170,1
+Manhattan,Stuy Town/Peter Cooper Village,220207,224,220207,1
+Manhattan,Financial District North,211665,87,211665,2
+Manhattan,Bloomingdale,208252,24,208252,1

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,JFK Airport,4947,132,4947,4
+Queens,Douglaston,4946,64,4946,1
+Queens,Bay Terrace/Fort Totten,4922,15,4922,1
+Manhattan,Yorkville East,4921,262,4921,3
+Queens,Howard Beach,4918,124,4918,1
+Queens,Springfield Gardens North,4859,218,4859,1

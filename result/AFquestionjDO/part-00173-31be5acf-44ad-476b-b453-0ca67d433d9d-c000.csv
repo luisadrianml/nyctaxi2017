@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Parkchester,65,182,65,4
+Queens,Saint Albans,64,205,64,4
+Queens,Saint Michaels Cemetery/Woodside,64,207,64,4
+Bronx,Longwood,62,147,62,4
+Bronx,Bronx Park,62,31,62,3
+Brooklyn,Cypress Hills,62,63,62,4

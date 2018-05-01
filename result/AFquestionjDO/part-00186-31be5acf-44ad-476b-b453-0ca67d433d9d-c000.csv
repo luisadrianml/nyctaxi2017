@@ -1,0 +1,10 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Forest Park/Highland Park,26,96,26,3
+Queens,Hollis,25,122,25,4
+Queens,Oakland Gardens,25,175,25,4
+Brooklyn,Manhattan Beach,23,150,23,4
+Queens,Willets Point,23,253,23,3
+Queens,Rockaway Park,23,201,23,4
+Brooklyn,Marine Park/Floyd Bennett Field,23,154,23,3
+Queens,Bellerose,23,19,23,4
+Manhattan,Marble Hill,23,153,23,4

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Hamilton Heights,72029,116,72029,1
+Queens,Long Island City/Hunters Point,70244,145,70244,2
+Manhattan,Seaport,70094,209,70094,2
+Brooklyn,Fort Greene,65440,97,65440,1
+Manhattan,Washington Heights South,61685,244,61685,1

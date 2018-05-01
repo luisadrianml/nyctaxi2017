@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Yorkville East,890897,262,890897,1
+Manhattan,Little Italy/NoLiTa,885595,144,885595,1
+Manhattan,Lincoln Square West,834430,143,834430,1
+Manhattan,Lenox Hill West,833535,141,833535,2
+Manhattan,East Chelsea,823034,68,823034,2

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Crotona Park East,261,60,261,1
+Queens,Corona,259,57,259,2
+Bronx,West Concourse,256,247,256,3
+Queens,Rosedale,254,203,254,2
+Queens,Bayside,253,16,253,2

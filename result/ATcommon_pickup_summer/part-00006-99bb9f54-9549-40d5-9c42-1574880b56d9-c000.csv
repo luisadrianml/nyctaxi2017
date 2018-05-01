@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Upper East Side North,845743,236,845743
+Queens,LaGuardia Airport,770033,138,770033

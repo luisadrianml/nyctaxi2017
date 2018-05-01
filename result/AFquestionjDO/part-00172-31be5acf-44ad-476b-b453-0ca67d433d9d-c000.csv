@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Marble Hill,67,153,67,3
+Bronx,Westchester Village/Unionport,67,250,67,4
+Brooklyn,Bensonhurst West,67,22,67,4
+Brooklyn,Midwood,66,165,66,4
+Queens,Hillcrest/Pomonok,66,121,66,4

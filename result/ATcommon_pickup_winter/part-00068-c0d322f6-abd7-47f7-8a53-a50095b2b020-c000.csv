@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Washington Heights North,5928,243,5928
+Bronx,Mott Haven/Port Morris,5414,168,5414

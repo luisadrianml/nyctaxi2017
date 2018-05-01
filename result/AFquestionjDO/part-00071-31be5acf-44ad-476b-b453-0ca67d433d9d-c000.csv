@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,East Harlem South,6582,75,6582,3
+Bronx,Morrisania/Melrose,6523,167,6523,1
+Manhattan,Times Sq/Theatre District,6496,230,6496,4
+Queens,Rosedale,6495,203,6495,2
+Manhattan,Greenwich Village North,6474,113,6474,3

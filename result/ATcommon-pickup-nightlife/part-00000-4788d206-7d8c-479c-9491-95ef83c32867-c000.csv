@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,East Village,742799,79,742799
+Manhattan,Lower East Side,477806,148,477806

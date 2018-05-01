@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Yorkville West,460182,263,460182
+Manhattan,TriBeCa/Civic Center,457332,231,457332

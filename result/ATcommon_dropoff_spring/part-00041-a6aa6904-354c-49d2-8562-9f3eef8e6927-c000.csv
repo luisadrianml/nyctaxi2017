@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Stuy Town/Peter Cooper Village,133190,224,133190
+Manhattan,Financial District South,127780,88,127780

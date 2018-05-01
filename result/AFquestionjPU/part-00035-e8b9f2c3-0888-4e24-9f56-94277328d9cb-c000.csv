@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bedford,15347,17,15347,2
+Brooklyn,DUMBO/Vinegar Hill,15267,66,15267,2
+Queens,LaGuardia Airport,15096,138,15096,3
+Manhattan,Midtown East,15096,162,15096,3
+Brooklyn,Bedford,14967,17,14967,1
+Manhattan,Upper East Side North,14698,236,14698,3

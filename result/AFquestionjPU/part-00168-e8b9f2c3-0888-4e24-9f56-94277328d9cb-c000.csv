@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Staten Island,Grymes Hill/Clifton,15,115,15,3
+Queens,Queens Village,15,191,15,4
+Bronx,Soundview/Castle Hill,15,213,15,4
+Staten Island,Eltingville/Annadale/Prince's Bay,15,84,15,2

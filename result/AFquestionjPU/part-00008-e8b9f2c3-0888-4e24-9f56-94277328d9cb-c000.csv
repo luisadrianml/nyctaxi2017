@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,UN/Turtle Bay South,1029769,233,1029769,1
+Manhattan,Kips Bay,1002261,137,1002261,1
+Queens,JFK Airport,999157,132,999157,2
+Manhattan,Union Sq,968210,234,968210,2
+Manhattan,Meatpacking/West Village West,961108,158,961108,1

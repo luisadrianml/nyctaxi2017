@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Ocean Hill,107,177,107,4
+Queens,Oakland Gardens,107,175,107,3
+Queens,Woodhaven,106,258,106,4
+Brooklyn,Borough Park,105,26,105,4
+Brooklyn,East Flatbush/Remsen Village,104,72,104,4
+Brooklyn,Red Hook,103,195,103,4

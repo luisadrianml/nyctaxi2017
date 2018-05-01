@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,JFK Airport,998009,132,998009
+Manhattan,SoHo,977347,211,977347

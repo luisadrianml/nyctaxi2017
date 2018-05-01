@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Grymes Hill/Clifton,391,115,391
+Staten Island,New Dorp/Midland Beach,391,172,391

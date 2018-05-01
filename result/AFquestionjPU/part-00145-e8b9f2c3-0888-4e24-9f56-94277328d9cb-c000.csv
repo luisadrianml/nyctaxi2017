@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Saint Michaels Cemetery/Woodside,52,207,52,4
+Bronx,West Farms/Bronx River,52,248,52,3
+Bronx,Kingsbridge Heights,51,136,51,3
+Queens,Richmond Hill,51,197,51,4
+Bronx,Norwood,50,174,50,3
+Brooklyn,Cypress Hills,50,63,50,3
+Queens,Forest Hills,50,95,50,4

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Kensington,2366,133,2366,2
+Bronx,Highbridge,2313,119,2313,2
+Brooklyn,Crown Heights South,2307,62,2307,1
+Manhattan,Yorkville West,2282,263,2282,4
+Brooklyn,Brooklyn Navy Yard,2279,34,2279,1
+Manhattan,Greenwich Village South,2191,114,2191,4

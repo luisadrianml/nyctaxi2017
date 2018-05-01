@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Morrisania/Melrose,4349,167,4349
+Queens,Springfield Gardens North,4314,218,4314

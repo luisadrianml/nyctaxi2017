@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Sunnyside,3914,226,3914,3
+Unknown,NA,3904,265,3904,3
+Manhattan,Manhattan Valley,3891,151,3891,3
+Manhattan,East Chelsea,3870,68,3870,4
+Queens,Springfield Gardens South,3862,219,3862,1

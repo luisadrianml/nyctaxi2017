@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Cobble Hill,14889,52,14889
+Brooklyn,East Williamsburg,14787,80,14787

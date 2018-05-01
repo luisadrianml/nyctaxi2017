@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Unknown,NV,360648,264,360648
+Manhattan,Lincoln Square West,347501,143,347501

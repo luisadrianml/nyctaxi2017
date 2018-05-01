@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Rosedale,161,203,161,3
+Bronx,Pelham Parkway,160,185,160,3
+Bronx,Melrose South,157,159,157,4
+Brooklyn,Carroll Gardens,157,40,157,4

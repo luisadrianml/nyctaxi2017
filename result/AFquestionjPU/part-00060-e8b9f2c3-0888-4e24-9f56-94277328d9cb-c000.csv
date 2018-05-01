@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Kew Gardens,2774,134,2774,2
+Manhattan,Roosevelt Island,2756,202,2756,1
+Manhattan,Central Harlem,2681,41,2681,3
+Brooklyn,Boerum Hill,2637,25,2637,3
+Manhattan,Flatiron,2624,90,2624,4

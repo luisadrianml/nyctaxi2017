@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Upper West Side South,740868,239,740868
+Manhattan,Gramercy,688951,107,688951

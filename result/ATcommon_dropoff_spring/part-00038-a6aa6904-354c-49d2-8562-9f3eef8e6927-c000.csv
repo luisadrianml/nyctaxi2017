@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,World Trade Center,152316,261,152316
+Manhattan,Two Bridges/Seward Park,145817,232,145817

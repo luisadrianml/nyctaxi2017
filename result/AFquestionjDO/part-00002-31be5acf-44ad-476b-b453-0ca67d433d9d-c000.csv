@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Clinton East,1877012,48,1877012,1
+Manhattan,Lenox Hill West,1799385,141,1799385,1
+Manhattan,Gramercy,1761743,107,1761743,1
+Manhattan,East Chelsea,1723897,68,1723897,1
+Manhattan,Midtown North,1715834,163,1715834,1

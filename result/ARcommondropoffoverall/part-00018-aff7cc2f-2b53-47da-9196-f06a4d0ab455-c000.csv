@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Garment District,1753836,100,1753836
+Manhattan,Flatiron,1721951,90,1721951

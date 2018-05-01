@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Kew Gardens,10930,134,10930,2
+Brooklyn,Brooklyn Navy Yard,10906,34,10906,1
+Queens,Kew Gardens Hills,10794,135,10794,2
+Manhattan,Randalls Island,10713,194,10713,1
+Manhattan,Garment District,10697,100,10697,3

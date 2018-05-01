@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Crotona Park,366,59,366,2
+Brooklyn,Boerum Hill,354,25,354,4
+Brooklyn,Clinton Hill,352,49,352,4
+Queens,South Jamaica,350,215,350,3
+Bronx,Mount Hope,349,169,349,3
+Queens,Middle Village,349,160,349,3

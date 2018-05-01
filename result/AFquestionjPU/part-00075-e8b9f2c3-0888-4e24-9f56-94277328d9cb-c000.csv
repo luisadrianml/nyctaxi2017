@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Ocean Hill,1221,177,1221,1
+Brooklyn,Brooklyn Navy Yard,1212,34,1212,2
+EWR,Newark Airport,1209,1,1209,2
+Brooklyn,Cypress Hills,1203,63,1203,1
+Brooklyn,Fort Greene,1181,97,1181,3

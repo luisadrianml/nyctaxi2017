@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Jackson Heights,771,129,771,4
+Manhattan,Financial District South,766,88,766,4
+Staten Island,West Brighton,758,245,758,1
+Brooklyn,DUMBO/Vinegar Hill,757,66,757,3
+Brooklyn,Bay Ridge,756,14,756,3

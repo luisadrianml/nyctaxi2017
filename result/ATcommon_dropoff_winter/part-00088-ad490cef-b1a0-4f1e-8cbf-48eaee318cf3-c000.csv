@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,South Williamsburg,9740,217,9740
+Queens,Baisley Park,9331,10,9331

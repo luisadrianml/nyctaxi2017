@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Long Island City/Queens Plaza,15354,146,15354
+Manhattan,Manhattanville,11926,152,11926

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Kips Bay,1610198,137,1610198
+Unknown,NV,1543847,264,1543847

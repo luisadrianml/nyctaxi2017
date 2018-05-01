@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Red Hook,1844,195,1844
+Queens,Springfield Gardens South,1798,219,1798

@@ -1,0 +1,7 @@
+PU_Borough,PUWeekday,PUHour,avg(passenger_count)
+Staten Island,Wednesday,14,1.7
+Queens,Saturday,21,1.6986401624250436
+EWR,Sunday,14,1.697674418604651
+Queens,Saturday,16,1.6971796140524493
+Manhattan,Saturday,18,1.6966389752734707
+Queens,Thursday,14,1.6957503906515388

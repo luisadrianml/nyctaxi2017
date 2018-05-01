@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bedford,150,17,150,4
+Queens,Forest Park/Highland Park,149,96,149,1
+Queens,Hammels/Arverne,148,117,148,1
+Queens,Oakland Gardens,148,175,148,2

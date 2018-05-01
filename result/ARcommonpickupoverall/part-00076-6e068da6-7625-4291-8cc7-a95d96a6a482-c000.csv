@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Sunset Park West,12483,228,12483
+Brooklyn,Stuyvesant Heights,12274,225,12274

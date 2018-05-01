@@ -1,0 +1,10 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Bloomfield/Emerson Hill,44,23,44,3
+Staten Island,Arrochar/Fort Wadsworth,44,6,44,3
+Brooklyn,Dyker Heights,44,67,44,4
+Queens,College Point,43,53,43,4
+Brooklyn,Madison,43,149,43,4
+Queens,Queensboro Hill,43,192,43,4
+Queens,Cambria Heights,43,38,43,4
+Bronx,Pelham Parkway,43,185,43,4
+Staten Island,Stapleton,43,221,43,3

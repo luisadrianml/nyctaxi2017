@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Greenwich Village North,209636,113,209636
+Manhattan,Garment District,209492,100,209492

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Downtown Brooklyn/MetroTech,56627,65,56627,2
+Manhattan,Manhattanville,51135,152,51135,2
+Manhattan,Washington Heights South,49720,244,49720,2
+Brooklyn,Park Slope,47317,181,47317,2
+Brooklyn,Cobble Hill,47312,52,47312,1

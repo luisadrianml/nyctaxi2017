@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Crown Heights North,4763,61,4763
+Manhattan,Washington Heights North,4762,243,4762

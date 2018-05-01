@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Bay Ridge,1645,14,1645
+Queens,Kew Gardens,1580,134,1580

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Jamaica,2047,130,2047
+EWR,Newark Airport,1989,1,1989

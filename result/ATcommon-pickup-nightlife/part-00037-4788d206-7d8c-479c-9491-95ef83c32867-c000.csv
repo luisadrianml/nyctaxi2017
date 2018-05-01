@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Morningside Heights,43698,166,43698
+Manhattan,Two Bridges/Seward Park,43274,232,43274

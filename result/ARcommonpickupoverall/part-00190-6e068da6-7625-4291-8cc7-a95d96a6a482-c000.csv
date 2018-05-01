@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Port Richmond,39,187,39
+Staten Island,Eltingville/Annadale/Prince's Bay,39,84,39

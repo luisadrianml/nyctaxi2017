@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,East Flushing,2990,73,2990,1
+Brooklyn,Manhattan Beach,2975,150,2975,1
+Bronx,Fordham South,2964,94,2964,1
+Brooklyn,East New York/Pennsylvania Avenue,2950,77,2950,1
+Queens,Cambria Heights,2936,38,2936,1

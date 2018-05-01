@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Windsor Terrace,11982,257,11982
+Brooklyn,Crown Heights South,10522,62,10522

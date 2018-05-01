@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Saint Michaels Cemetery/Woodside,391,207,391,3
+Brooklyn,Ocean Hill,385,177,385,3
+Brooklyn,Cobble Hill,385,52,385,3
+Brooklyn,Red Hook,383,195,383,3

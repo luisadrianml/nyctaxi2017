@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Unknown,NV,422944,264,422944
+Manhattan,Yorkville East,376192,262,376192

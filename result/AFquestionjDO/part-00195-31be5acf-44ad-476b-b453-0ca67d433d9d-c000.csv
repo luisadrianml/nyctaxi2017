@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Willets Point,4,253,4,4
+Staten Island,Charleston/Tottenville,4,44,4,3
+Bronx,City Island,4,46,4,4
+Staten Island,Great Kills,4,109,4,4
+Brooklyn,Marine Park/Floyd Bennett Field,4,154,4,4

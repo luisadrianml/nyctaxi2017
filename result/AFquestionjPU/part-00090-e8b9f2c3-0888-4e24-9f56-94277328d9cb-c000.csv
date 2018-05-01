@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Bedford,565,17,565,3
+Bronx,Van Nest/Morris Park,563,242,563,1
+Queens,Springfield Gardens North,563,218,563,1
+Brooklyn,Brownsville,561,35,561,2
+Brooklyn,Clinton Hill,553,49,553,3

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Hamilton Heights,1178,116,1178,3
+Manhattan,East Harlem North,1176,74,1176,4
+Brooklyn,Williamsburg (South Side),1175,256,1175,3
+Manhattan,Washington Heights South,1106,244,1106,3
+Queens,Jackson Heights,1102,129,1102,3
+Queens,Kew Gardens Hills,1098,135,1098,2

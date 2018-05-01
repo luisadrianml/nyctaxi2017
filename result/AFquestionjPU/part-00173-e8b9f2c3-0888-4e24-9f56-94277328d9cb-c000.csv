@@ -1,0 +1,9 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Hammels/Arverne,10,117,10,3
+Bronx,Allerton/Pelham Gardens,10,3,10,3
+Staten Island,Arden Heights,10,5,10,2
+Queens,Bay Terrace/Fort Totten,10,15,10,3
+Queens,Whitestone,10,252,10,4
+Bronx,Pelham Bay Park,10,184,10,3
+Bronx,Williamsbridge/Olinville,10,254,10,4
+Brooklyn,Brooklyn Navy Yard,10,34,10,4

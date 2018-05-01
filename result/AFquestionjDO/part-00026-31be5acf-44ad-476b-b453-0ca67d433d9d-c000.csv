@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Stuy Town/Peter Cooper Village,124369,224,124369,2
+Manhattan,Bloomingdale,121135,24,121135,2
+Brooklyn,Bedford,120906,17,120906,1
+Manhattan,Hamilton Heights,120462,116,120462,2
+Manhattan,Manhattanville,114488,152,114488,1

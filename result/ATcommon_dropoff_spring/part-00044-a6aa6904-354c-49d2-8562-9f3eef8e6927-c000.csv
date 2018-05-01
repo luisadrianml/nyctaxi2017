@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Long Island City/Hunters Point,101155,145,101155
+Manhattan,Bloomingdale,99773,24,99773

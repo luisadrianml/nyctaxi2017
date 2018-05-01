@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Battery Park,3669,12,3669
+Bronx,Morrisania/Melrose,3592,167,3592

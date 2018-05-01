@@ -1,0 +1,30 @@
+PU_Borough,payment_type,c_payment
+Manhattan,1,69465464
+Manhattan,2,32995696
+Staten Island,1,1205
+Staten Island,2,1103
+Staten Island,3,101
+Manhattan,3,471399
+Manhattan,4,143146
+Staten Island,4,24
+Unknown,1,1182109
+Brooklyn,1,970225
+Brooklyn,2,567333
+Queens,1,4584987
+Queens,2,2296063
+Unknown,2,561591
+Brooklyn,3,21390
+Unknown,3,21144
+Brooklyn,4,4849
+Queens,3,81082
+Queens,4,19486
+Unknown,4,5700
+Bronx,2,55563
+Bronx,1,32850
+Manhattan,5,3
+Bronx,3,3341
+Bronx,4,771
+EWR,1,6513
+EWR,2,1209
+EWR,3,526
+EWR,4,105

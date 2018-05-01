@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Flatlands,18487,91,18487
+Bronx,Van Cortlandt Village,18314,241,18314

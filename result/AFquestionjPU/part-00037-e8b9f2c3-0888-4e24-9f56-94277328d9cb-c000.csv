@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,East Chelsea,14026,68,14026,3
+Manhattan,Midtown South,12842,164,12842,3
+Brooklyn,Gowanus,12309,106,12309,1
+Brooklyn,Crown Heights North,12225,61,12225,1
+Manhattan,Lincoln Square East,12180,142,12180,3

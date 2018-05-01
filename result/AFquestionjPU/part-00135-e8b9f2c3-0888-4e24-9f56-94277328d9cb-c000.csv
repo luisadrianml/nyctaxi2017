@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Far Rockaway,90,86,90,1
+Brooklyn,Prospect Heights,89,189,89,4
+Brooklyn,Midwood,89,165,89,3
+Brooklyn,DUMBO/Vinegar Hill,89,66,89,4

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Bensonhurst East,698,21,698
+Brooklyn,Madison,677,149,677

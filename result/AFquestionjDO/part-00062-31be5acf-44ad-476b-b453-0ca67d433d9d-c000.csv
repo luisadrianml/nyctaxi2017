@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Woodhaven,8268,258,8268,1
+Bronx,Hunts Point,8148,126,8148,2
+Queens,Glendale,8146,102,8146,2
+Manhattan,Upper West Side North,8143,238,8143,3
+Brooklyn,Columbia Street,8131,54,8131,2

@@ -1,0 +1,9 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Oakwood,10,176,10,3
+Staten Island,Rossville/Woodrow,10,204,10,3
+Bronx,Country Club,10,58,10,4
+Staten Island,West Brighton,10,245,10,3
+Bronx,City Island,9,46,9,3
+Bronx,Pelham Bay Park,9,184,9,4
+Bronx,Rikers Island,9,199,9,2
+Staten Island,Westerleigh,9,251,9,4

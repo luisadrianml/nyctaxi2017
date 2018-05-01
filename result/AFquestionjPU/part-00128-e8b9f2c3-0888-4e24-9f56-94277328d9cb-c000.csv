@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Bay Terrace/Fort Totten,138,15,138,1
+Staten Island,Mariners Harbor,133,156,133,2
+Bronx,Melrose South,131,159,131,3
+Queens,Auburndale,130,9,130,2

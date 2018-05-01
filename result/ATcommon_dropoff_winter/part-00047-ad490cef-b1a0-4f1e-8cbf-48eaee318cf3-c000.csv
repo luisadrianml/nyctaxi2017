@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Brooklyn Heights,81712,33,81712
+Brooklyn,Williamsburg (South Side),79517,256,79517

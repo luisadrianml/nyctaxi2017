@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Flatbush/Ditmas Park,2891,89,2891
+Manhattan,Randalls Island,2553,194,2553

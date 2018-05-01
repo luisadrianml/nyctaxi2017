@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Staten Island,Saint George/New Brighton,755,206,755,2
+Queens,South Ozone Park,744,216,744,3
+Staten Island,South Beach/Dongan Hills,740,214,740,2
+Queens,Ridgewood,732,198,732,3
+Staten Island,Heartland Village/Todt Hill,725,118,725,2

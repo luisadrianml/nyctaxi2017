@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Canarsie,18,39,18,4
+Queens,Broad Channel,18,30,18,2
+Bronx,Soundview/Bruckner,18,212,18,4
+Staten Island,Arden Heights,18,5,18,1

@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Prospect-Lefferts Gardens,5826,188,5826,1
+Brooklyn,Sunset Park West,5745,228,5745,2
+Manhattan,Upper East Side South,5738,237,5738,4
+Manhattan,Central Park,5723,43,5723,3
+Brooklyn,Stuyvesant Heights,5721,225,5721,1
+Manhattan,Inwood,5594,127,5594,2

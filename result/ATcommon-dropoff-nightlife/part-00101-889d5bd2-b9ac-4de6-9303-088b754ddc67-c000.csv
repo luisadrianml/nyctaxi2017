@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Van Cortlandt Village,3919,241,3919
+Queens,Richmond Hill,3882,197,3882

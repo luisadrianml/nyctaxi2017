@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Battery Park City,88153,13,88153
+Manhattan,Two Bridges/Seward Park,84008,232,84008

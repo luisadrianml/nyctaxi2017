@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Prospect Heights,25502,189,25502,2
+Brooklyn,Columbia Street,25270,54,25270,1
+Queens,North Corona,25144,173,25144,2
+Brooklyn,Sunset Park West,25134,228,25134,2
+Queens,South Ozone Park,25128,216,25128,2
+Bronx,East Concourse/Concourse Village,25061,69,25061,2

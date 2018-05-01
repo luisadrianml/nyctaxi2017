@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Fort Greene,48310,97,48310
+Queens,Jackson Heights,47852,129,47852

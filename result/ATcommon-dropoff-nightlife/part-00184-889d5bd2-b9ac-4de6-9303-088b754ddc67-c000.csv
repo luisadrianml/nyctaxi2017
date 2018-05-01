@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Staten Island,Grymes Hill/Clifton,238,115,238
+Staten Island,Great Kills,232,109,232

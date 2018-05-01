@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Staten Island,Arrochar/Fort Wadsworth,124,6,124
+Manhattan,Highbridge Park,124,120,124
+Brooklyn,Coney Island,124,55,124

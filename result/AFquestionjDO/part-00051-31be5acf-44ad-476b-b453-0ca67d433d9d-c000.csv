@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,University Heights/Morris Heights,12505,235,12505,2
+Brooklyn,Midwood,12416,165,12416,1
+Manhattan,East Village,12369,79,12369,3
+Brooklyn,Ocean Hill,12073,177,12073,1
+Manhattan,Midtown South,11972,164,11972,3

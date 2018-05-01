@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Brighton Beach,2694,29,2694
+Queens,Bay Terrace/Fort Totten,2648,15,2648

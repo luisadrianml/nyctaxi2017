@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Steinway,55997,223,55997
+Brooklyn,Boerum Hill,53001,25,53001

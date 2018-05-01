@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Brooklyn Heights,48845,33,48845
+Queens,Steinway,47946,223,47946

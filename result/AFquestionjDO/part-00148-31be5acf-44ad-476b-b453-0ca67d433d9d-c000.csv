@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Kingsbridge Heights,205,136,205,3
+Queens,East Elmhurst,203,70,203,4
+Queens,Springfield Gardens North,202,218,202,3
+Bronx,Woodlawn/Wakefield,200,259,200,3
+Queens,Saint Albans,197,205,197,3

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Douglaston,3618,64,3618,2
+Queens,South Jamaica,3614,215,3614,1
+Unknown,NV,3603,264,3603,4
+Manhattan,Lincoln Square East,3599,142,3599,4
+Manhattan,Midtown South,3596,164,3596,4
+Manhattan,East Chelsea,3574,68,3574,4

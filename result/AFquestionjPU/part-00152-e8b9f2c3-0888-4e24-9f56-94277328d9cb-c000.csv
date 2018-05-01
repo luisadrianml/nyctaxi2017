@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Pelham Bay Park,36,184,36,1
+Bronx,Pelham Parkway,36,185,36,3
+Queens,Maspeth,36,157,36,4
+Bronx,Van Cortlandt Village,35,241,35,3
+Queens,Jamaica Bay,35,2,35,2
+Queens,Jamaica Estates,35,131,35,3
+Bronx,Williamsbridge/Olinville,35,254,35,3

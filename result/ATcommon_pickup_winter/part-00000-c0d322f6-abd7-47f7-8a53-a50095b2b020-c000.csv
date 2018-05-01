@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Upper East Side South,1124677,237,1124677
+Manhattan,Midtown Center,1061144,161,1061144

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Flatlands,448,91,448
+Queens,Middle Village,448,160,448

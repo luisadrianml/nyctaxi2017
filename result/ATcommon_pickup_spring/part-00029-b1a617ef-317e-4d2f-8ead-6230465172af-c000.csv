@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Lincoln Square West,325835,143,325835
+Manhattan,Clinton West,306697,50,306697

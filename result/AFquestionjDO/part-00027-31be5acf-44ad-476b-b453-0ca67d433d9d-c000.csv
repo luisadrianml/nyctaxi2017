@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Jackson Heights,111040,129,111040,2
+Brooklyn,Bushwick South,109656,37,109656,1
+Queens,Long Island City/Hunters Point,109546,145,109546,2
+Brooklyn,Carroll Gardens,108309,40,108309,1
+Queens,Old Astoria,102724,179,102724,1

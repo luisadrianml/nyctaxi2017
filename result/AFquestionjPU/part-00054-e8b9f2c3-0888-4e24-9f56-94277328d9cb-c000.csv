@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Lincoln Square East,4170,142,4170,4
+Brooklyn,Columbia Street,4072,54,4072,1
+Queens,Elmhurst/Maspeth,4008,83,4008,1
+Bronx,Melrose South,3959,159,3959,2
+Manhattan,Union Sq,3918,234,3918,4

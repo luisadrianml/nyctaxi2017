@@ -1,0 +1,8 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,East Concourse/Concourse Village,128,69,128,3
+Staten Island,Westerleigh,121,251,121,1
+Brooklyn,Marine Park/Floyd Bennett Field,119,154,119,2
+Brooklyn,Bushwick South,118,37,118,4
+Queens,Baisley Park,118,10,118,4
+Brooklyn,Bay Ridge,117,14,117,3
+Bronx,University Heights/Morris Heights,117,235,117,3

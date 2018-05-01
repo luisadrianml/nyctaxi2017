@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Canarsie,437,39,437,3
+Brooklyn,Bedford,437,17,437,4
+Manhattan,Washington Heights North,431,243,431,4
+Bronx,Melrose South,431,159,431,3
+Manhattan,Manhattanville,430,152,430,4

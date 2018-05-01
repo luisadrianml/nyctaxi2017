@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Cobble Hill,77075,52,77075,1
+Brooklyn,Brooklyn Heights,75253,33,75253,2
+Brooklyn,Greenpoint,73899,112,73899,2
+Brooklyn,Williamsburg (North Side),72887,255,72887,2
+Unknown,NA,72828,265,72828,2

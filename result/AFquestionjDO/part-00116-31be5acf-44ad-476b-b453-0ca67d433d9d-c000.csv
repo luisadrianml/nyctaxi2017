@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Morningside Heights,1063,166,1063,4
+Queens,Sunnyside,1028,226,1028,4
+Manhattan,World Trade Center,1007,261,1007,4
+Staten Island,Bloomfield/Emerson Hill,999,23,999,2
+Queens,Long Island City/Hunters Point,997,145,997,4

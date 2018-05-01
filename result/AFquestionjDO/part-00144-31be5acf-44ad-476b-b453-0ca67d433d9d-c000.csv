@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Bay Ridge,248,14,248,4
+Queens,Willets Point,244,253,244,1
+Brooklyn,Sunset Park West,239,228,239,4
+Bronx,Van Cortlandt Village,238,241,238,3
+Staten Island,Oakwood,234,176,234,2

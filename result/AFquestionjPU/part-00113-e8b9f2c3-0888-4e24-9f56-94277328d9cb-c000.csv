@@ -1,0 +1,5 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Rosedale,282,203,282,1
+Brooklyn,Borough Park,277,26,277,3
+Bronx,Bronxdale,274,32,274,2
+Bronx,Bronx Park,273,31,273,1

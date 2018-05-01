@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,East Flatbush/Remsen Village,10132,72,10132,2
+Brooklyn,Sunset Park East,10034,227,10034,2
+Manhattan,Lenox Hill West,9860,141,9860,3
+Brooklyn,Flatlands,9613,91,9613,2
+Bronx,Riverdale/North Riverdale/Fieldston,9431,200,9431,2

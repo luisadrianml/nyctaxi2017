@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,College Point,61,53,61
+Queens,Rosedale,61,203,61
+Bronx,Bronxdale,61,32,61

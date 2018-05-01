@@ -1,0 +1,2 @@
+avg((Trip_distance / CAST(trip_duration AS DOUBLE)))
+0.0036657537687224233

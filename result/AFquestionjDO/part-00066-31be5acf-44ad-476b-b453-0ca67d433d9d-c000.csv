@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Erasmus,7382,85,7382,2
+Bronx,Longwood,7371,147,7371,2
+Brooklyn,Bensonhurst East,7346,21,7346,1
+Bronx,Pelham Parkway,7339,185,7339,1

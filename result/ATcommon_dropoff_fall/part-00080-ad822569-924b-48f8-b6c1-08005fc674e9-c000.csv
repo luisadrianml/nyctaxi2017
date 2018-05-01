@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Roosevelt Island,12767,202,12767
+Queens,Flushing,12136,92,12136

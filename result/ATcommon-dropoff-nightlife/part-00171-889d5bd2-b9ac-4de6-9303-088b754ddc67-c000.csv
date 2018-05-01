@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Randalls Island,536,194,536
+Brooklyn,Starrett City,498,222,498

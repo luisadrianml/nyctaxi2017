@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Park Slope,397845,181,397845
+Manhattan,Bloomingdale,362256,24,362256

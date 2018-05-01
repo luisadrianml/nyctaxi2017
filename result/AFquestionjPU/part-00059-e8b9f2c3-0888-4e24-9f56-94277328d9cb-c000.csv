@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,North Corona,2897,173,2897,2
+Brooklyn,Kensington,2879,133,2879,1
+Manhattan,West Village,2868,249,2868,4
+Manhattan,Gramercy,2786,107,2786,4
+Manhattan,Upper West Side North,2778,238,2778,4

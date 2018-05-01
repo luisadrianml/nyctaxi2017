@@ -1,0 +1,2 @@
+DO_Borough,count(DO_Borough),(CAST((count(DO_Borough) * CAST(100 AS BIGINT)) AS DOUBLE) / CAST(scalarsubquery() AS DOUBLE))
+Staten Island,25740,0.022679417586212492

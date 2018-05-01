@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Mount Hope,335,169,335
+Queens,Middle Village,325,160,325

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Lenox Hill East,100303,140,100303
+Manhattan,Hudson Sq,92475,125,92475

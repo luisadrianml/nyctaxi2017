@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Red Hook,29751,195,29751,1
+Queens,Elmhurst/Maspeth,29185,83,29185,2
+Queens,Ridgewood,29092,198,29092,2
+Manhattan,Inwood,28210,127,28210,2
+Brooklyn,Prospect-Lefferts Gardens,27952,188,27952,2

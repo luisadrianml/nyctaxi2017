@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Queensboro Hill,4822,192,4822,2
+Queens,Sunnyside,4799,226,4799,3
+Bronx,Co-Op City,4794,51,4794,2
+Manhattan,Randalls Island,4781,194,4781,2
+Queens,Oakland Gardens,4760,175,4760,1

@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,West Village,11019,249,11019,3
+Manhattan,Lenox Hill West,10412,141,10412,3
+Manhattan,Washington Heights North,10323,243,10323,2
+Manhattan,Lower East Side,10220,148,10220,3
+Queens,Elmhurst/Maspeth,10214,83,10214,2

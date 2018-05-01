@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Jackson Heights,2442,129,2442,3
+Queens,Far Rockaway,2391,86,2391,1
+Manhattan,West Chelsea/Hudson Yards,2380,246,2380,4
+Manhattan,TriBeCa/Civic Center,2378,231,2378,4
+Queens,Queensbridge/Ravenswood,2354,193,2354,3

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Park Slope,306739,181,306739,1
+Manhattan,Manhattan Valley,299862,151,299862,2
+Queens,JFK Airport,294246,132,294246,2
+Manhattan,SoHo,290192,211,290192,2
+Manhattan,Battery Park City,286792,13,286792,2

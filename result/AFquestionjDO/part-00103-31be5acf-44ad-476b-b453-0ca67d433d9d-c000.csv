@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Starrett City,2139,222,2139,2
+Manhattan,Flatiron,2111,90,2111,4
+Manhattan,Lower East Side,2096,148,2096,4
+Manhattan,East Harlem South,2083,75,2083,4
+Unknown,NA,2069,265,2069,4

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Green-Wood Cemetery,995,111,995,1
+Brooklyn,Flatbush/Ditmas Park,975,89,975,3
+Manhattan,Two Bridges/Seward Park,974,232,974,4
+Queens,Baisley Park,965,10,965,3
+Staten Island,Stapleton,957,221,957,2

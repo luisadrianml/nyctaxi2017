@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Clinton West,1318546,50,1318546
+Queens,LaGuardia Airport,1315007,138,1315007

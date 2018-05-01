@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Starrett City,824,222,824
+Staten Island,Bloomfield/Emerson Hill,592,23,592

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Bayside,6856,16,6856,2
+Queens,Jamaica Estates,6804,131,6804,2
+Bronx,Bedford Park,6793,18,6793,1
+Brooklyn,Homecrest,6775,123,6775,2
+Bronx,Soundview/Castle Hill,6746,213,6746,1
+Bronx,Schuylerville/Edgewater Park,6736,208,6736,2

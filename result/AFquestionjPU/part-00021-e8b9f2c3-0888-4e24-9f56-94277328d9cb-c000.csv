@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Astoria,113665,7,113665,2
+Manhattan,Chinatown,105420,45,105420,2
+Queens,Sunnyside,104382,226,104382,2
+Brooklyn,Downtown Brooklyn/MetroTech,100138,65,100138,1
+Brooklyn,Williamsburg (North Side),99377,255,99377,1

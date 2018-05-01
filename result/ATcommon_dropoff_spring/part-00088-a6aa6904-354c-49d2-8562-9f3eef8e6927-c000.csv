@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Maspeth,10886,157,10886
+Brooklyn,South Williamsburg,10666,217,10666

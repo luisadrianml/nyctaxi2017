@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Upper East Side South,855040,237,855040
+Manhattan,Midtown East,845672,162,845672

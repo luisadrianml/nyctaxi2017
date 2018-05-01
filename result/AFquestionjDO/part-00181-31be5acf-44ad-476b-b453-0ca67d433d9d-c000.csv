@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Columbia Street,40,54,40,4
+Queens,Corona,39,57,39,4
+Queens,East Flushing,39,73,39,4
+Queens,Bay Terrace/Fort Totten,39,15,39,4
+Queens,Astoria Park,38,8,38,3

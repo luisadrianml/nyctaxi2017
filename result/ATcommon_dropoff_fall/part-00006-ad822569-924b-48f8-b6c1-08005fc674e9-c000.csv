@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Clinton East,757389,48,757389
+Manhattan,Lincoln Square East,744599,142,744599

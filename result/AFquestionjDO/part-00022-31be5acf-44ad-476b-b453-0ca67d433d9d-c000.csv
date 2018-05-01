@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Central Harlem North,199342,42,199342,2
+Manhattan,Hamilton Heights,195904,116,195904,1
+Manhattan,Alphabet City,194252,4,194252,2
+Unknown,NA,193693,265,193693,1
+Manhattan,Chinatown,181121,45,181121,1

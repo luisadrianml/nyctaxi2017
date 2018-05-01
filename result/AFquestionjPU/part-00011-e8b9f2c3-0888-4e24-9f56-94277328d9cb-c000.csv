@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Battery Park City,807712,13,807712,1
+Manhattan,Gramercy,717110,107,717110,2
+Manhattan,Clinton West,702300,50,702300,1
+Manhattan,Sutton Place/Turtle Bay North,697234,229,697234,2
+Manhattan,Financial District North,673895,87,673895,1
+Manhattan,Upper West Side North,673629,238,673629,2

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,East Flatbush/Farragut,1225,71,1225
+Bronx,Bedford Park,1215,18,1215

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Co-Op City,619,51,619
+Bronx,Woodlawn/Wakefield,615,259,615

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Financial District South,460230,88,460230
+Manhattan,East Harlem North,411489,74,411489

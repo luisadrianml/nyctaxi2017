@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Queensboro Hill,113,192,113,3
+Brooklyn,Cobble Hill,113,52,113,4
+Queens,Cambria Heights,112,38,112,3
+Brooklyn,Canarsie,112,39,112,4
+Bronx,Mount Hope,111,169,111,4

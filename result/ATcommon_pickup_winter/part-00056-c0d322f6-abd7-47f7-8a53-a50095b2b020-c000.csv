@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Cobble Hill,16744,52,16744
+Queens,Jackson Heights,16614,129,16614

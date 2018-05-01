@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Gramercy,2396439,107,2396439
+Manhattan,Upper West Side North,2237984,238,2237984

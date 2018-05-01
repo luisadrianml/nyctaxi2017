@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Bronx,Melrose South,34,159,34,4
+Brooklyn,Dyker Heights,34,67,34,3
+Queens,Bayside,34,16,34,3

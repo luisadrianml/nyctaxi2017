@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Woodside,26354,260,26354
+Brooklyn,Prospect Heights,25708,189,25708

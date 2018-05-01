@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Broad Channel,217,30,217,2
+Brooklyn,DUMBO/Vinegar Hill,217,66,217,4
+Queens,Flushing,212,92,212,4
+Bronx,Schuylerville/Edgewater Park,208,208,208,3
+Bronx,East Tremont,207,78,207,3

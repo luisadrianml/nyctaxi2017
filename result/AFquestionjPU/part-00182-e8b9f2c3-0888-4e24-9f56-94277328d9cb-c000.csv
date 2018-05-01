@@ -1,0 +1,27 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Broad Channel,1,30,1,4
+Staten Island,Oakwood,1,176,1,3
+Queens,Far Rockaway,1,86,1,4
+Queens,Rockaway Park,1,201,1,4
+Manhattan,Lenox Hill West,1,141,1,5
+Manhattan,Governor's Island/Ellis Island/Liberty Island,1,104,1,1
+Staten Island,West Brighton,1,245,1,3
+Queens,Hollis,1,122,1,4
+Manhattan,Lenox Hill East,1,140,1,5
+Staten Island,Port Richmond,1,187,1,3
+Queens,Bay Terrace/Fort Totten,1,15,1,4
+Bronx,Crotona Park,1,59,1,3
+Staten Island,Great Kills,1,109,1,4
+Manhattan,Governor's Island/Ellis Island/Liberty Island,1,103,1,1
+Staten Island,South Beach/Dongan Hills,1,214,1,4
+Staten Island,Mariners Harbor,1,156,1,4
+Bronx,Pelham Bay Park,1,184,1,4
+Bronx,Crotona Park,1,59,1,4
+Bronx,City Island,1,46,1,3
+Queens,Jamaica Bay,1,2,1,3
+Bronx,Co-Op City,1,51,1,4
+Queens,Forest Park/Highland Park,1,96,1,4
+Manhattan,East Harlem North,1,74,1,5
+Bronx,Allerton/Pelham Gardens,1,3,1,4
+Staten Island,Heartland Village/Todt Hill,1,118,1,4
+Bronx,Eastchester,1,81,1,4

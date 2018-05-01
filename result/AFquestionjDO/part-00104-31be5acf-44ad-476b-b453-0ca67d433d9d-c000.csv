@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Marble Hill,2062,153,2062,2
+Bronx,Mott Haven/Port Morris,2043,168,2043,3
+Queens,Steinway,2038,223,2038,3
+Manhattan,UN/Turtle Bay South,2023,233,2023,4
+Manhattan,Clinton West,2023,50,2023,4

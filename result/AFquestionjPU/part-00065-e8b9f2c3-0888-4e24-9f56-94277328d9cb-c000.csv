@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Greenwich Village North,2134,113,2134,4
+Queens,Corona,2100,56,2100,2
+Manhattan,Lenox Hill East,2064,140,2064,4
+Queens,Richmond Hill,2029,197,2029,2
+Queens,Queensbridge/Ravenswood,2025,193,2025,3

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,East Village,552277,79,552277
+Manhattan,Clinton East,408921,48,408921

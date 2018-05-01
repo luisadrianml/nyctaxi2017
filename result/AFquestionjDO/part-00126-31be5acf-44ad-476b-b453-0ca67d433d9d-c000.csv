@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Bloomingdale,549,24,549,4
+Brooklyn,Crown Heights North,546,61,546,4
+Queens,Flushing Meadows-Corona Park,546,93,546,3
+Staten Island,Oakwood,542,176,542,1
+Queens,Steinway,536,223,536,4
+Queens,Maspeth,536,157,536,3

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Lincoln Square West,4468,143,4468,3
+Brooklyn,East New York/Pennsylvania Avenue,4423,77,4423,2
+Queens,Queens Village,4422,191,4422,1
+Brooklyn,Brooklyn Navy Yard,4393,34,4393,2
+Bronx,Bronxdale,4367,32,4367,2
+Bronx,Longwood,4362,147,4362,1

@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Van Cortlandt Park,1804,240,1804,1
+Queens,Rockaway Park,1801,201,1801,2
+Manhattan,East Harlem North,1786,74,1786,4
+Manhattan,Kips Bay,1763,137,1763,4
+Manhattan,Greenwich Village North,1759,113,1759,4
+Manhattan,Inwood Hill Park,1749,128,1749,2

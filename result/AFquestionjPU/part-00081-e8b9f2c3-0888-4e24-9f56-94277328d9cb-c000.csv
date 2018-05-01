@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Hudson Sq,828,125,828,4
+Bronx,Westchester Village/Unionport,827,250,827,2
+Queens,Astoria Park,823,8,823,1
+Bronx,Van Nest/Morris Park,814,242,814,2
+Queens,Long Island City/Hunters Point,805,145,805,4

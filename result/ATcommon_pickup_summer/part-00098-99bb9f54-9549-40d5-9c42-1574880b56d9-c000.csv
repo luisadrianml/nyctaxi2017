@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Corona,977,56,977
+Brooklyn,Windsor Terrace,959,257,959

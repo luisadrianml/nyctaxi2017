@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Seaport,153619,209,153619,1
+Manhattan,Chinatown,153254,45,153254,1
+Manhattan,Financial District South,142591,88,142591,2
+Manhattan,Two Bridges/Seward Park,139649,232,139649,1
+Manhattan,Bloomingdale,120769,24,120769,2

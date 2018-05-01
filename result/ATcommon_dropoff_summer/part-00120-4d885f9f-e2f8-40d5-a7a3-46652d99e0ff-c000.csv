@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Bedford Park,3987,18,3987
+Queens,Glendale,3982,102,3982

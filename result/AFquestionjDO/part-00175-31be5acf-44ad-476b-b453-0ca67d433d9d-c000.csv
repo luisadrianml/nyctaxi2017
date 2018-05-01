@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Corona,58,57,58,3
+Queens,Rockaway Park,58,201,58,3
+Brooklyn,East New York/Pennsylvania Avenue,58,77,58,4
+Bronx,Van Cortlandt Park,58,240,58,3
+Brooklyn,Bensonhurst East,57,21,57,4
+Bronx,Van Nest/Morris Park,56,242,56,4

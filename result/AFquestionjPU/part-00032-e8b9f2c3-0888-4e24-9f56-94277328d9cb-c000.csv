@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Times Sq/Theatre District,21399,230,21399,3
+Brooklyn,Carroll Gardens,21319,40,21319,2
+Manhattan,Penn Station/Madison Sq West,20784,186,20784,3
+Brooklyn,Prospect Heights,20773,189,20773,1
+Manhattan,Clinton East,19949,48,19949,3

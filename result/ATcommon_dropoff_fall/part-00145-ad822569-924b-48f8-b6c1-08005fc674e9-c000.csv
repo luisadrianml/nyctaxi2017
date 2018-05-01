@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,East Tremont,2252,78,2252
+Brooklyn,Coney Island,2241,55,2241

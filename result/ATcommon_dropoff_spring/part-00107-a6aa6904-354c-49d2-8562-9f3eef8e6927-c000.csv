@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Midwood,5727,165,5727
+Brooklyn,Bensonhurst West,5532,22,5532

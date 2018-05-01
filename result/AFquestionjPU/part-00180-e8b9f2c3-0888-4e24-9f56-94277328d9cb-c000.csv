@@ -1,0 +1,12 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Oakland Gardens,3,175,3,4
+Staten Island,Stapleton,3,221,3,4
+Staten Island,Rossville/Woodrow,3,204,3,3
+Staten Island,New Dorp/Midland Beach,3,172,3,3
+Queens,Hammels/Arverne,3,117,3,4
+Queens,Willets Point,3,253,3,4
+Staten Island,South Beach/Dongan Hills,3,214,3,3
+Queens,Fresh Meadows,3,98,3,4
+Queens,Douglaston,3,64,3,4
+Manhattan,Governor's Island/Ellis Island/Liberty Island,3,105,3,4
+Staten Island,Great Kills Park,3,110,3,2

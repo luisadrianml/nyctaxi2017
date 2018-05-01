@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,East New York/Pennsylvania Avenue,2118,77,2118
+Queens,Laurelton,2040,139,2040

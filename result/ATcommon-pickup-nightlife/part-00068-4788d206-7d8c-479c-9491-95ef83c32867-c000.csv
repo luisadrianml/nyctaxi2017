@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Gowanus,3939,106,3939
+Manhattan,Washington Heights North,3668,243,3668

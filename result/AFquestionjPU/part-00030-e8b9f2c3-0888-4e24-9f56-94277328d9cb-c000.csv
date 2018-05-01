@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Old Astoria,33336,179,33336,1
+Queens,Queensbridge/Ravenswood,30313,193,30313,2
+Manhattan,Battery Park,26638,12,26638,2
+Manhattan,Battery Park,26519,12,26519,1
+Queens,Queensbridge/Ravenswood,24311,193,24311,1

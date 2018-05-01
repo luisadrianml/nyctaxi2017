@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Brooklyn,Park Slope,73398,181,73398
+Brooklyn,Williamsburg (North Side),73341,255,73341

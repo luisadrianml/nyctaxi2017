@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Little Italy/NoLiTa,2001,144,2001,4
+Manhattan,Clinton West,1961,50,1961,4
+Manhattan,Randalls Island,1934,194,1934,2
+Manhattan,West Chelsea/Hudson Yards,1916,246,1916,4
+Manhattan,Central Park,1911,43,1911,4

@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Sunset Park West,1890,228,1890
+Queens,Elmhurst/Maspeth,1847,83,1847

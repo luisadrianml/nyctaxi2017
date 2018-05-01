@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Upper West Side North,126931,238,126931
+Manhattan,SoHo,120901,211,120901

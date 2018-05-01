@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Homecrest,1434,123,1434
+Bronx,Van Nest/Morris Park,1429,242,1429

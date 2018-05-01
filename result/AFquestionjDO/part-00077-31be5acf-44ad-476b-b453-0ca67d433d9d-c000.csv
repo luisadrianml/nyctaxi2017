@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Brownsville,5370,35,5370,1
+Manhattan,Meatpacking/West Village West,5353,158,5353,3
+Manhattan,Central Park,5335,43,5335,3
+Manhattan,Clinton East,5292,48,5292,4
+Brooklyn,Cypress Hills,5247,63,5247,1
+Queens,Laurelton,5245,139,5245,2

@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Hillcrest/Pomonok,7960,121,7960,2
+Manhattan,Flatiron,7946,90,7946,3
+Bronx,West Farms/Bronx River,7861,248,7861,2
+Queens,Jamaica Estates,7677,131,7677,1
+Bronx,University Heights/Morris Heights,7572,235,7572,1

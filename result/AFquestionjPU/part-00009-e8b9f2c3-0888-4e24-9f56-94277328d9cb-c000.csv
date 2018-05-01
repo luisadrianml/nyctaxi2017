@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Central Park,948056,43,948056,1
+Manhattan,Garment District,933661,100,933661,2
+Manhattan,Upper West Side South,914461,239,914461,2
+Manhattan,Midtown South,901623,164,901623,2
+Manhattan,East Village,897295,79,897295,2

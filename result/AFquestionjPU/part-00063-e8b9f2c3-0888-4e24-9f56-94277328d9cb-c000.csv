@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Long Island City/Queens Plaza,2495,146,2495,3
+Queens,Springfield Gardens South,2461,219,2461,2
+Manhattan,Roosevelt Island,2408,202,2408,2
+Brooklyn,Prospect Park,2378,190,2378,2
+Brooklyn,Windsor Terrace,2371,257,2371,1

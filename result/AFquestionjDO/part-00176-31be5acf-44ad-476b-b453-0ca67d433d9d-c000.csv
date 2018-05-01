@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Marine Park/Mill Basin,53,155,53,4
+Queens,Rosedale,51,203,51,4
+Brooklyn,Homecrest,51,123,51,4
+Manhattan,Randalls Island,50,194,50,4
+Queens,Whitestone,50,252,50,4

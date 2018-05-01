@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Bronx,Fordham South,2137,94,2137
+Bronx,Co-Op City,2127,51,2127

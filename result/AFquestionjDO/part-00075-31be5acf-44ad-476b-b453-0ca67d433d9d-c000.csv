@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Little Italy/NoLiTa,5757,144,5757,3
+Queens,Saint Michaels Cemetery/Woodside,5626,207,5626,2
+Bronx,Williamsbridge/Olinville,5617,254,5617,2
+Manhattan,Greenwich Village South,5615,114,5615,3
+Brooklyn,Bensonhurst East,5510,21,5510,2

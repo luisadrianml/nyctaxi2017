@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Woodlawn/Wakefield,6416,259,6416,2
+Queens,Howard Beach,6355,124,6355,2
+Brooklyn,East Flatbush/Remsen Village,6351,72,6351,1
+Brooklyn,Marine Park/Mill Basin,6337,155,6337,2
+Queens,College Point,6325,53,6325,2

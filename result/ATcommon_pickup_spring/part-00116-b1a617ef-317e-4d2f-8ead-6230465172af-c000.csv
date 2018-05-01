@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Bensonhurst West,403,22,403
+Bronx,Claremont/Bathgate,394,47,394

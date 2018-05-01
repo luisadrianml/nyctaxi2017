@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,East Harlem South,300717,75,300717
+Manhattan,Greenwich Village South,291850,114,291850

@@ -1,0 +1,4 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Inwood Hill Park,1739,128,1739
+Queens,Saint Michaels Cemetery/Woodside,1711,207,1711
+Queens,Corona,1711,57,1711

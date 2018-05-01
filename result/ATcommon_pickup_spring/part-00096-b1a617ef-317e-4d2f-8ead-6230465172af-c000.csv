@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Roosevelt Island,1374,202,1374
+Queens,Ridgewood,1252,198,1252

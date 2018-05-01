@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Brooklyn,Gowanus,7911,106,7911,2
+Manhattan,Lenox Hill East,7835,140,7835,3
+Manhattan,Yorkville West,7630,263,7630,3
+Manhattan,Greenwich Village North,7599,113,7599,3
+Manhattan,Greenwich Village South,7344,114,7344,3

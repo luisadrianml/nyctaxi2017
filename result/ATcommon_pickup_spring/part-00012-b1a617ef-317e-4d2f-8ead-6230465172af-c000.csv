@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Midtown South,719692,164,719692
+Manhattan,East Chelsea,703623,68,703623

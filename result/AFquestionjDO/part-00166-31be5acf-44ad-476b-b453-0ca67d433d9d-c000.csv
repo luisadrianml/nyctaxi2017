@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Douglaston,90,64,90,3
+Queens,Laurelton,88,139,88,3
+Bronx,Van Cortlandt Village,86,241,86,4
+Queens,Glen Oaks,85,101,85,3
+Queens,Kew Gardens,83,134,83,4

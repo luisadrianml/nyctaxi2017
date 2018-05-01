@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Brooklyn,Carroll Gardens,66085,40,66085
+Brooklyn,Greenpoint,64198,112,64198

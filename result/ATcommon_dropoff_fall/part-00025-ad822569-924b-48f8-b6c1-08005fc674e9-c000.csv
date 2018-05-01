@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Central Park,335875,43,335875
+Manhattan,Clinton West,325831,50,325831

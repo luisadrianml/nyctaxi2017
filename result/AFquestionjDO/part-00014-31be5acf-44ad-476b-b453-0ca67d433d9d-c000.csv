@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,West Village,489169,249,489169,2
+Manhattan,East Harlem North,488761,74,488761,1
+Manhattan,Flatiron,461082,90,461082,2
+Manhattan,Greenwich Village North,446286,113,446286,2
+Manhattan,Hudson Sq,444664,125,444664,1

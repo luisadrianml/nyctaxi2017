@@ -1,0 +1,4 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Bronx,Bedford Park,345,18,345
+Brooklyn,East Flatbush/Farragut,345,71,345
+Queens,Woodhaven,345,258,345

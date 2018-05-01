@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,Forest Hills,3773,95,3773
+Queens,East Elmhurst,3745,70,3745

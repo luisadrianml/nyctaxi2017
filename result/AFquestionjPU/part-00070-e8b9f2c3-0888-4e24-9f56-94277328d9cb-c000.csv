@@ -1,0 +1,7 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Flushing,1673,92,1673,1
+Bronx,Morrisania/Melrose,1593,167,1593,2
+Manhattan,Bloomingdale,1564,24,1564,3
+Bronx,Highbridge,1558,119,1558,1
+Brooklyn,Greenpoint,1550,112,1550,3
+Brooklyn,Windsor Terrace,1542,257,1542,2

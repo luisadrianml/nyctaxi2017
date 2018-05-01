@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Kensington,23081,133,23081,1
+Queens,East Elmhurst,22996,70,22996,1
+Bronx,West Concourse,22858,247,22858,1
+Brooklyn,South Williamsburg,22772,217,22772,2
+Queens,East Elmhurst,22069,70,22069,2

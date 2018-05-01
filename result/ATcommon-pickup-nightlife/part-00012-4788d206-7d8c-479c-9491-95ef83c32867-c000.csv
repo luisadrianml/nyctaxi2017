@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Queens,JFK Airport,250899,132,250899
+Manhattan,Flatiron,246239,90,246239

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Queens,Middle Village,6556,160,6556
+Queens,Baisley Park,6488,10,6488

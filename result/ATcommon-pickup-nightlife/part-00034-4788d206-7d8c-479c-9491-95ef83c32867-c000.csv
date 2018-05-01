@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,Yorkville East,56555,262,56555
+Manhattan,World Trade Center,55048,261,55048

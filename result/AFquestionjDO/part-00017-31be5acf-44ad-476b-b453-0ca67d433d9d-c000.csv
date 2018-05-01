@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Greenwich Village South,347773,114,347773,2
+Manhattan,Little Italy/NoLiTa,341497,144,341497,2
+Manhattan,Two Bridges/Seward Park,331820,232,331820,1
+Manhattan,Financial District South,321802,88,321802,1
+Queens,Astoria,319920,7,319920,1

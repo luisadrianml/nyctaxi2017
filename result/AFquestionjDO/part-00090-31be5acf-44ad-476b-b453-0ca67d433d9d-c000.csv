@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Bellerose,3553,19,3553,2
+Queens,Ozone Park,3535,180,3535,1
+Manhattan,East Village,3533,79,3533,4
+Manhattan,Union Sq,3515,234,3515,4
+Queens,Corona,3469,57,3469,2

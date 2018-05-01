@@ -1,0 +1,6 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Queens,Auburndale,3033,9,3033,2
+Manhattan,Hudson Sq,3021,125,3021,3
+Manhattan,Upper West Side South,3006,239,3006,4
+Bronx,Allerton/Pelham Gardens,3001,3,3001,2
+Manhattan,Lenox Hill West,2993,141,2993,4

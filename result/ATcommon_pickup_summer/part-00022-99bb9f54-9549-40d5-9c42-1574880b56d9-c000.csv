@@ -1,0 +1,3 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID)
+Manhattan,West Chelsea/Hudson Yards,403528,246,403528
+Manhattan,UN/Turtle Bay South,376317,233,376317

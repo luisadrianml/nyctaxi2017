@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Jamaica,3799,130,3799,2
+Queens,Briarwood/Jamaica Hills,3751,28,3751,1
+Manhattan,East Harlem North,3742,74,3742,3
+Manhattan,Upper West Side South,3594,239,3594,4
+Queens,Rego Park,3555,196,3555,1

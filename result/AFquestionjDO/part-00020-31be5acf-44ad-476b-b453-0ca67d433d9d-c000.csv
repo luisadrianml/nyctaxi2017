@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Brooklyn,Brooklyn Heights,257615,33,257615,1
+Queens,LaGuardia Airport,249678,138,249678,2
+Manhattan,Bloomingdale,238977,24,238977,1
+Queens,Long Island City/Hunters Point,237998,145,237998,1
+Brooklyn,Williamsburg (South Side),232438,256,232438,1
+Brooklyn,Greenpoint,220183,112,220183,1

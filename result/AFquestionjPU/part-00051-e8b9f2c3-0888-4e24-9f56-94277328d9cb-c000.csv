@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Manhattan,Yorkville East,4687,262,4687,3
+Brooklyn,Flatbush/Ditmas Park,4681,89,4681,2
+Brooklyn,South Williamsburg,4655,217,4655,1
+Manhattan,East Harlem South,4600,75,4600,3
+Manhattan,Murray Hill,4580,170,4580,4

@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Financial District North,130790,87,130790
+Manhattan,East Harlem South,130505,75,130505

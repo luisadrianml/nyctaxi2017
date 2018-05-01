@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Gramercy,622700,107,622700,2
+Manhattan,Lenox Hill East,613233,140,613233,2
+Manhattan,Manhattan Valley,596544,151,596544,1
+Manhattan,Morningside Heights,586292,166,586292,1
+Manhattan,West Chelsea/Hudson Yards,582164,246,582164,2
+Manhattan,Yorkville West,579206,263,579206,2

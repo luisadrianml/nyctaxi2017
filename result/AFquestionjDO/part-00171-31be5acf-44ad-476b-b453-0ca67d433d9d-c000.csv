@@ -1,0 +1,5 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,Claremont/Bathgate,69,47,69,4
+Bronx,Allerton/Pelham Gardens,69,3,69,3
+Bronx,Fordham South,69,94,69,4
+Brooklyn,Coney Island,68,55,68,4

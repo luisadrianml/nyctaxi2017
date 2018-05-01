@@ -1,0 +1,3 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID)
+Manhattan,Manhattanville,49679,152,49679
+Brooklyn,Bedford,46311,17,46311

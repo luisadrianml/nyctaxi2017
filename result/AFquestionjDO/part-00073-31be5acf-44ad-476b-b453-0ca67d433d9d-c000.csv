@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Bronx,East Tremont,6264,78,6264,2
+Bronx,Norwood,6169,174,6169,2
+Brooklyn,Marine Park/Mill Basin,6107,155,6107,1
+Queens,Fresh Meadows,6051,98,6051,2
+Brooklyn,Sheepshead Bay,6003,210,6003,1
+Bronx,Van Nest/Morris Park,5968,242,5968,1

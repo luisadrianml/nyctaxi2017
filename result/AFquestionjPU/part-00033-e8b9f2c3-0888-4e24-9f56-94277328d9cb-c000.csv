@@ -1,0 +1,6 @@
+PU_Borough,PU_Zone,count(PU_Zone),PULocationID,count(PULocationID),payment_type
+Queens,Jackson Heights,19539,129,19539,1
+Brooklyn,Cobble Hill,18709,52,18709,2
+Manhattan,Midtown Center,18356,161,18356,3
+Brooklyn,Clinton Hill,18038,49,18038,2
+Manhattan,Upper East Side South,17525,237,17525,3

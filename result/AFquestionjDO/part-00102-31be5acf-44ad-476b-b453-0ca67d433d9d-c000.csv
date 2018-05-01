@@ -1,0 +1,7 @@
+DO_Borough,DO_Zone,count(DO_Zone),DOLocationID,count(DOLocationID),payment_type
+Manhattan,Hamilton Heights,2217,116,2217,3
+Manhattan,Lenox Hill East,2212,140,2212,4
+Manhattan,West Village,2208,249,2208,4
+Manhattan,Highbridge Park,2170,120,2170,2
+Manhattan,Yorkville West,2154,263,2154,4
+Manhattan,Chinatown,2141,45,2141,3
