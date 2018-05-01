@@ -83,24 +83,8 @@ object NYCTaxi2017 {
         
         val temp1 = temp.withColumn("DOMonth", month(temp("tpep_dropoff_datetime"))).withColumn("DODay",dayofmonth(temp("tpep_dropoff_datetime"))).withColumn("DOWeekday",date_format(temp("tpep_dropoff_datetime"),"EEEE")).withColumn("DOHour",hour(temp("tpep_dropoff_datetime"))).withColumn("DOMinute",minute(temp("tpep_dropoff_datetime"))).withColumn("trip_duration",diff_secs_col)
         
-//////////////////////////// Deleting mistakes of years
+//////////////////////////// Deleting bad years
         val temp2 = temp1.filter(year($"tpep_pickup_datetime").equalTo(2017)).filter(year($"tpep_dropoff_datetime").equalTo(2017))
-        
-        
-////////////// EXAMPLE OF WHAT I ENCOUNTERED (If you do count of all and only count =2017, difference is 1896. It means, 1896 values do not have 2017 as year.)
-//        spark.sql("select count(*) from data where year(tpep_dropoff_datetime)>2017").show
-//+--------+                                                                      
-//|count(1)|
-//+--------+
-//|    1778|
-//+--------+
-//        +--------+--------------------+---------------------+---------------+-------------+----------+------------------+------------+------------+------------+-----------+-----+-------+----------+------------+---------------------+------------+----------+--------------------+----------+--------------------+-------+-----+---------+------+--------+-------+-----+---------+------+--------+-------------+
-//|VendorID|tpep_pickup_datetime|tpep_dropoff_datetime|passenger_count|Trip_distance|RatecodeID|store_and_fwd_flag|PULocationID|DOLocationID|payment_type|fare_amount|extra|mta_tax|tip_amount|tolls_amount|improvement_surcharge|total_amount|PU_Borough|             PU_Zone|DO_Borough|             DO_Zone|PUMonth|PUDay|PUWeekday|PUHour|PUMinute|DOMonth|DODay|DOWeekday|DOHour|DOMinute|trip_duration|
-//+--------+--------------------+---------------------+---------------+-------------+----------+------------------+------------+------------+------------+-----------+-----+-------+----------+------------+---------------------+------------+----------+--------------------+----------+--------------------+-------+-----+---------+------+--------+-------+-----+---------+------+--------+-------------+
-//|       2| 2053-03-21 16:47:33|  2053-03-21 16:52:21|              3|         0.76|         1|                 N|          33|          66|           2|        5.0|  0.0|    0.5|       0.0|         0.0|                  0.3|         5.8|  Brooklyn|    Brooklyn Heights|  Brooklyn|  DUMBO/Vinegar Hill|      3|   21|   Friday|    16|      47|      3|   21|   Friday|    16|      52|          288|
-//|       2| 2018-02-04 07:36:28|  2018-02-04 15:42:57|              1|        17.97|         2|                 N|         132|         162|           1|       52.0|  0.0|    0.5|     10.56|         0.0|                  0.3|       63.36|    Queens|         JFK Airport| Manhattan|        Midtown East|      2|    4|   Sunday|     7|      36|      2|    4|   Sunday|    15|      42|        29189|
-//|       2| 2018-02-25 15:50:32|  2018-02-25 15:53:30|              1|         0.34|         1|                 N|         161|         230|           2|        4.0|  0.0|    0.5|       0.0|         0.0|                  0.3|         4.8| Manhattan|      Midtown Center| Manhattan|Times Sq/Theatre ...|      2|   25|   Sunday|    15|      50|      2|   25|   Sunday|    15|      53|          178|
-//|       2| 2018-02-25 15:59:25|  2018-02-25 16:06:36|              1|         0.91|         1|                 N|         230|         186|           1|        6.5|  0.0|    0.5|      1.46|         0.0|                  0.3|        8.76| Manhattan|Times Sq/Theatre ...| Manhattan|Penn Station/Madi...|      2|   25|   Sunday|    15|      59|      2|   25|   Sunday|    16|       6|          431|
         
         temp2.createOrReplaceTempView("data")
 
@@ -125,19 +109,24 @@ object NYCTaxi2017 {
                 val t1 = System.nanoTime()
                 TimeRunningNanoSecond += ("AO-distancetravelled"->(t1 - t0))
 
-        
+        /// AVG of Trip distance
         spark.sql("SELECT AVG(Trip_distance) from data")
             // Most and least fare collected
                 val t0 = System.nanoTime()
             temp2.agg(max(temp2("total_amount")),min(temp2("total_amount"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOfarecollected")
                 val t1 = System.nanoTime()
                 TimeRunningNanoSecond += ("AO-farecollected"->(t1 - t0))
+        
+        /// AVG of total_amount
+        spark.sql("SELECT AVG(total_amount) from data")
 
             // Most and least time travelled
                 val t0 = System.nanoTime()
             temp2.agg(max(temp2("trip_duration")),min(temp2("trip_duration"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOtimetravelled")
                 val t1 = System.nanoTime()
                 TimeRunningNanoSecond += ("AO-timetravelled"->(t1 - t0))
+        /// AVG of trip_duration
+        spark.sql("SELECT AVG(trip_duration) from data")
         
             // Efficiency
                 val t0 = System.nanoTime()
