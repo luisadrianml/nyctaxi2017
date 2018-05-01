@@ -13,10 +13,8 @@ object NYCTaxi2017 {
         val spark = new org.apache.spark.sql.SQLContext(sc)
 
         
-        /// Storage Unit
+        /// Storage Unit in Google Cloud
         val storageDirection = "gs://dataproc-1f071807-a7c0-44d8-9545-456bff2a82af-us/"
-        
-        /// Command to save .write.format("csv").option("header","true").save(storageDirection+"/results/")
         
         val schema = StructType(Array(
                       StructField("VendorID", IntegerType, true), 
@@ -45,13 +43,6 @@ object NYCTaxi2017 {
                       StructField("service_zone", StringType, true)
                       ))
         
-        // READING THE NYC Taxi Sample
-        // val allmonths = spark.read.option("header","true").schema(schema).csv(storageDirection + "/project/nSample1.csv/sample1.csv")
-        // allmonths.createOrReplaceTempView("allmonths")
-        
-        // READING THE NYC Taxi Sample Locally
-        // val allmonths = spark.read.option("header","true").schema(schema).csv("/project/sample1.csv")
-        // allmonths.createOrReplaceTempView("allmonths")
         
         // Reading the NYC Taxi DataSet
         val allmonths = spark.read.option("header","true").schema(schema).csv(storageDirection + "/*.csv")
@@ -61,10 +52,6 @@ object NYCTaxi2017 {
         // Reading the Taxi Zones
         val taxizone = spark.read.option("header","true").schema(schemaTaxiZone).csv(storageDirection + "taxizone/taxizone_lookup.csv")
         taxizone.createOrReplaceTempView("taxizone")
-        
-        // Reading the Taxi Zones LOCALLLY
-        // val taxizone = spark.read.option("header","true").schema(schemaTaxiZone).csv("project/taxizone.csv")
-        // taxizone.createOrReplaceTempView("taxizone")
         
         // Joined data
         var joined = spark.sql("SELECT * FROM allmonths LEFT OUTER JOIN taxizone ON allmonths.PULocationID = taxizone.LocationID")
@@ -93,10 +80,6 @@ object NYCTaxi2017 {
         
         /////// PREPARING CALCULATE TIME
         var TimeRunningNanoSecond:Map[String,Double] = Map()
-        
-        
-        
-        
         /////// END OF PREPARING CALCULATING TIME
 ///////////////////////// START OF BIG DATA ANALYSIS
         
@@ -105,28 +88,38 @@ object NYCTaxi2017 {
         
             // Most and least distance travelled
                 val t0 = System.nanoTime()
-            temp2.agg(max(temp2("Trip_distance")),min(temp2("Trip_distance"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOdistancetravelled")
+ temp2.agg(max(temp2("Trip_distance")),min(temp2("Trip_distance"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOdistancetravelled")
                 val t1 = System.nanoTime()
                 TimeRunningNanoSecond += ("AO-distancetravelled"->(t1 - t0))
 
-        /// AVG of Trip distance
-        spark.sql("SELECT AVG(Trip_distance) from data")
-            // Most and least fare collected
+            /// AVG of Trip distance
                 val t0 = System.nanoTime()
-            temp2.agg(max(temp2("total_amount")),min(temp2("total_amount"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOfarecollected")
+                spark.sql("SELECT AVG(Trip_distance) from data").write.format("csv").option("header","true").save(storageDirection+"/result/AOavgdistancetravelledtrips")
+                val t1 = System.nanoTime()
+                TimeRunningNanoSecond += ("AO-avgdistancetravelled"->(t1 - t0))
+        
+        
+            // Most and least fare collected
+                val t0 = System.nanoTime()    temp2.agg(max(temp2("total_amount")),min(temp2("total_amount"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOfarecollected")
                 val t1 = System.nanoTime()
                 TimeRunningNanoSecond += ("AO-farecollected"->(t1 - t0))
         
-        /// AVG of total_amount
-        spark.sql("SELECT AVG(total_amount) from data")
+                /// AVG of total_amount
+                val t0 = System.nanoTime() 
+                spark.sql("SELECT AVG(total_amount) from data").write.format("csv").option("header","true").save(storageDirection+"/result/AOavgtotalamountstrip")
+                val t1 = System.nanoTime()
+                TimeRunningNanoSecond += ("AO-avgtotalamounttrips"->(t1 - t0))
 
             // Most and least time travelled
-                val t0 = System.nanoTime()
-            temp2.agg(max(temp2("trip_duration")),min(temp2("trip_duration"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOtimetravelled")
+                val t0 = System.nanoTime()       temp2.agg(max(temp2("trip_duration")),min(temp2("trip_duration"))).write.format("csv").option("header","true").save(storageDirection+"/result/AOtimetravelled")
                 val t1 = System.nanoTime()
                 TimeRunningNanoSecond += ("AO-timetravelled"->(t1 - t0))
-        /// AVG of trip_duration
-        spark.sql("SELECT AVG(trip_duration) from data")
+        
+            /// AVG of trip_duration
+                val t0 = System.nanoTime() 
+                spark.sql("SELECT AVG(trip_duration) from data").write.format("csv").option("header","true").save(storageDirection+"/result/AOtripdurationtrips")
+                val t1 = System.nanoTime()
+                TimeRunningNanoSecond += ("AO-avgtripdurationtrips"->(t1 - t0))
         
             // Efficiency
                 val t0 = System.nanoTime()
