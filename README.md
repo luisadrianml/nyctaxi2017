@@ -7,6 +7,9 @@
 ### Obtaining Data
 Data can be downloaded from NYC TLC website. From NYC TLC data will be given by month (January, February, March...).
 
+Website to download: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+Website to download the taxi zone: https://s3.amazonaws.com/nyc-tlc/misc/taxi+_zone_lookup.csv
+
 ### Data
 1. 12 files (1 per month)
 2. 9.3GB of data
